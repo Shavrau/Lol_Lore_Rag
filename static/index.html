@@ -1,0 +1,1952 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>League of Legends &mdash; Lore Archive</title>
+  
+  <!-- Typography: Marcellus & Cinzel for titles, IBM Plex Sans for body, IBM Plex Mono for exact citations -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Marcellus&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  
+  <!-- Markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    /* =========================================================================
+       DESIGN SYSTEM: RUNETERRA UNIVERSE LORE ARCHIVE
+       Matches the high-craft League of Legends / Legends of Runeterra layout.
+       Zero unprompted neon glow, zero purple gradients, zero emojis-as-icons.
+       ========================================================================= */
+    :root {
+      --bg-abyss: #070a0f;
+      --bg-sidebar: #090e16;
+      --surface-card: #0d141f;
+      --surface-elevated: #121c2c;
+      --surface-input: #080d14;
+      --surface-hover: #182538;
+      
+      --gold-primary: #c8aa6e;
+      --gold-hover: #e4c88e;
+      --gold-dim: #785a28;
+      --gold-subtle: rgba(200, 170, 110, 0.22);
+      --gold-border: rgba(200, 170, 110, 0.35);
+
+      --hextech-blue: #0ac8b9;
+      --border-subtle: #162232;
+      --border-strong: #223247;
+
+      --text-gold: #f0e6d2;
+      --text-body: #d4dde7;
+      --text-secondary: #8f9eaf;
+      --text-muted: #556475;
+
+      --font-display: 'Cinzel', Georgia, serif;
+      --font-title: 'Marcellus', 'Cinzel', Georgia, serif;
+      --font-sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      --font-mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
+
+      --r-sm: 4px;
+      --r-md: 8px;
+      --r-lg: 14px;
+      --r-pill: 9999px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-abyss);
+      color: var(--text-body);
+      font-family: var(--font-sans);
+      font-size: 15px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+    }
+
+    /* =========================================================================
+       SIDEBAR (LEFT) - INTEGRATED ARTWORK BACKGROUND WITH SMOOTH FADE
+       ========================================================================= */
+    aside.app-sidebar {
+      width: 290px;
+      background: var(--bg-sidebar);
+      border-right: 1px solid var(--border-subtle);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 100vh;
+      z-index: 50;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Background image layer covering the sidebar */
+    aside.app-sidebar::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image: url('/static/img/side_art.jpg');
+      background-size: cover;
+      background-position: center bottom;
+      opacity: 0.65;
+      pointer-events: none;
+      z-index: 0;
+      filter: contrast(1.08) brightness(0.95);
+    }
+
+    /* Smooth gradient overlay: solid at the top header, translucent over buttons, open at bottom */
+    aside.app-sidebar::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        180deg,
+        var(--bg-sidebar) 0%,
+        rgba(9, 14, 22, 0.96) 20%,
+        rgba(9, 14, 22, 0.82) 42%,
+        rgba(9, 14, 22, 0.4) 68%,
+        rgba(9, 14, 22, 0.15) 86%,
+        rgba(9, 14, 22, 0.5) 100%
+      );
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    .sidebar-header {
+      padding: 26px 22px 20px;
+      border-bottom: 1px solid rgba(200, 170, 110, 0.14);
+      position: relative;
+      z-index: 2;
+      background: rgba(9, 14, 22, 0.7);
+      backdrop-filter: blur(6px);
+    }
+
+    .lol-logo-title {
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 20px;
+      color: var(--gold-primary);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      line-height: 1.15;
+    }
+
+    .lol-logo-title span {
+      font-size: 14px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    .lol-logo-sub {
+      font-family: var(--font-sans);
+      font-size: 12px;
+      color: var(--text-secondary);
+      letter-spacing: 0.05em;
+      margin-top: 4px;
+    }
+
+    /* Navigation Menu - Translucent cards seamlessly integrated with the artwork behind */
+    .sidebar-nav {
+      padding: 18px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .nav-tab-btn {
+      background: rgba(13, 20, 31, 0.72);
+      backdrop-filter: blur(8px);
+      border: 1px solid rgba(200, 170, 110, 0.1);
+      border-radius: var(--r-md);
+      padding: 12px 16px;
+      color: var(--text-secondary);
+      font-family: var(--font-sans);
+      font-size: 14.5px;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      text-align: left;
+      position: relative;
+      transition: all 0.2s ease;
+    }
+
+    .nav-tab-btn svg {
+      color: var(--text-muted);
+      flex-shrink: 0;
+      transition: color 0.15s ease;
+    }
+
+    .nav-tab-btn:hover {
+      background: rgba(24, 37, 56, 0.88);
+      border-color: rgba(200, 170, 110, 0.28);
+      color: var(--text-gold);
+    }
+
+    .nav-tab-btn:hover svg {
+      color: var(--gold-primary);
+    }
+
+    .nav-tab-btn.active {
+      background: rgba(18, 28, 44, 0.94);
+      border-color: rgba(200, 170, 110, 0.45);
+      color: var(--text-gold);
+      font-weight: 600;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+
+    .nav-tab-btn.active svg {
+      color: var(--gold-primary);
+    }
+
+    .nav-tab-btn.active::before {
+      content: "";
+      position: absolute;
+      left: -14px;
+      top: 6px;
+      bottom: 6px;
+      width: 3.5px;
+      background: var(--gold-primary);
+      border-radius: 0 2px 2px 0;
+    }
+
+    /* =========================================================================
+       MAIN WORKSPACE & EXPANSIVE INTEGRATED HERO ARTWORK
+       ========================================================================= */
+    main.app-main {
+      flex: 1;
+      height: 100vh;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      background: var(--bg-abyss);
+      position: relative;
+    }
+
+    /* =========================================================================
+       DYNAMIC REGIONAL BACKGROUND & CROSS-FADE LAYERS
+       Seamlessly transitions between regions and champion themes.
+       ========================================================================= */
+    .dynamic-bg-container {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 780px;
+      pointer-events: none;
+      z-index: 0;
+      overflow: hidden;
+    }
+
+    .dynamic-bg-layer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-size: cover;
+      background-position: center 25%;
+      opacity: 0;
+      transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+      will-change: opacity;
+    }
+
+    .dynamic-bg-layer.active {
+      opacity: 0.95;
+    }
+
+    /* Smooth organic gradient overlay fading into the dark chat section below */
+    main.app-main::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 780px;
+      background: linear-gradient(
+        180deg,
+        rgba(7, 10, 15, 0.0) 0%,
+        rgba(7, 10, 15, 0.12) 32%,
+        rgba(7, 10, 15, 0.45) 58%,
+        rgba(7, 10, 15, 0.85) 78%,
+        var(--bg-abyss) 96%,
+        var(--bg-abyss) 100%
+      );
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    /* =========================================================================
+       INITIAL LANDING VIEW (HOMEPAGE STATE)
+       Shows only the dragon banner + Title + Search bar in the marked area.
+       ========================================================================= */
+    .landing-hero-container {
+      position: relative;
+      z-index: 2;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 40px 0 36px 0;
+      max-width: 820px;
+      min-height: calc(100vh - 72px);
+    }
+
+    .hero-text-wrap {
+      margin-bottom: 24px;
+    }
+
+    .hero-headline {
+      font-family: var(--font-title);
+      font-size: 38px;
+      font-weight: 500;
+      color: var(--text-gold);
+      letter-spacing: 0.01em;
+      line-height: 1.25;
+    }
+
+    .hero-headline span.gold {
+      color: var(--gold-primary);
+    }
+
+    .hero-subtitle {
+      font-family: var(--font-sans);
+      font-size: 15.5px;
+      font-style: italic;
+      color: var(--text-secondary);
+      margin-top: 8px;
+    }
+
+    /* Central Content Views */
+    .view-container {
+      position: relative;
+      z-index: 2;
+      flex: 1;
+      max-width: 1320px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 0 44px 48px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      min-height: 100vh;
+    }
+
+    .tab-view {
+      display: none;
+      flex-direction: column;
+      gap: 22px;
+      width: 100%;
+      flex: 1;
+    }
+
+    .tab-view.active {
+      display: flex;
+    }
+
+    /* =========================================================================
+       SEARCH / QUERY INPUT (Pill Bar as in reference)
+       ========================================================================= */
+    .query-pill-bar {
+      background: var(--surface-card);
+      border: 1px solid var(--gold-border);
+      border-radius: var(--r-pill);
+      padding: 8px 10px 8px 20px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55);
+      transition: border-color 0.2s ease;
+      width: 100%;
+      max-width: 820px;
+    }
+
+    .query-pill-bar:focus-within {
+      border-color: var(--gold-hover);
+    }
+
+    .pill-star {
+      color: var(--gold-primary);
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+    }
+
+    input.pill-input {
+      flex: 1;
+      background: transparent;
+      border: none;
+      outline: none;
+      color: var(--text-gold);
+      font-family: var(--font-sans);
+      font-size: 15.5px;
+    }
+
+    input.pill-input::placeholder {
+      color: var(--text-muted);
+    }
+
+    button.pill-send-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: var(--gold-primary);
+      color: #070a0f;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: background-color 0.15s ease, transform 0.1s ease;
+    }
+
+    button.pill-send-btn:hover:not(:disabled) {
+      background: var(--gold-hover);
+      transform: scale(1.04);
+    }
+
+    button.pill-send-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    /* Quick Prompts under landing search bar */
+    .landing-quick-prompts {
+      margin-top: 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .quick-prompts-label {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--gold-primary);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .quick-prompt-chip {
+      background: rgba(13, 20, 31, 0.75);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-sm);
+      padding: 4px 10px;
+      font-size: 12px;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .quick-prompt-chip:hover {
+      border-color: var(--gold-border);
+      color: var(--text-gold);
+      background: var(--surface-hover);
+    }
+
+    /* Loading progress */
+    .chat-progress {
+      height: 2px;
+      width: 100%;
+      max-width: 820px;
+      background: rgba(200, 170, 110, 0.12);
+      overflow: hidden;
+      display: none;
+      border-radius: 1px;
+      margin-top: 8px;
+    }
+
+    .chat-progress.active {
+      display: block;
+    }
+
+    .chat-progress-fill {
+      height: 100%;
+      background: var(--gold-primary);
+      width: 32%;
+      animation: indeterminate 1.3s infinite ease-in-out;
+    }
+
+    @keyframes indeterminate {
+      0% { transform: translateX(-100%); width: 30%; }
+      50% { width: 60%; }
+      100% { transform: translateX(350%); width: 30%; }
+    }
+
+    /* =========================================================================
+       ACTIVE CONVERSATION VIEW (AFTER QUESTION SUBMITTED - STACKED PER SKETCH)
+       1. Pergunta (top) -> 2. Resposta -> 3. Chat -> 4. Fontes
+       ========================================================================= */
+    .chat-exchange-area {
+      display: none;
+      flex-direction: column;
+      gap: 22px;
+      margin-top: 24px;
+      width: 100%;
+      max-width: 980px;
+      margin-left: auto;
+      margin-right: auto;
+      animation: fadeInView 0.35s ease;
+    }
+
+    .chat-exchange-area.active {
+      display: flex;
+    }
+
+    @keyframes fadeInView {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* 1. PERGUNTA: User Question Banner (Full width across top) */
+    .user-bubble-row {
+      display: flex;
+      width: 100%;
+    }
+
+    .user-bubble {
+      background: var(--surface-card);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-md);
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      width: 100%;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+    }
+
+    .user-avatar-icon {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--surface-elevated);
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .user-text {
+      color: var(--text-gold);
+      font-size: 15.5px;
+      font-weight: 500;
+      line-height: 1.45;
+    }
+
+    /* 2. RESPOSTA: Answer Card Column */
+    .answer-column {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .answer-main-card {
+      background: var(--surface-card);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-lg);
+      padding: 24px 28px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      box-shadow: 0 10px 32px rgba(0, 0, 0, 0.5);
+    }
+
+    /* 3. CHAT: Intermediate Query Bar between Resposta and Fontes */
+    .chat-mid-prompt-bar {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      margin: 4px 0;
+    }
+
+    .chat-mid-prompt-bar .query-pill-bar {
+      max-width: 100%;
+      width: 100%;
+    }
+      box-shadow: 0 10px 32px rgba(0, 0, 0, 0.5);
+    }
+
+    .answer-prose {
+      font-size: 15.5px;
+      line-height: 1.75;
+      color: var(--text-body);
+    }
+
+    .answer-prose p {
+      margin-bottom: 14px;
+    }
+
+    .answer-prose p:last-child {
+      margin-bottom: 0;
+    }
+
+    .answer-prose h2, .answer-prose h3 {
+      font-family: var(--font-display);
+      color: var(--text-gold);
+      margin: 18px 0 8px;
+    }
+
+    .answer-prose ul, .answer-prose ol {
+      margin: 12px 0 16px 24px;
+    }
+
+    .answer-prose li {
+      margin-bottom: 6px;
+    }
+
+    /* In-line Citation Chip */
+    .cite-badge {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--gold-primary);
+      background: rgba(200, 170, 110, 0.12);
+      border: 1px solid var(--gold-subtle);
+      padding: 1px 6px;
+      border-radius: 3px;
+      margin: 0 3px;
+      cursor: pointer;
+      vertical-align: baseline;
+      text-decoration: none;
+    }
+
+    .cite-badge:hover {
+      background: var(--gold-primary);
+      color: #070a0f;
+    }
+
+    /* Answer Card Footer */
+    .answer-footer {
+      border-top: 1px solid var(--border-subtle);
+      padding-top: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .footer-sources-pills-label {
+      font-family: var(--font-display);
+      font-size: 11.5px;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .sources-chips-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .source-chip-pill {
+      background: var(--surface-elevated);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-sm);
+      padding: 5px 12px;
+      font-size: 12.5px;
+      font-family: var(--font-sans);
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s ease;
+    }
+
+    .source-chip-pill:hover {
+      border-color: var(--gold-primary);
+      color: var(--text-gold);
+    }
+
+    .source-chip-num {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--gold-primary);
+      font-weight: 600;
+    }
+
+    .answer-actions-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .actions-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .action-btn {
+      background: var(--surface-elevated);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-sm);
+      padding: 6px 14px;
+      font-size: 12.5px;
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s ease;
+    }
+
+    .action-btn:hover {
+      border-color: var(--gold-subtle);
+      color: var(--text-gold);
+    }
+
+    .action-btn.active {
+      border-color: var(--gold-primary);
+      color: var(--gold-primary);
+      background: rgba(200, 170, 110, 0.12);
+    }
+
+    /* 4. FONTES: Fontes Citadas Accordion Panel (Full width at bottom) */
+    .sources-sidebar-card {
+      background: var(--surface-card);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-lg);
+      padding: 22px 26px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      width: 100%;
+      box-shadow: 0 10px 32px rgba(0, 0, 0, 0.5);
+    }
+
+    .sources-sidebar-title {
+      font-family: var(--font-display);
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--gold-primary);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(200, 170, 110, 0.15);
+    }
+
+    .accordion-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .accordion-item {
+      background: var(--surface-elevated);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-md);
+      overflow: hidden;
+      transition: border-color 0.15s ease;
+    }
+
+    .accordion-item.open {
+      border-color: var(--gold-border);
+    }
+
+    .accordion-header {
+      padding: 11px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .accordion-header-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+
+    .accordion-num {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--gold-primary);
+    }
+
+    .accordion-title {
+      font-size: 13.5px;
+      font-weight: 500;
+      color: var(--text-gold);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .accordion-icon {
+      color: var(--text-muted);
+      transition: transform 0.2s ease;
+      flex-shrink: 0;
+    }
+
+    .accordion-item.open .accordion-icon {
+      transform: rotate(180deg);
+      color: var(--gold-primary);
+    }
+
+    .accordion-body {
+      display: none;
+      padding: 12px 14px 16px;
+      background: var(--surface-input);
+      border-top: 1px solid var(--border-subtle);
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.55;
+    }
+
+    .accordion-item.open .accordion-body {
+      display: block;
+    }
+
+    .accordion-quote {
+      font-style: italic;
+      margin-bottom: 10px;
+      color: var(--text-body);
+    }
+
+    .accordion-footer-link {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--gold-primary);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .accordion-footer-link:hover {
+      text-decoration: underline;
+    }
+
+    /* =========================================================================
+       TAB 2: PERGUNTAS FREQUENTES (COMMON QUESTIONS TAB)
+       ========================================================================= */
+    .faq-container {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      padding-top: 20px;
+    }
+
+    .faq-section {
+      background: var(--surface-card);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-lg);
+      padding: 22px 26px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .faq-section-title {
+      font-family: var(--font-display);
+      font-size: 16px;
+      color: var(--gold-primary);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .faq-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    @media (min-width: 768px) {
+      .faq-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    .faq-card-btn {
+      background: var(--surface-elevated);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--r-md);
+      padding: 16px 18px;
+      text-align: left;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      transition: all 0.15s ease;
+    }
+
+    .faq-card-btn:hover {
+      background: var(--surface-hover);
+      border-color: var(--gold-border);
+      transform: translateY(-1px);
+    }
+
+    .faq-tag {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--gold-primary);
+      text-transform: uppercase;
+    }
+
+    .faq-question {
+      font-size: 14.5px;
+      font-weight: 500;
+      color: var(--text-gold);
+      line-height: 1.45;
+    }
+
+    .faq-card-btn .faq-action {
+      margin-top: 4px;
+      font-family: var(--font-mono);
+      font-size: 11.5px;
+      color: var(--text-secondary);
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .faq-card-btn:hover .faq-action {
+      color: var(--gold-primary);
+    }
+
+    /* =========================================================================
+       TAB 3 & 4: EXPLORAR ACERVO & SOBRE O PROJETO
+       ========================================================================= */
+    .generic-tab-card {
+      background: var(--surface-card);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-lg);
+      padding: 26px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .tab-title {
+      font-family: var(--font-display);
+      font-size: 21px;
+      color: var(--gold-primary);
+      letter-spacing: 0.05em;
+    }
+
+    .sources-search-box {
+      background: var(--surface-input);
+      border: 1px solid var(--border-strong);
+      border-radius: var(--r-md);
+      padding: 10px 16px;
+      color: var(--text-gold);
+      font-family: var(--font-sans);
+      font-size: 14px;
+      outline: none;
+      width: 100%;
+      max-width: 440px;
+    }
+
+    .sources-search-box:focus {
+      border-color: var(--gold-primary);
+    }
+
+    .catalog-list {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px;
+      max-height: 520px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    @media (min-width: 768px) {
+      .catalog-list {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    .catalog-item {
+      background: var(--surface-elevated);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--r-sm);
+      padding: 11px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      font-size: 13.5px;
+    }
+
+    .catalog-item-name {
+      color: var(--text-gold);
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .catalog-item-type {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--gold-primary);
+      background: rgba(200, 170, 110, 0.1);
+      padding: 2px 7px;
+      border-radius: 3px;
+      flex-shrink: 0;
+    }
+
+    /* Mobile toggle for sidebar */
+    .mobile-header {
+      display: none;
+      background: var(--bg-sidebar);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 12px 18px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .mobile-menu-btn {
+      background: transparent;
+      border: 1px solid var(--border-strong);
+      color: var(--gold-primary);
+      border-radius: var(--r-sm);
+      padding: 6px 12px;
+      cursor: pointer;
+    }
+
+    @media (max-width: 820px) {
+      body {
+        flex-direction: column;
+        height: auto;
+        overflow-y: auto;
+      }
+      .mobile-header {
+        display: flex;
+      }
+      aside.app-sidebar {
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border-subtle);
+        display: none;
+      }
+      aside.app-sidebar.mobile-open {
+        display: flex;
+      }
+      .view-container {
+        padding: 16px 20px;
+      }
+      .landing-hero-container {
+        padding: 30px 20px;
+        min-height: 400px;
+      }
+      .hero-headline {
+        font-size: 26px;
+      }
+      .answer-column {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Mobile Top Bar -->
+  <div class="mobile-header">
+    <div class="lol-logo-title">
+      LEAGUE <span>OF</span> LEGENDS
+    </div>
+    <button id="mobileMenuBtn" class="mobile-menu-btn" type="button">Menu</button>
+  </div>
+
+  <!-- Left Sidebar -->
+  <aside class="app-sidebar" id="appSidebar">
+    <div class="sidebar-header">
+      <div class="lol-logo-title">
+        LEAGUE <span>OF</span> LEGENDS
+      </div>
+      <div class="lol-logo-sub">Lore Archive &bull; Universo Canônico</div>
+    </div>
+
+    <!-- Navigation Tabs -->
+    <nav class="sidebar-nav">
+      <button class="nav-tab-btn active" data-tab="tabChat">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+        </svg>
+        <span>Chat de Lore</span>
+      </button>
+
+      <button class="nav-tab-btn" data-tab="tabFAQ">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+          <line x1="12" y1="17" x2="12.01" y2="17"></line>
+        </svg>
+        <span>Perguntas Frequentes</span>
+      </button>
+
+      <button class="nav-tab-btn" data-tab="tabCatalog">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+          <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+        </svg>
+        <span>Explorar Acervo</span>
+      </button>
+
+      <button class="nav-tab-btn" data-tab="tabAbout">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="12" y1="16" x2="12" y2="12"></line>
+          <line x1="12" y1="8" x2="12.01" y2="8"></line>
+        </svg>
+        <span>Sobre o Projeto</span>
+      </button>
+    </nav>
+  </aside>
+
+  <!-- Main Workspace -->
+  <main class="app-main">
+
+    <!-- Dynamic Regional Background (Cross-Fade Layers) -->
+    <div class="dynamic-bg-container" id="dynamicBgContainer">
+      <div class="dynamic-bg-layer active" id="bgLayer1" style="background-image: url('/static/img/regions/default.jpg');"></div>
+      <div class="dynamic-bg-layer" id="bgLayer2"></div>
+    </div>
+
+    <!-- Content Workspace -->
+    <div class="view-container">
+
+      <!-- ===================================================================
+           TAB 1: CHAT VIEW (CONVERSATION APPEARS AFTER FIRST QUESTION - PRINT 3)
+           =================================================================== -->
+      <div id="tabChat" class="tab-view active">
+
+        <!-- ===================================================================
+             1. INITIAL LANDING STATE (HOMEPAGE - BANNER + INPUT IN MARKED AREA)
+             Only this appears on initial load, sitting in the lower-left.
+             =================================================================== -->
+        <section id="chatInitialLanding" class="landing-hero-container">
+          <div class="hero-text-wrap">
+            <h1 class="hero-headline">
+              Pergunte sobre a <span class="gold">Lore</span><br>de League of Legends
+            </h1>
+            <p class="hero-subtitle">
+              Descubra os segredos de Runeterra, com base em fontes oficiais.
+            </p>
+          </div>
+
+          <!-- Main Query Pill Input Bar (Exact match to Print 1, positioned as marked in Print 2) -->
+          <div class="query-pill-bar">
+            <div class="pill-star">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                <polygon points="12,2 15,9 22,12 15,15 12,22 9,15 2,12 9,9"></polygon>
+              </svg>
+            </div>
+            <input
+              id="queryPillInput"
+              class="pill-input"
+              type="text"
+              placeholder="Ex: Qual foi o destino de Icathia? Quem foi Isolde e como Helia caiu?"
+            />
+            <button id="btnPillSend" class="pill-send-btn" type="button" title="Consultar lore">
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="22" y1="2" x2="11" y2="13"></line>
+                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Linear Progress bar -->
+          <div id="chatProgress" class="chat-progress">
+            <div class="chat-progress-fill"></div>
+          </div>
+
+          <!-- Quick prompts for instant exploration -->
+          <div class="landing-quick-prompts">
+            <span class="quick-prompts-label">Explorar:</span>
+            <button class="quick-prompt-chip" data-quick="Qual é a história de Demacia e por que há perseguição à magia?">História de Demacia</button>
+            <button class="quick-prompt-chip" data-quick="Quem é Azir e como ocorreu a queda de Shurima durante a Ascensão?">A Queda de Shurima</button>
+            <button class="quick-prompt-chip" data-quick="Como Viego provocou a Ruína das Ilhas das Bênçãos ao tentar ressuscitar Isolde?">A Ruína de Helia</button>
+            <button class="quick-prompt-chip" data-quick="Qual é a verdadeira origem dos Darkin e por que foram aprisionados em armas?">Origem dos Darkin</button>
+          </div>
+        </section>
+
+        <!-- Chat Exchange Content (STACKED LAYOUT: PERGUNTA -> RESPOSTA -> CHAT -> FONTES) -->
+        <div id="chatExchangeArea" class="chat-exchange-area">
+
+          <!-- 1. PERGUNTA: User Question (Full width across top) -->
+          <div id="userBubbleRow" class="user-bubble-row">
+            <div class="user-bubble">
+              <div class="user-avatar-icon">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                  <circle cx="12" cy="7" r="4"></circle>
+                </svg>
+              </div>
+              <span id="userBubbleText" class="user-text"></span>
+            </div>
+          </div>
+
+          <!-- 2. RESPOSTA: Answer Card (Full width directly under question) -->
+          <div class="answer-column">
+            <div class="answer-main-card">
+              <div id="answerProseContainer" class="answer-prose">
+                <!-- Generated answer populated here -->
+              </div>
+
+              <!-- Footer with sources badges & feedback -->
+              <div class="answer-footer">
+                <div class="footer-sources-pills-label">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                  </svg>
+                  <span id="sourcesUsedCountLabel">Fontes Utilizadas</span>
+                </div>
+
+                <div id="sourcesUsedChips" class="sources-chips-list">
+                  <!-- Source chips populated here -->
+                </div>
+
+                <div class="answer-actions-row">
+                  <div class="actions-left">
+                    <button id="btnUseful" class="action-btn" type="button">
+                      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>
+                      </svg>
+                      <span>Útil</span>
+                    </button>
+                    <button id="btnNotUseful" class="action-btn" type="button">
+                      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-3"></path>
+                      </svg>
+                    </button>
+                  </div>
+
+                  <button id="btnCopyAnswerText" class="action-btn" type="button">
+                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                      <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                    </svg>
+                    <span id="copyAnswerLabel">Copiar Resposta</span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 3. CHAT: Intermediate Query Input Bar (Between Resposta and Fontes) -->
+          <div class="chat-mid-prompt-bar">
+            <div class="query-pill-bar">
+              <div class="pill-star">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="12,2 15,9 22,12 15,15 12,22 9,15 2,12 9,9"></polygon>
+                </svg>
+              </div>
+              <input
+                id="querySecondaryInput"
+                class="pill-input"
+                type="text"
+                placeholder="Faça uma nova pergunta sobre o destino de Runeterra..."
+              />
+              <button id="btnSecondarySend" class="pill-send-btn" type="button" title="Consultar lore">
+                <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="22" y1="2" x2="11" y2="13"></line>
+                  <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- 4. FONTES: Fontes Citadas Accordion Panel (Full width at bottom) -->
+          <div class="sources-sidebar-card">
+            <div class="sources-sidebar-title">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+              </svg>
+              <span>Fontes Citadas</span>
+            </div>
+
+            <div id="sourcesAccordionContainer" class="accordion-list">
+              <!-- Populated dynamically via excerpts from RAG API -->
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ===================================================================
+           TAB 2: PERGUNTAS FREQUENTES (COMMON QUESTIONS TAB)
+           =================================================================== -->
+      <div id="tabFAQ" class="tab-view">
+        <div class="faq-container">
+          
+          <!-- Seção 1: Queda dos Grandes Reinos -->
+          <div class="faq-section">
+            <div class="faq-section-title">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+                <polyline points="2 17 12 22 22 17"></polyline>
+                <polyline points="2 12 12 17 22 12"></polyline>
+              </svg>
+              <span>A Queda dos Grandes Reinos &bull; Shurima e Helia</span>
+            </div>
+            <div class="faq-grid">
+              <button class="faq-card-btn" data-faq-query="Quem é Azir e como ocorreu a queda de Shurima durante a Ascensão?">
+                <span class="faq-tag">Shurima &bull; O Disco Solar</span>
+                <span class="faq-question">Como a ambição de Azir e a traição de Xerath destruíram o império de Shurima?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+
+              <button class="faq-card-btn" data-faq-query="Como Viego provocou a Ruína das Ilhas das Bênçãos ao tentar ressuscitar Isolde?">
+                <span class="faq-tag">Ilhas das Sombras &bull; A Ruína</span>
+                <span class="faq-question">Qual foi o papel de Viego, Thresh e das Águas da Vida no nascimento da Névoa Negra?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+
+              <button class="faq-card-btn" data-faq-query="Qual foi o destino de Icathia ao liberar o Vazio contra Shurima?">
+                <span class="faq-tag">Icathia &bull; O Vazio</span>
+                <span class="faq-question">Como os rebeldes de Icathia abriram a fenda do Vazio na batalha contra os Ascendentes?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+
+              <button class="faq-card-btn" data-faq-query="Qual é a história do colapso de Camavor após a morte de Viego?">
+                <span class="faq-tag">Camavor &bull; Livro Ruination</span>
+                <span class="faq-question">O que ocorreu com o império de Camavor e o destino de Kalista durante a Ruína?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Seção 2: Conflitos e Guerras de Valoran -->
+          <div class="faq-section">
+            <div class="faq-section-title">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="2" x2="22" y2="6"></line>
+                <path d="M7.5 20.5 19 9l-4-4L3.5 16.5 2 22z"></path>
+              </svg>
+              <span>Conflitos e Tragédias Pessoais &bull; Demacia, Noxus e Ionia</span>
+            </div>
+            <div class="faq-grid">
+              <button class="faq-card-btn" data-faq-query="Qual foi a causa da tragédia e do duelo entre Yasuo e seu irmão Yone?">
+                <span class="faq-tag">Ionia &bull; Honra e Vento</span>
+                <span class="faq-question">Quem assassinou o Ancião Souma e por que Yasuo teve de enfrentar seu irmão Yone?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+
+              <button class="faq-card-btn" data-faq-query="Como Sylas descobriu o poder de absorver magia e liderou a rebelião dos magos em Demacia?">
+                <span class="faq-tag">Demacia &bull; A Rebelião dos Magos</span>
+                <span class="faq-question">Como Sylas usou o poder de petricita de Lux para destruir os Caçadores de Magos?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+
+              <button class="faq-card-btn" data-faq-query="Como Swain derrotou Boram Darkwill e assumiu a liderança de Noxus com o Trifarix?">
+                <span class="faq-tag">Noxus &bull; O Grande General</span>
+                <span class="faq-question">Qual é a relação de Swain com o demônio Raum e seu confronto com a Rosa Negra de LeBlanc?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+
+              <button class="faq-card-btn" data-faq-query="O que aconteceu durante a invasão de Noxus nas Primeiras Terras de Ionia?">
+                <span class="faq-tag">Guerra de Ionia &bull; Resistência</span>
+                <span class="faq-question">Como Irelia cortou o braço de Swain no Placidium de Navori e inspirou a resistência?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Seção 3: Deuses e Darkin -->
+          <div class="faq-section">
+            <div class="faq-section-title">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polygon points="12 8 8 12 12 16 16 12 12 8"></polygon>
+              </svg>
+              <span>Entidades Primordiais &bull; Os Darkin e Semideuses de Freljord</span>
+            </div>
+            <div class="faq-grid">
+              <button class="faq-card-btn" data-faq-query="Qual é a verdadeira origem dos Darkin e por que eles foram aprisionados em armas?">
+                <span class="faq-tag">Darkin &bull; Deuses Caídos</span>
+                <span class="faq-question">Como os Ascendentes de Shurima enlouqueceram após enfrentar o Vazio e foram selados por Targon?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+
+              <button class="faq-card-btn" data-faq-query="Quem são os semideuses antigos de Freljord e qual a rivalidade entre Ornn e Volibear?">
+                <span class="faq-tag">Freljord &bull; Forja e Tempestade</span>
+                <span class="faq-question">Como a criação de Freljord pelos semideuses levou à grande batalha em Forja-Lar?</span>
+                <span class="faq-action">Consultar esta crônica &rarr;</span>
+              </button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ===================================================================
+           TAB 3: EXPLORAR ACERVO
+           =================================================================== -->
+      <div id="tabCatalog" class="tab-view">
+        <div class="generic-tab-card">
+          <h2 class="tab-title">Acervo Canônico de Documentos</h2>
+          <p style="color: var(--text-secondary); font-size: 14.5px;">
+            Explore as 255 fontes primárias indexadas no motor: livros completos com transcrição oficial, biografias narrativas purgadas de mecânicas de jogo e contos do portal Universe.
+          </p>
+
+          <input
+            id="catalogSearchBox"
+            class="sources-search-box"
+            type="text"
+            placeholder="Filtrar por nome de campeão, livro ou região..."
+          />
+
+          <div id="catalogListContainer" class="catalog-list">
+            <!-- Injected via JavaScript -->
+          </div>
+        </div>
+      </div>
+
+      <!-- ===================================================================
+           TAB 4: SOBRE O PROJETO
+           =================================================================== -->
+      <div id="tabAbout" class="tab-view">
+        <div class="generic-tab-card">
+          <h2 class="tab-title">Sobre o Runeterra Lore Archive</h2>
+          <div style="font-size: 14.5px; line-height: 1.7; color: var(--text-body); display: flex; flex-direction: column; gap: 14px;">
+            <p>
+              O <strong>Runeterra Lore Archive</strong> é um motor de busca semântica e respostas factuais concebido para pesquisadores, fãs e criadores de conteúdo do universo narrativo de <em>League of Legends</em> e <em>Legends of Runeterra</em>.
+            </p>
+            <p>
+              Diferente de assistentes genéricos, este sistema opera sob estrita separação entre <strong>narrativa ficcional canônica</strong> e <strong>mecânicas de videogame</strong>. Nenhuma habilidade de campeão (Q/W/E/R), tempo de recarga ou dado competitivo está presente no acervo.
+            </p>
+            <h3 style="font-family: var(--font-display); color: var(--gold-primary); font-size: 16px; margin-top: 10px;">Metodologia Técnica &bull; RAG Híbrido</h3>
+            <ul style="margin-left: 20px;">
+              <li><strong>Indexação Lexical BM25:</strong> precisão imediata para termos de Runeterra (nomes próprios, cidades e artefatos).</li>
+              <li><strong>Embeddings Densos BAAI/bge-m3:</strong> captura de relações conceituais complexas entre linhagens e guerras antigas.</li>
+              <li><strong>Re-ranker Neural:</strong> reordenação contextual por relevância estrita antes do envio ao LLM.</li>
+              <li><strong>Motor Generativo:</strong> Google Gemini 3.5 Flash Lite configurado com ancoragem documental rígida e geração de citações literais.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <script>
+    // State
+    let activeSources = [];
+    let isSubmitting = false;
+
+    // Elements
+    const chatInitialLanding = document.getElementById('chatInitialLanding');
+    const chatExchangeArea = document.getElementById('chatExchangeArea');
+
+    const queryPillInput = document.getElementById('queryPillInput');
+    const btnPillSend = document.getElementById('btnPillSend');
+    const querySecondaryInput = document.getElementById('querySecondaryInput');
+    const btnSecondarySend = document.getElementById('btnSecondarySend');
+    const chatProgress = document.getElementById('chatProgress');
+    const userBubbleText = document.getElementById('userBubbleText');
+    const answerProseContainer = document.getElementById('answerProseContainer');
+    const sourcesUsedCountLabel = document.getElementById('sourcesUsedCountLabel');
+    const sourcesUsedChips = document.getElementById('sourcesUsedChips');
+    const sourcesAccordionContainer = document.getElementById('sourcesAccordionContainer');
+    const btnCopyAnswerText = document.getElementById('btnCopyAnswerText');
+    const copyAnswerLabel = document.getElementById('copyAnswerLabel');
+    const btnUseful = document.getElementById('btnUseful');
+    const btnNotUseful = document.getElementById('btnNotUseful');
+    const catalogSearchBox = document.getElementById('catalogSearchBox');
+    const catalogListContainer = document.getElementById('catalogListContainer');
+    const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+    const appSidebar = document.getElementById('appSidebar');
+
+    // Mobile Menu Toggle
+    if (mobileMenuBtn) {
+      mobileMenuBtn.addEventListener('click', () => {
+        appSidebar.classList.toggle('mobile-open');
+      });
+    }
+
+    // Tab Navigation
+    const navTabBtns = document.querySelectorAll('.nav-tab-btn');
+    const tabViews = document.querySelectorAll('.tab-view');
+
+    navTabBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        navTabBtns.forEach(b => b.classList.remove('active'));
+        tabViews.forEach(v => v.classList.remove('active'));
+
+        btn.classList.add('active');
+        const targetTabId = btn.getAttribute('data-tab');
+        const targetView = document.getElementById(targetTabId);
+        if (targetView) targetView.classList.add('active');
+
+        if (targetTabId === 'tabChat') {
+          resetToLanding();
+        }
+
+        // Close sidebar on mobile
+        if (window.innerWidth <= 820) {
+          appSidebar.classList.remove('mobile-open');
+        }
+      });
+    });
+
+    function openTab(tabId) {
+      const btn = document.querySelector(`[data-tab="${tabId}"]`);
+      if (btn) btn.click();
+    }
+
+    function openCatalogTab(filterText) {
+      openTab('tabCatalog');
+      if (catalogSearchBox && filterText) {
+        catalogSearchBox.value = filterText;
+        filterCatalogList(filterText);
+      }
+    }
+
+    // =========================================================================
+    // DYNAMIC REGIONAL BACKGROUND SYSTEM
+    // =========================================================================
+    const REGION_IMAGE_MAP = {
+      default: '/static/img/regions/default.jpg',
+      demacia: '/static/img/regions/demacia.jpg',
+      noxus: '/static/img/regions/noxus.jpg',
+      ionia: '/static/img/regions/ionia.jpg',
+      freljord: '/static/img/regions/freljord.jpg',
+      shurima: '/static/img/regions/shurima.jpg',
+      shadow_isles: '/static/img/regions/shadow_isles.jpg',
+      piltover: '/static/img/regions/piltover.jpg',
+      zaun: '/static/img/regions/zaun.jpg',
+      bilgewater: '/static/img/regions/bilgewater.jpg',
+      targon: '/static/img/regions/targon.jpg',
+      bandle_city: '/static/img/regions/bandle_city.jpg',
+      the_void: '/static/img/regions/the_void.jpg',
+      ixtal: '/static/img/regions/ixtal.jpg'
+    };
+
+    const CLIENT_REGION_CHAMPIONS = {
+      demacia: ['garen', 'lux', 'jarvan', 'sylas', 'shyvana', 'fiora', 'vayne', 'xin zhao', 'galio', 'sona', 'poppy', 'lucian', 'kayle', 'morgana', 'demacia', 'petricita', 'mageseeker', 'caçadores de magos'],
+      noxus: ['darius', 'swain', 'draven', 'katarina', 'sion', 'mordekaiser', 'leblanc', 'samira', 'riven', 'talon', 'vladimir', 'cassiopeia', 'kled', 'briar', 'ambessa', 'noxus', 'bastião imortal'],
+      ionia: ['yasuo', 'yone', 'ahri', 'akali', 'zed', 'shen', 'irelia', 'karma', 'jhin', 'lee sin', 'sett', 'kayn', 'kennen', 'syndra', 'varus', 'wukong', 'yi', 'master yi', 'xayah', 'rakan', 'lillia', 'ionia', 'navori', 'kinkou'],
+      freljord: ['ashe', 'sejuani', 'lissandra', 'braum', 'anivia', 'volibear', 'ornn', 'olaf', 'trundle', 'tryndamere', 'nunu', 'willump', 'udyr', 'gragas', 'aurora', 'freljord', 'glaciopureza', 'glaçopuro', 'filhos do gelo', 'avaroceiros', 'garra do inverno', 'praeglacitas'],
+      shurima: ['azir', 'xerath', 'nasus', 'renekton', 'sivir', 'taliyah', 'ksante', "k'sante", 'akshan', 'rammus', 'amumu', 'shurima', 'icathia', 'disco solar', 'ascendente', 'ascendentes', 'baccai'],
+      shadow_isles: ['viego', 'thresh', 'hecarim', 'kalista', 'isolde', 'senna', 'gwen', 'karthus', 'yorick', 'elise', 'shadow isles', 'ilhas das sombras', 'ilhas abençoadas', 'helia', 'nevoa negra', 'névoa negra', 'ruina', 'ruína'],
+      piltover: ['caitlyn', 'jayce', 'vi', 'heimerdinger', 'camille', 'ezreal', 'orianna', 'seraphine', 'piltover', 'hextec', 'hexgate', 'cidade do progresso'],
+      zaun: ['jinx', 'ekko', 'viktor', 'singed', 'warwick', 'twitch', 'zac', 'blitzcrank', 'urgot', 'janna', 'renata', 'renata glasc', 'zeri', 'dr. mundo', 'mundo', 'zaun', 'quimtec', 'submundo', 'fossas'],
+      bilgewater: ['miss fortune', 'gangplank', 'pyke', 'twisted fate', 'graves', 'nautilus', 'illaoi', 'tahm kench', 'nilah', 'bilgewater', 'aguas de sentina', 'águas de sentina', 'docas da matança', 'serpente mãe'],
+      targon: ['pantheon', 'leona', 'diana', 'taric', 'aurelion sol', 'aurelion', 'zoe', 'aphelios', 'soraka', 'targon', 'monte targon', 'solari', 'lunari', 'rakkor', 'aspecto', 'aspectos'],
+      bandle_city: ['teemo', 'tristana', 'lulu', 'corki', 'veigar', 'rumble', 'yuumi', 'gnar', 'vex', 'bandle', 'cidade de bandle', 'bandopole', 'yordle', 'yordles'],
+      the_void: ['kaisa', "kai'sa", 'kassadin', 'velkoz', "vel'koz", "cho'gath", 'chogath', "kha'zix", 'khazix', "rek'sai", 'reksai', "bel'veth", 'belveth', 'malzahar', 'void', 'vazio', 'vazio de icathia'],
+      ixtal: ['qiyana', 'neeko', 'nidalee', 'rengar', 'zyra', 'skarner', 'milio', 'ixtal', 'ixaocan', 'arcologia']
+    };
+
+    function detectClientRegion(text) {
+      if (!text) return null;
+      const normalized = text.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+      for (const [reg, keywords] of Object.entries(CLIENT_REGION_CHAMPIONS)) {
+        for (const kw of keywords) {
+          const normKw = kw.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+          const re = new RegExp(`\\b${normKw.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&')}\\b`, 'i');
+          if (re.test(normalized)) {
+            return reg;
+          }
+        }
+      }
+      return null;
+    }
+
+    let currentBgRegion = 'default';
+    let activeBgLayer = 1;
+
+    function setRegionalBackground(regionKey) {
+      const target = (regionKey && REGION_IMAGE_MAP[regionKey]) ? regionKey : 'default';
+      if (target === currentBgRegion) return;
+      currentBgRegion = target;
+
+      const layer1 = document.getElementById('bgLayer1');
+      const layer2 = document.getElementById('bgLayer2');
+      if (!layer1 || !layer2) return;
+
+      const incoming = (activeBgLayer === 1) ? layer2 : layer1;
+      const outgoing = (activeBgLayer === 1) ? layer1 : layer2;
+      const imgUrl = REGION_IMAGE_MAP[target];
+
+      const img = new Image();
+      img.onload = () => {
+        incoming.style.backgroundImage = `url('${imgUrl}')`;
+        incoming.classList.add('active');
+        outgoing.classList.remove('active');
+        activeBgLayer = (activeBgLayer === 1) ? 2 : 1;
+      };
+      img.src = imgUrl;
+    }
+
+    // Preload regional backgrounds for instantaneous transitions
+    function preloadRegionalWallpapers() {
+      Object.values(REGION_IMAGE_MAP).forEach(url => {
+        const img = new Image();
+        img.src = url;
+      });
+    }
+    window.addEventListener('DOMContentLoaded', preloadRegionalWallpapers);
+
+    // Reset to Landing State
+    function resetToLanding() {
+      chatInitialLanding.style.display = 'flex';
+      chatExchangeArea.classList.remove('active');
+      queryPillInput.value = '';
+      if (querySecondaryInput) querySecondaryInput.value = '';
+      setRegionalBackground('default');
+    }
+
+    // Transition from Landing State to Active Conversation State
+    function showActiveChatState(question) {
+      chatInitialLanding.style.display = 'none';
+      chatExchangeArea.classList.add('active');
+      userBubbleText.textContent = question;
+      answerProseContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 14.5px;">Consultando os arquivos canônicos e verificando fontes...</div>';
+      sourcesUsedChips.innerHTML = '';
+      sourcesAccordionContainer.innerHTML = '';
+    }
+
+    // Accordion Toggle
+    window.toggleAccordion = function(num) {
+      const item = document.getElementById(`accItem-${num}`);
+      if (item) {
+        item.classList.toggle('open');
+      }
+    };
+
+    window.highlightAccordion = function(num) {
+      const item = document.getElementById(`accItem-${num}`);
+      if (item) {
+        document.querySelectorAll('.accordion-item').forEach(i => i.classList.remove('open'));
+        item.classList.add('open');
+        item.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    };
+
+    // Quick prompts click on landing page
+    document.querySelectorAll('[data-quick]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const query = btn.getAttribute('data-quick');
+        queryPillInput.value = query;
+        performQuery(query);
+      });
+    });
+
+    // FAQ buttons click -> Run query in Chat tab
+    document.querySelectorAll('[data-faq-query]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const query = btn.getAttribute('data-faq-query');
+        openTab('tabChat');
+        performQuery(query);
+      });
+    });
+
+    // Initialize Sources from /api/status
+    async function loadStatus() {
+      try {
+        const res = await fetch('/api/status');
+        if (!res.ok) return;
+        const data = await res.json();
+        activeSources = data.sources || [];
+        renderCatalogList(activeSources);
+      } catch (err) {
+        console.warn('Failed to load status:', err);
+      }
+    }
+
+    function renderCatalogList(sources) {
+      if (!catalogListContainer) return;
+      if (!sources.length) {
+        catalogListContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 13px;">Carregando fontes do acervo...</div>';
+        return;
+      }
+      catalogListContainer.innerHTML = sources.map(src => {
+        let type = 'Documento';
+        if (!src.startsWith('Web:')) type = 'Livro Canônico';
+        else if (src.includes('Lore Canônica:')) type = 'Wiki Lore';
+        else if (src.includes('Região:')) type = 'Compêndio Regional';
+        else if (src.includes(' - ')) type = 'Biografia Oficial';
+        else type = 'Conto do Universo';
+
+        return `
+          <div class="catalog-item">
+            <span class="catalog-item-name" title="${escapeHtml(src)}">${escapeHtml(src)}</span>
+            <span class="catalog-item-type">${type}</span>
+          </div>
+        `;
+      }).join('');
+    }
+
+    if (catalogSearchBox) {
+      catalogSearchBox.addEventListener('input', (e) => {
+        filterCatalogList(e.target.value);
+      });
+    }
+
+    function filterCatalogList(term) {
+      if (!term || !term.trim()) {
+        renderCatalogList(activeSources);
+        return;
+      }
+      const lower = term.toLowerCase();
+      const filtered = activeSources.filter(s => s.toLowerCase().includes(lower));
+      renderCatalogList(filtered);
+    }
+
+    // Submit Query
+    async function performQuery(customQuery) {
+      const q = (customQuery || queryPillInput.value || (querySecondaryInput ? querySecondaryInput.value : '') || '').trim();
+      if (!q || isSubmitting) return;
+
+      isSubmitting = true;
+      btnPillSend.disabled = true;
+      if (btnSecondarySend) btnSecondarySend.disabled = true;
+      chatProgress.classList.add('active');
+
+      // Switch to Active Conversation view (Print 3)
+      showActiveChatState(q);
+
+      // Instantly apply client-predicted regional background
+      const predictedRegion = detectClientRegion(q);
+      if (predictedRegion) {
+        setRegionalBackground(predictedRegion);
+      }
+
+      try {
+        const res = await fetch('/api/query', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            question: q,
+            top_k: 4,
+            mode: 'bm25'
+          })
+        });
+
+        if (!res.ok) {
+          const err = await res.json().catch(() => ({ detail: 'Falha no servidor' }));
+          throw new Error(err.detail || 'Erro na requisição');
+        }
+
+        const data = await res.json();
+        renderChatResponse(data);
+      } catch (err) {
+        answerProseContainer.innerHTML = `<div style="color: #e2a8a8; font-size: 14.5px; line-height: 1.6;">Não foi possível consultar os registros oficiais no momento: ${escapeHtml(err.message)}</div>`;
+      } finally {
+        isSubmitting = false;
+        btnPillSend.disabled = false;
+        if (btnSecondarySend) btnSecondarySend.disabled = false;
+        chatProgress.classList.remove('active');
+      }
+    }
+
+    // Render Answer and Sources Accordion (PRINT 3)
+    function renderChatResponse(data) {
+      // Update background with verified server-detected region
+      if (data && data.region) {
+        setRegionalBackground(data.region);
+      }
+
+      // 1. Process Answer text with clickable citation badges
+      let rawAnswer = data.answer || '';
+      rawAnswer = rawAnswer.replace(/\[S?(\d+)\]/g, (match, num) => {
+        return `<span class="cite-badge" onclick="highlightAccordion(${num})">[${num}]</span>`;
+      });
+
+      answerProseContainer.innerHTML = marked.parse(rawAnswer);
+
+      // 2. Sources Chips & Accordion List
+      const sources = data.sources || [];
+      const excerpts = data.excerpts || [];
+      const count = Math.max(sources.length, excerpts.length);
+
+      sourcesUsedCountLabel.textContent = `Fontes Utilizadas (${count})`;
+
+      // Render Chips
+      if (excerpts.length > 0) {
+        sourcesUsedChips.innerHTML = excerpts.map((item, idx) => `
+          <button class="source-chip-pill" onclick="highlightAccordion(${idx + 1})">
+            <span class="source-chip-num">[${idx + 1}]</span>
+            <span>${escapeHtml(item.source)}</span>
+          </button>
+        `).join('');
+      } else {
+        sourcesUsedChips.innerHTML = sources.map((s, idx) => `
+          <button class="source-chip-pill" onclick="highlightAccordion(${idx + 1})">
+            <span class="source-chip-num">[${idx + 1}]</span>
+            <span>${escapeHtml(s[1] || 'Documento')}</span>
+          </button>
+        `).join('');
+      }
+
+      // Render Accordion
+      if (excerpts.length > 0) {
+        sourcesAccordionContainer.innerHTML = excerpts.map((item, idx) => {
+          const num = idx + 1;
+          const isOpen = (idx === 0) ? 'open' : '';
+          const locDetails = item.pages ? `Páginas: ${item.pages}` : (item.chapter ? `Capítulo: ${item.chapter}` : '');
+
+          return `
+            <div id="accItem-${num}" class="accordion-item ${isOpen}">
+              <div class="accordion-header" onclick="toggleAccordion(${num})">
+                <div class="accordion-header-left">
+                  <span class="accordion-num">[${num}]</span>
+                  <span class="accordion-title">${escapeHtml(item.source)}</span>
+                </div>
+                <svg class="accordion-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </div>
+              <div class="accordion-body">
+                <p class="accordion-quote">&ldquo;${escapeHtml(item.text)}&rdquo;</p>
+                ${locDetails ? `<span class="accordion-footer-link">${escapeHtml(locDetails)}</span>` : ''}
+              </div>
+            </div>
+          `;
+        }).join('');
+      } else {
+        sourcesAccordionContainer.innerHTML = sources.map((s, idx) => {
+          const num = idx + 1;
+          const isOpen = (idx === 0) ? 'open' : '';
+          const name = s[1] || 'Documento Canônico';
+          const loc = s[3] || '';
+
+          return `
+            <div id="accItem-${num}" class="accordion-item ${isOpen}">
+              <div class="accordion-header" onclick="toggleAccordion(${num})">
+                <div class="accordion-header-left">
+                  <span class="accordion-num">[${num}]</span>
+                  <span class="accordion-title">${escapeHtml(name)}</span>
+                </div>
+                <svg class="accordion-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </div>
+              <div class="accordion-body">
+                ${loc ? `<span class="accordion-footer-link">${escapeHtml(loc)}</span>` : ''}
+              </div>
+            </div>
+          `;
+        }).join('');
+      }
+
+      // Smooth scroll to answer
+      document.getElementById('userBubbleRow').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // Feedback buttons
+    if (btnUseful) {
+      btnUseful.addEventListener('click', () => {
+        btnUseful.classList.toggle('active');
+        if (btnNotUseful) btnNotUseful.classList.remove('active');
+      });
+    }
+
+    if (btnNotUseful) {
+      btnNotUseful.addEventListener('click', () => {
+        btnNotUseful.classList.toggle('active');
+        if (btnUseful) btnUseful.classList.remove('active');
+      });
+    }
+
+    // Copy Answer
+    if (btnCopyAnswerText) {
+      btnCopyAnswerText.addEventListener('click', async () => {
+        const text = answerProseContainer.innerText || '';
+        if (!text) return;
+        try {
+          await navigator.clipboard.writeText(text);
+          copyAnswerLabel.textContent = 'Copiado!';
+          setTimeout(() => {
+            copyAnswerLabel.textContent = 'Copiar Resposta';
+          }, 2000);
+        } catch {
+          const ta = document.createElement('textarea');
+          ta.value = text;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand('copy');
+          document.body.removeChild(ta);
+          copyAnswerLabel.textContent = 'Copiado!';
+          setTimeout(() => {
+            copyAnswerLabel.textContent = 'Copiar Resposta';
+          }, 2000);
+        }
+      });
+    }
+
+    // Enter Key
+    queryPillInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        performQuery();
+      }
+    });
+
+    btnPillSend.addEventListener('click', () => performQuery());
+
+    if (querySecondaryInput) {
+      querySecondaryInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          performQuery(querySecondaryInput.value);
+        }
+      });
+    }
+
+    if (btnSecondarySend) {
+      btnSecondarySend.addEventListener('click', () => {
+        if (querySecondaryInput) performQuery(querySecondaryInput.value);
+      });
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    // Load initial
+    loadStatus();
+
+    // Check URL parameters for direct query
+    const urlParams = new URLSearchParams(window.location.search);
+    const initialQuery = urlParams.get('q');
+    if (initialQuery) {
+      performQuery(initialQuery);
+    }
+  </script>
+</body>
+</html>

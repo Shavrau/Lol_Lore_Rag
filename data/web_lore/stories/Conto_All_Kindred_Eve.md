@@ -1,0 +1,40 @@
+# Conto: All Kindred Eve
+**Tipo:** Conto Canônico Oficial do Universo | **Fonte:** League of Legends Universe
+
+== Lore ==
+: *This story is from Realms of Runeterra. The whole story is featured in the physical book. Due to legal reasons, only the story summary can be added on this page.*
+
+=== Summary ===
+The Kindred, Wolf and Lamb, notice a festival in their honor. They make a deal to observe the festival, without poetry from Lamb and without hunting from Wolf. Together, they witness the thousandth Kindred Eve, celebrated on Witch-Tree Rock in the Blue Flame Isles.
+
+On the final Wolf Moon of the year, revelers from every region or culture gather on the docks of . They don costumes of the kindred two and set sail for the lone island. On the beach, there is a narrator that greets them with the story of the Pale Rider that split himself in two. When he comes to the part where they split, he splits himself too and reveals a dual costume of lamb and wolf. After the introductory story, the crowd progresses up into the town.
+
+The festivities include eating, dancing, shops with small trinkets, contests and betting. Additionally, fights often erupt between the violent halves. There is a woman dressed as a lamb that spots the Kindred and congratulates them on their smooth costume. The Kindred are confused by her and don’t reply. The false lamb says she’s going to bet in the “Wolf’s Wager” contest that happens later, and strolls away. The Kindred hear music and follow it.
+
+They arrive at the source of the mismatched music: Musicians that play on oddly tuned horns and beat on kettle drums and logs. Lamb says this music is called *Dragtime*.
+A ship on wheels is dragged through the street, with a cage with a poor man inside. The man inside, tarred and covered with cotton, is called the *Lambfool*. He is the last honest man of Bilgewater, who claims he never stole or cheated, killed or lied. Accompanying him on the ship is a woman dressed as captain, she demands praise for the “champion of the meek”. The crowd greets him with thrown food. 20px|border Wolf remarks he looks like his 20px|border Lamb - which she doesn’t like at all -  and hopes they do him next.
+
+At the end of the street is an open space on a cliff, with an eldlock tree surrounded by two large bonfires. There are three announcers with costumes modeled after different wolves: The Howler, The Hungry, and the Hunter. Together, they explain the contest: The Lambfool has to fight against a Champion of Bilgewater. This role is taken up by the captain that brought him here, she changes into a wolf outfit with claws. The Wolfkin Warrior is handed a cruel bludgeon, the Lambfool gets a bow with a broken string and a snapped arrow instead. When the Wolfkin warrior wins, speak the three wolves, the people can cheat and be their usual self, but they’ll have to be honest if the Lambfool wins. This sets the course for the entire year, until the next Kindred Eve. Lamb notes that this contest is rigged, and shouldn't be used to justify their behavior for a year.
+
+The Wolfkin Warrior smashes the Lambfool, but the Lamb Lamb's Respite, and though his wounds are gruesome, the Lambfool doesn’t die. She points out that this is technically within the bounds of their agreement. She then kills the Wolfkin Warrior with one arrow, which the crowd sees as a bolt of lightning striking down the woman. The bystanders are confused, this had never happened before. The unexpected outcome of the battle brought the scantily-clad lamb from earlier a lot of money from the bet, but she is the only one celebrating. Wolf doesn’t like that his Lamb cheated, and Lamb agrees that her Wolf may play as well. He chases and devours the Lambfool, which falls down a cliff. The Howler, the Hungry and the Hunter agree that they can not let the Lamb win, and claim the Wolfkin Warrior is still alive. There is no need to honor the contracts this year. This is the one-thousandth consecutive year in which the Wolf won.
+The Kindred know this is wrong, since the avatar of Wolf died first, however, Wolf wants to follow the ruling of the official declaration. They said he won, so he must have won. Lamb points out this does not matter, since it is clear the Lambfool endured longer. They declare the parade and their deal for ended, allowing Wolf to chase. The bonfires grow higher and higher, igniting the eldlock tree, leaping over to the town, engulfing the entire island and every soul in it in flames.
+
+The Kindred discuss all the people they had taken during the festival: The Lambfool who fell into the sea, the three wolf-like announcers that were trampled in the panic, the musicians that burned in the fire, the narrator who was thrown overboard a ship fleeing the slaughter, the joyous lamb who was hung due to her bet, and all the others. This truly was the greatest Kindred Eve Bilgewater has ever known.
+
+== Characters ==
+=== Featured Characters ===
+* Kindred
+
+== Trivia ==
+* The music called "dragtime" in the story references , however it is not played on a piano. The actual genre is probably closer to .
+* The duality of the Kindred is reinforced through the typography and literary devices in the story. 
+** Text spoken by 20px|border Wolf is printed in bold, while lines from 20px|border Lamb are italic. 
+** In the first and last sections (which only consist of conversation between Lamb and Wolf), the Lamb’s lines are additionally aligned to the right.
+
+== See also ==
+* Kindred as Spirit God
+* Bilgewater: Culture
+* Realms of Runeterra
+
+de:Nacht der Kindred
+Category:Realms of Runeterra

@@ -1,0 +1,80 @@
+# Conto: A Hero Wakes
+**Região:** Demacia | **Tipo:** Conto do Universo League of Legends | **Fonte:** League Wiki
+
+Edit • Image • ReferenceShort Story • 6 Minute ReadA Hero WakesBy John O'BryanA taste of magic is all it takes to wake the Colossus and send him smashing. And he just got one.Starring:  Galio
+
+War was coming, and  Galio could do nothing but watch as the Demacian soldiers prepared for it. He couldn't say how long it had been since he last tasted magic. He'd been carried from the plinth many times before, only to return without getting a chance at life. But even when his body was still, his mind was always stirring.
+
+Galio could just make out the bristling rows of northern barbarians in the distance. Even with his senses dulled in this dreamlike state, he could tell their ranks were sloppy and undisciplined, pacing to and fro in eager anticipation of their Demacian foes. Galio had overheard talk of these wildmen many times, given their recent conquests. The fearful people of the city whispered that the Freljordians left none alive, and mounted the heads of their foes on enormous tusks from strange beasts...
+
+But the barbarians were of no interest to the colossus. His eyes found a bigger prize - a titanic shape, seeming almost as tall as the hills behind it. It moved ominously, heaving like the waves of a troubled sea, waiting to be unleashed.
+
+What is that? thought Galio, hopefully. I hope it fights.
+
+Beneath him, his Demacian comrades marched in precise synchronization, reciting a cadence, chanting away all thoughts but battle. To each other, they sounded confident in their victory, but to Galio, who had heard this song so many times before, their rhythms were less certain, more hesitant.
+
+They are not excited to battle this great beast. I will do it for them!
+
+Galio was filled with the urge to scoop up every one of these men in his arms and tell them it would be fine, that he would spring forth and chase the entire invading army back to its borders. But he couldn't. His arms, legs, and claws were as cold and inert as the stone he was hewn from. He needed a catalyst, a powerful magical presence of some kind, to awaken from his living dream.
+
+I hope there's a mage this time, he thought, gazing toward the horizon. Usually there isn't. I hate it when there isn't.
+
+His worry grew as he heard the snorts of exhaustion from the oxen pulling him. They numbered several dozen, and still had to be swapped out with fresh replacements every mile. For a brief moment, Galio thought they might all collapse, leaving him in the outer Demacian brambles while the humans had their fun.
+
+Then, at last, his cart came to a stop at the edge of the battlefield. He knew there would be no parley, no chance that the savage enemy would surrender. Galio could hear the clatter of his tiny human comrades locking shields, forming a solid wall of steel. But he knew that whatever the barbarians' enormous beast was, it would surely cut right through the fine Demacian armaments.
+
+The two sides flew at one another, colliding in a flash of limbs and blades. Galio heard swords clashing, and axes meeting shields. Men from both armies were falling to their deaths in the mud. Brave voices that Galio knew well cried like children for their mothers.
+
+The soft heart of the stone giant began to quiver. Yet still he could not break his paralysis.
+
+Suddenly a shock of blinding purple seared through the fray, causing scores of Demacians to drop to their knees. Galio felt it then - that familiar sensation in his fingertips, like the noon sun warming cool alabaster. He could almost wiggle them...
+
+The flash came again, sapping the life from more heroic Demacian soldiers. Galio's senses came to life with startling acuity, revealing the conflict in gruesome detail. The bodies of men in broken armor were strewn about the field in grotesque contortions. Many barbarians lay slain in pools of their own blood.
+
+And in the distance, behind their lines, their cowardly sorcerer was summoning a crackling orb between his hands, readying his next attack.
+
+There he is. He is the reason I wake, Galio realized, first in gratitude, then in rage. I will squash him first!
+
+But his attention was once again drawn to the monstrous shape in the farthest reaches of the battlefield. Finally, it was coming into focus: a towering behemoth of a creature - covered in thick, matted fur. It struggled against the steel chains that restrained it. Its head thrashed about viciously in an attempt to free itself from the giant blinding cowl that covered its eyes.
+
+Galio smiled. Now that is a foe worthy of my fists.
+
+The barbarians pulled off the behemoth's covering, revealing a snarling, mangled snout beneath a beady pair of jet-black eyes. Free from its blinders, the creature erupted in a fearsome roar, as if declaring itself ready to ravage everything in sight. The monster's handlers released a mechanism that let loose the chains, and the behemoth threw itself into the opposing infantry, instantly slaying a dozen Demacians with just one swipe of a saber-like claw.
+
+Galio was horrified. These were men he had guarded since they were children. He wanted to weep for them, as he had seen humans do in mourning. But he was not built for that. He focused on his purpose and the thrill of the fight that awaited. This was a huge, terrible beast, and he couldn't wait to put his hands on it. He could feel the vitality of life returning to him.
+
+The sensation shot through his arms, his head, and all the way to his legs. For the first time in a century, he could move. Across the valley a sound echoed, something not heard in living memory.
+
+It was the sound of a stone giant's laughter.
+
+Galio leapt into the fray, knocking aside the barbarians' crudely built siege engines. Friend and foe alike stopped to gape at the stone titan who was now smashing his way through the front lines. Like a living monument, he burst from the press of soldiers and threw himself into the path of the rampaging behemoth. "Hello, great beast", he rumbled. "Shall I smash you?"
+
+The creature threw its mighty head back and howled, as if in acknowledgment of the challenge. Both titans ran toward one another with earth-shaking force. The behemoth slammed into Galio's midsection with its shoulder, and let out a groan of intense pain as it crumpled to the ground clutching its collarbone. Galio stood above it, reluctant to smash a prostrate opponent.
+
+"Come now, no need to feel bad", said Galio, eagerly motioning with his hand. "That was a good try. Now hit me again."
+
+The monster slowly pulled itself to its feet and regained the angry glint in its eye. It struck Galio with all its might, its claws raking away a piece of his head.
+
+"You broke my crown", said the colossus, pleasantly surprised, encouraged by the hope of a competitive fight. He struck at the beast with the bottom of his  hand, swinging it down like a club with every ounce of his stone frame. The petricite fist collided with the behemoth's flesh, and the surrounding field rang out with the cracking of gigantic bones.
+
+The monster staggered, screaming and swinging blindly, but connecting with nothing.
+
+Galio grabbed the giant beast around the waist in his monolithic arms and wrenched its torso, trying to break its spine. But the behemoth twisted out of his grip, and began to circle him warily before backing away.
+
+"Wait! Our battle must be resolved!" bellowed the colossus. He started to lumber after the beast, hoping it would reconsider its decision to flee.
+
+But the faint cries of his Demacian brethren carried to him on the wind. Without realizing, Galio had followed the monster for hundreds of feet, straying from the heart of the battle. He wanted to fight the creature, but his human comrades needed him.
+
+As the abomination limped away into the distance, Galio gave it one last wistful gaze. "Farewell, great beast."
+
+He turned and thundered back to his comrades. More than half of them were lying on the ground in agony, tortured by unseen coils of power. He knew at once it was the same magic that kept him living.
+
+The stone titan saw the terror in the soldiers' faces, before turning to the malevolent sorcerer once more. Galio knew what he must do, and what the consequences would be.
+
+He leapt high in the air and then came  crashing down onto the mage, interrupting his vile incantation, and squashing the barbarian into the loam. The remaining invaders were routed, dropping their arms in terror and fleeing in all directions.
+
+As the sorcerer's magic faded, Galio felt conflicted. The animating force was draining from his body. He'd saved countless lives, but he was being dragged back to slumber.
+
+He didn't understand why he had no magic of his own, like all living things must have. Why had he been made this way? Had that even been his creator's intention? As he felt the cold embrace of his dormancy returning, he took comfort that life itself was magical, and if Galio only experienced it briefly, it was worth it.
+
+Until the final day. Until he would come to break the world's last mage in his unyielding fists, and the stone sentinel of Demacia would awaken no more.

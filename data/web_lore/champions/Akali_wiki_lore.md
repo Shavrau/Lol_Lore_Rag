@@ -1,0 +1,89 @@
+# História Completa: Akali
+**Tipo:** Lore Aprofundada & Relações Canônicas | **Fonte:** League of Legends Universe / Wiki
+
+## Background
+
+### Early Life 
+Akali was born within the Kinkou Order, daughter to Tahno and Maymm Jhomen Tethi. Maymm was the renowned *Fist of Shadow* and one of the Kinkou leaders in charge of preserving the delicate spiritual balance of . As a child, Akali's parents would often be called off on their duties, leaving her under the care of other Kinkou masters such as Kusho or Kennen. When in the care of Kennen, Akali would be taught many shuriken techniques and honed her skills in speed and agility. Being a prodigy, Akali showed great promise as a member of the Kinkou Order and woult often train alongside Master Kusho's son and appointed successor Shen.
+
+=### Shadow Order Attack=
+During the Noxian Invasion of Ionia, Master Kusho's adopted son and former student Zed returned to the order after having left to participate in the war. With an army of his own followers, Zed planned to enact a violent takeover of the Kinkou Order and seemingly killed Master Kusho, transforming the Kinkou into the Shadow Order. Zed and his acolytes proceeded to kill the remaining Kinkou, including Akali's father Tahno. Luckily, Akali fled to a long-abandoned temple in the eastern mountains alongside a small group of other Kinkou consisting of her mother Maymm, Kennen and the new *Eye of Twilight*, Shen.
+
+=### Rebuilding the Kinkou Order=
+In the mountains, Shen began rebuilding the Kinkou Order by returning to its three fundamental philosophes: the pure impartiality of *Watching the Stars*, the passage of judgment in *Coursing the Sun*, and the elimination of imbalance by *Pruning the Tree.* As Fist of Shadow, Maymm's duty was in Pruning the Tree, training Akali and several other neophytes to become assassins that would kill those that would threaten the balance. By the age of nine, Akali became close friends with another neophyte name Faey, Maymm's young apprentice and possible successor. Though Akali was skilled, she was often impatient and rambunctious, often causing trouble for Faey and the neophytes due to being the youngest of them.
+
+=### Encounter with the Navori Brotherhood=
+thumb|left|300px|Akali's friend and fellow neophyte Faey, firing arrows and attempting to free her friends.While training and playing games, Akali and the rest of the neophytes encountered a band of warriors from the Navori Brotherhood, an Ionian  nationalist faction formed in the aftermath of the Noxian invasion currently searching for people to forcefully recruit into their army. Akali and the group of neophytes hid in the trees, not wanting to lead the brotherhood back to their Kinkou temple. Using a variety of tricks and traps, they managed to scare the warriors away by convincing them that the forest was cursed.
+
+In the process, the group accidentally angered a corrupted nature spirit that began rampaging and entrapping the neophytes in vines. Faey quickly tried freeing them while Akali helped, against Faey's orders, by hastily running circles around the spirit, distracting it. While Akali dragged some of the neophytes to safety, Faey was suddenly struck by the spirit and fell to the ground, becoming gravely injured and breaking her leg. At that moment, Maymm, Shen and Kennen arrived just in time to dispel the spirit and save the children.
+
+Back at the temple, Akali was praised by her fellow students for her speed in saving them. When Faey woke up, she realized the severity of her injuries as she was missing a leg and unable to walk. When Akali tried to comfort her, Faey snapped at Akali, blaming her and angered by the fact that she disobeyed her orders. Hearing her distress, Maymm enetered the room and comforted Faey, vowing to find a way to heal Faey's leg and allow her to walk again so she can fight alongside her as her apprentice once again. Akali, overhearing the conversation, saw the kindness Maymm harbored for Faey and tearfully walked off.The Bow, and the Kunai
+
+=### Becoming the Fist of Shadow=
+At the age of fourteen, Akali formally entered her Kinkou training, determined to eventually succeed her mother in becoming the new Fist of Shadow. Though she possessed no magical talents like the other acolytes who would fill her role, she proved her worth of the title by sheer skill. Soon, Maymm stepped down from her role as Fist of Shadow and focused on mentoring the other neophytes, officially granting Akali the title as her successor.
+
+=### Leaving the Kinkou Order=
+As the Noxian Invasion ended and the Shadow Order reached an uneasy accord with the Kinkou, Akali slowly saw the suffering her people still endured. She began to question her purpose as the Fist of Shadow and whether or not she was truly fulfilling her duties in *Pruning the Tree*. Shen would constantly urge restraint, teaching her meditation techniques and mantras to tame her spirit. However, Akali believed Shen was holding her back, constantly arguing and defying him as she took down Ionia's enemies in her own way.
+
+Finally growing sick of Shen's views on Ionia's balance, Akali insulted the entire order by declaring their impotence, claiming their lack of action in favor of spiritual balance has lead to more Ionians suffering in the Material Realm. Akali officially left order, discarding her title as Fist of Shadow, while Shen let her go without arguing. Shen believed that this was a path that Akali must walk alone with hopes of her returning to the order one day, though he knows that is a decision only she can make herself.
+
+### Modern History 
+Now living as an independent assassin, free from the restraints of the Kinkou Order's teachings, Akali lived as a vigilante, traversing the urban underground of Ionia and killing those that cause her people harm.
+
+=### The Councilman in Weh'le=
+In the coastal village of Weh'le, a hidden phantom port with mystical properties, Akali went on a mission to assassinate a councilman from Puboe who had sold out his own people to Noxian invaders in exchange for gold and safe passage through. She visited her tattoo artist Bo'lii, a  artist who ran a tavern in the port. While drawing a tattoo of a dragon on her back, the Puboe councilman walked into Bo'lii's tavern accompanied by three guards. Akali planned to kill them on the spot, but Bo'lii urged her to do her business outside of his tavern this time, to which she agreed. Once outside, Akali approached and killed the councilman's guards by hiding in a Twilight Shroud and firing several Five Point Strike before finally killing the councilman himself.Leaving Weh'le
+
+=### Reunion with Shen=
+Despite being an independent assassin and having left the Kinkou Order, Akali still retained a close relationship with Shen, who continued acting as her mentor. One day, the two came across a Noxian boy in the Navori province cutting wood from a *Guardian Tree*. While Akali plans to punish the Noxian with brute force, Shen suggests she finds a different approach. As the Noxian loaded up his cart, Akali arrived and broke the wagon's wheels with her shuriken, discovering that the Noxian is actually a young boy to Akali's surprise.
+
+As the sap of the Guardian Tree began to flow into a shrine, it awoke its protector; a large stone guardian that slowly walked towards the Noxian boy. By granting Akali his ability to see into the Spirit Realm, he revealed to Akali that the protector was powered by the anger of the forest, seeking to restore balance and avenge the Guardian Tree by killing the Noxian boy. Against Shen's wishes, Akali rushed forward and attacked the protector with little to no effect. While trying to lift the wagon off of the Noxian boy, Akali realized that the only way to restore the balance is if the boy planted a new tree in its place. By taking a seed from a nearby branch, Akali had the boy plant the seed into the ground before Shen used his spiritual powers to instantly grow the seed into a sapling, taming the stone protector. Lifting the wagon off of the boy, Akali gave him a warning not to harm the land as Shen used his powers to grow the sapling into an even larger Guardian Tree, wrapping itself around the shrine guardian.The Lesson
+
+=### Search for Zed =
+In Zhyun, Akali got word that Zed recently assassinated the Kinkou master Althon, a cousin of Shen. Finding Shen in the Olgathee Forest killing corrupted spirits, Akali told him the news about master Althon, stating that she knows the town that Zed is staying in and suggesting she and Shen go confront him, which he reluctantly agrees to.Zed: Issue 1
+
+Once at a tavern in Thonx, the two found out from the innkeeper that Zed had already left and attacked a blossom festival before heading north to Shual. Akali suggested they follow him, but Shen stated that he had to travel south to slay demons that have been terrorizing a village. Akali tried to convince Shen to follow her to Shual, but Shen remained dedicated to his duties as the Eye of Twilight, urging his former student not to chase Zed alone. Akali, disregarding Shen's warning, took a boat and sailed down the quickest route to Shual.Zed: Issue 2
+
+thumb|right|300px|Akali at a [[Kinkou temple confronting members of the Shadow Order, including Kayn.]]Travelling to an inn near the Kinkou temple of Koeshin, Akali found a group of Zed's acolytes disguised as Kinkou, including Zed's apprentice Kayn. Kayn told Akali that their masters were inside the inn while Akali threatened them by calling a group of Kinkou warriors to defend the temple. Zed then exited the inn followed by Shen, who ordered Akali to let the Shadow Order walk free since Zed declared the *Code of Tuonn,* an honorable call for temporary peace that allows them to let each other walk free without combat. Akali however wasn't satisfied with just letting Zed go and dashed in to kill him anyway, which Zed easily avoided by Living Shadow away while the rest of his acolytes quickly fled the Kinkou temple. Angered by Akali's recklessness, Shen told her never to fight Zed and that he'll fight him alone in the future, officially declaring that the armistice between the Shadow Order and the Kinkou has ended.
+
+Shen eventually revealed to Akali what transpired in the inn; Zed came to warn Shen that the serial killer Jhin had escaped and that he seeks to bring him back to prison. Though Zed wanted to ally with Shen and capture Jhin, Shen refused and insisted on catching Jhin on his own without the help of the Shadow Order, declaring that if he sees Zed interfere then he'll personally kill him and finally settle their scores.
+
+=### Capturing Khada Jhin=
+Akali followed Shen as he investigated a trail of intricate clues in search of the murderer Khada Jhin. Shen's investigation eventually lead him to believe that Jhin was working with the Kashuri faction, a radical nationalist group with ties to the Navori Brotherhood. This trail lead Shen to Nanthee, believing that the village elder was a potential target of Jhin's murder spree. Once at the scene of the crime, Shen stopped Akali from looking at the corpses, stating that she simply isn't ready to see the horrors that Jhin committed.Zed: Issue 3The Man with the Steel Cane
+
+Eventually, Jhin's traps activated as dozens of bombs hidden in lanterns across Nanthee began exploding, killing many and causing massive damage to the city. Akali, noticing the explosion from afar, vows to kill Jhin for what he'd done. Noticing a small ship in the distance and deducing that that's where Jhin was escaping, Akali demanded to know where it was headed, learning that it was headed to the .
+
+Deciding to follow Jhin's trail alone, Akali set sail and eventually landed in Piltover. On her search for Jhin, Akali questioned and interrogated many of the locals, which lead her to the undercity of . In Zaun, she learned that Jhin had been attacking Piltover merchant clans that did business in exporting weapons to Ionia. By questioning the Piltover enforcers, Akali found herself at a theater in the Zaunite neighborhood of Mistfloor, where Jhin was said to have battled with the Ferros clan and their Camille. Awaken
+
+At the theater, Jhin revealed an elaborate trap for Akali, wishing to make her the fourth victim in his disturbing art piece as three piltovans hung from Ionian trees strapped to machines. These machines began firing harpoons at Akali, who narrowly dodged them by tossing a Twilight Shroud before being hit unconscious by an explosive blast created by Curtain Call.Zed: Issue 5
+
+Jhin, having anticipated Zed and Shen's arrivals, set a trap by tying Akali up in a tree near a decoy of his. While Jhin tried to kill the two of them with Zaunite machinery, Zed managed to toss a Razor Shuriken at Akali, cutting her rope and freeing her from Jhin's trap. While Jhin was ready to fire a shot into Shen's head, Akali burst out of the smoke and punched Jhin to the ground, grabbing his gun and preparing to kill him for his crimes while Shen pleaded for her not to as he needed to bring Jhin to Ionia alive. Before she could kill him, Zed pushed her aside and grabbed Jhin, demanding he tell him how he got out of prison. Jhin simply replied with cryptic riddles, stating that Zed already *knew* who freed him before Zed threw Jhin to Shen and Akali's feet, stating that their bargain is done as he quickly fled Zaun.Zed: Issue 6
+
+=### The Second Noxian Invasion=
+thumb|left|300px|Akali joining the effort to defend  from  alongside Irelia, Kennen, Karma and Yasuo.At some point, Noxus began a second incursion of Ionia, sending massive armies accompanied by the undead juggernaut Sion. When the Ionian war hero Irelia began a resistance, she requested aid at a seaside village and received assistance from Kinkou members lead by Akali and Kennen, the spiritual leader Karma and the lone wanderer Yasuo. During the defense against the Noxian army, Akali targeted Sion and struck him with her kama and smoke bombs before joining Irelia and the rest of the champions in a final charge against the Noxians.
+
+## Appearance
+
+Akali is a slender but muscular woman with light skin and red-brown eyes. Her thick black hair is often tussled, tied back in a large, messy bun which flares in every direction. She also has a tattoo of a pale blue dragon among white clouds swirling around her arms and across the backs of her shoulders.
+
+Her typical professional attire is various shades of green with brown leather highlights. She wears baggy pants, a crop top, tabi, and a cloth mask that covers her lower face.
+
+## Personality
+
+Akali is impatient, explosive and determined, preferring to leave the Kinkou Order rather than betray her own ideals and not fight for her people. It is notable that, despite this, she is still loyal to Ionia, being able to do anything, even to become a murderer, to protect the First Lands and her home.
+
+## Relations
+
+### Kinkou Order 
+Akali is currently a ninja gone rogue from the Kinkou Order. Although still part of it, she operates outside of its rules and regulations.[https://cdn.discordapp.com/attachments/265575789892861952/468513244475162642/Proof.PNG Akali Rogue Ninja] She and Shen parted on neutral terms. Neither hates the other but both disapprove of the other's methods.[https://cdn.discordapp.com/attachments/265575789892861952/468513483705548811/dab.PNG Akali and Shen] While growing up in the Kinkou, Kennen trained her and helped her refine her shuriken techniques.
+
+### Zed 
+Zed might attempt to recruit her for his Order of Shadows. Akali; however, wants him dead since many Kinkou members including her father Tahno were killed by him and his order.
+
+### Kayn 
+Akali and Kayn know each other. He has tried to flirt with her multiple times and Akali finds him hot but too crazy for her taste.
+
+### Jhin 
+Akali temporarily teamed up with Shen to track down Jhin after they were informed of his escape. She later pursued Jhin to - and got captured by him, but was later saved with the help of Shen and Zed.
+
+### Irelia, Karma & Yasuo 
+In the second  invasion of ,  call for help to defend a seaside village from the Noxian army including Sion was met by Akali, Karma, Kennen and Yasuo whose arrival turned the tide of the battle.

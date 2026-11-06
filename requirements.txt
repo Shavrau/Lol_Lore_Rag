@@ -1,0 +1,27 @@
+# Runeterra Lore RAG - Dependências do Projeto
+# Instalação: uv pip install -r requirements.txt (ou pip install -r requirements.txt)
+
+# LLM & API
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+
+# Document & PDF Extraction
+pypdf>=5.0.0
+pymupdf>=1.24.0
+pytesseract>=0.3.10
+pillow>=10.0.0
+
+# Web Scraping & Lore Fetching
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Retrieval & Machine Learning
+torch>=2.2.0
+sentence-transformers>=3.0.0
+numpy>=1.26.0
+
+# Interface & Utilitários
+fastapi>=0.115.0
+uvicorn>=0.30.0
+gradio>=5.0.0
+tqdm>=4.66.0

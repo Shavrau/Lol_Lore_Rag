@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment & Package Managers
+.uv/
+
+# Environment Variables
+.env
+!.env.example
+
+# Caches & Embeddings
+data/cache/
+*.npy
+*.pkl
+*.cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints*/
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Binaries & Tunnels
+cloudflared.exe
+*.exe
+
+# Test screenshots
+test_*.png
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

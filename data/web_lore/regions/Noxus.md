@@ -1,0 +1,562 @@
+# Região: Noxus
+**Tipo:** Lore de Região / Runeterra | **Fonte:** League of Legends Wiki & Universe
+
+For information about the  Legends of Runeterra  regional card set, see  Noxus.
+
+Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, Noxus is brutal, expansionist, and threatening. Its people were once a fierce reaver culture until they stormed the ancient city that now lies at the heart of their empire. Under threat from all sides, they aggressively took the fight to their enemies, pushing their borders outward with every passing year. This struggle for survival has made the Noxians a deeply proud people who value strength above all, though that strength can manifest by many different means.
+
+3.4 The Battle of Bard Mountain
+
+AmbessaBriarCassiopeiaDariusEliseDravenKatarinaKledLeBlancMelMordekaiserRellRivenSamiraSionSmolderSwainTalonVladimir
+
+Alistar is a former prisoner of Noxus.
+
+Annie is a daughter of the Gray Order's exiles of House Hastur.
+
+Caitlyn is investigating the Noxian spy network in Piltover.
+
+Camille is investigating the Noxian spy network in Piltover.
+
+Elise is a member of the Black Rose that worships the Vilemaw of the Shadow Isles.
+
+Galio fought against many Noxians in the past.
+
+Gangplank stole  Swain's flagship, The Leviathan, and raided numerous Noxian ships.
+
+Garen fought against many Noxians in the past.
+
+Irelia cut off Swain's left arm during the Noxian Invasion of Ionia.
+
+Jarvan IV is  Grand General Swain's nemesis.
+
+Karma single-handedly defeated the Noxian army invading her village.
+
+Karthus was a corpse collector in the slums of Noxus, but later defected and moved to the Shadow Isles.
+
+Kayn is Noxian by birth, and a former soldier during the Noxian invasion of Ionia.
+
+Lee Sin fought off Noxian invaders during their invasion of Ionia.
+
+Master Yi and some of the Wuju warriors fought against noxians during the Ionia-Noxus conflict, but after the war ended and the Wuju village was destroyed by chemical fire, Master Yi went to exile.
+
+Quinn and  Valor captured a Noxian assassin.
+
+Ryze was born in the village of Khom of the Noxii (Noxian ancestors).
+
+Sett's father was a Noxian pit fighter.
+
+Singed was hired by Noxus for his chemical warfare expertise during the Noxian invasion of Ionia.
+
+Sivir was formerly employed by Cassiopeia.
+
+Smolder was captured by a group of Noxian beastmasters to be sold, but later washed up on an island off the Noxian mainland where he spent most of his life being kept a secret from Noxians with the intent to sell him. After being rescued by his mother, they both currently live on the cliffsides of Noxus.
+
+Taliyah is a former Noxian employed stone mage.
+
+Thresh visited and attacked a Noxian inn after being unbound from the Shadow Isles.
+
+Urgot was tricked by  Swain into traveling to Zaun.
+
+Veigar is a Yordle that went mad from imprisonment in the Immortal Bastion.
+
+Xin Zhao is a native Ionian that was captured by Noxian forces and forced to participate in the fleshing festival.
+
+After the Great Darkin War left the world in ruin many centuries ago, a coven of sorcerers was formed, united by the whispers of a  long dead soul that promised giving his strength to any who brought him back. He spurred them to make him stronger than any mortal, binding his spirit-form in dark metal plates wrought in the likeness of his old armor.
+
+These power-hungry sorcerers had hoped to use him as a weapon in their wars. Instead, the reborn spirit slew them where they stood, their weapons and magic useless against him.
+
+From the fearful, dissipating souls of the sorcerers, Mordekaiser forged his brutal mace, Nightfall and seized control of the army they had raised. Mordekaiser and his armies swept across the lands, crushing and enslaving any who would oppose his rule. To his foes, it seemed he cared only for massacre and destruction. Entire generations perished under his relentless campaigns.
+
+He raised the Immortal Bastion at the center of his empire, in the Noxii territories in which his first campaigns had taken place, secretly that place was the source of his power and held countless arcane secrets gathered for centuries as Mordekaiser hungered for all the forbidden knowledge of spirits and death, and a true understanding of the realms beyond. To help him in his goals, the tyrant created the Black Rose, his inner circle of mages which were some of the few who came to know the secrets he had gathered.
+
+Such tyranny could only bring him enemies. The Iron Revenant was defeated, surprisingly, by an alliance of the Noxii tribes, and betrayal from within his own inner circle, now lead by  LeBlanc who allied herself with  Vladimir. The Black Rose neutralized the source of his power, the Immortal Bastion, and managed to sever the anchors of his soul from his armor, sealing the empty iron shell away in a secret place.
+
+And so, Mordekaiser was cast out of the material realm. However, unbeknownst to anyone, he had planned for this—indeed, it was a pivotal part of his design. For now he had all the power and knowledge to build a kingdom beyond death and life - and eventually return.
+
+Over a century past, the brutal warlord  Sion rose to prominence as he won many vicious triumphs for Noxus. He was the last of a proud warrior culture that had been part of Noxus since its founding and swore to his ancestors to die a proud warrior's death.
+
+The empire's might was at a peak not seen for hundreds of years and so it took the generals of high command by surprise when Demacia first resisted their western invasions, then began pushing back their steady advance. These Demacians drove the Noxian warbands eastward, harrying them back behind the walls of Hvardis. Sion, who had been campaigning in the Argent Mountains, turned south.
+
+He arrived at the city to find the Demacians on the horizon preparing to return home. Sion readied his troops, but the Noxian commander at Hvardis, had already suffered several defeats to the enemy, and was content to let them return home. Outraged, Sion hurled the commander from the city walls, and ordered the attack.
+
+But while Sion warband charged with him, the ones who had been cowering in Hvardis retreated back to the city, leaving Sion and his trusted few surrounded.
+
+One by one, they fell, but Sion reached to Jarvan and fought brutally. With a final burst of strength, Sion clamped one hand around the King's throat, being stabbed by Jarvan's guards again and again, but only when the enemy king was slain did Sion allow death to claim him.
+
+His body was recovered—along with the Demacian king's crown—and borne back to the Immortal Bastion in honor. Noxus mourned Sion's passing, and his corpse was interred within a towering monument constructed to honor him for all time.
+
+The lands beyond the Argent Mountains would since be contested by Noxus, creating an almost lawless frontier full of foreign reavers and warring tribes, which would lead to a greater action of Demacia defending their allies and the establishment of a rivalry between them and Noxus that would last for centuries.
+
+Mural of the Noxian Invasion of Ionia
+
+From its formation, the residents of Ionia preferred to pursue personal enlightenment instead of waging constant battles with other nations. The militaristic nation of Noxus saw their "weakness" as an opportunity. Noxian spies began to trade aggressively with the Ionians, traveling through provinces to study its weaknesses and identify critical targets.
+
+Not long after, the warhosts set sail for Ionia as part of the long-planned Noxian invasion.
+
+The invasion began in Navori, the central province of Ionia. Many villages and settlements fell, and thousands of Ionians died as their magical artifacts were stolen to extend the life of their mad emperor.
+
+This aggression forced the religious leader  Karma, known  for her peaceful teachings, to fight back. Across Navori, dissenting voices began to band together. A resistance was forming, one that would not rest until Ionia was free once more.
+
+At one of the most important points of the war, a warhost led by  Jericho Swain captured the Placidium and took its defenders hostage, hoping to lure the inevitable reinforcements into a trap, but a 14-year-old girl named  Irelia  unleashed the power of ancient Ionian dances, and through it, the power of Ionia itself upon the Noxians. A dozen of Swain's veterans fell, sowing chaos in their ranks as the other captives joined her, before Irelia struck down the general himself. The sight of this rebellious girl hefting his severed arm over her head would be the turning point of the war.
+
+The growing resistance was led by Irelia for almost 3 years of war, but as Ionia united in resistance, Noxus doubled their war efforts--children were sent in as foot soldiers, trying to exploit Ionian mercy, and Chemtech bombs bought from an infamous  Zaunite alchemist bombarded both Ionians and Noxians.
+
+Those Chem bombs had gruesome effects on the lands. Perhaps the place where those consequences are most notable is the Wuju village, where rumors of an  one-man army caught Noxian attention. In a single night, the entire village was destroyed, its people and culture obliterated by chemical fire. Even now, years after the end of the war, nothing can grow on this land and the souls of those who died on that horrible night lay trapped by the corrupted magics of their own land.
+
+The war was ended when  Swain, with the might of a raven demon and many allies, (including  Draven) killed Darkwill and established the Trifarix. He pulled back the warhosts from Darkwill's unwinnable campaigns, ending the war with Ionia. However, Noxian presence remains, as many Ionian regions are still under Noxian rule.
+
+Noxian troops tried to capture Bard Mountain and obtain a valuable magical artifact kept by the locals. During the battle, the village sage was tasked to take the artifact to one of the Celestial shrines on the top of the mountain. The Noxians mortally wounded him with arrows before he could reach the shrine. But as his last act of defiance, he used the artifact to strike his would-be-killer, obliterating him and slicing a nearby peak in half. This misuse of the artifact's power had drawn the attention of a  celestial being, who promptly intervened in the event. He retrieved the artifact and took it away from the mortal plane before the Noxians and Ionians could use its power for war.
+
+Darius returning to Noxus from the Freljord
+
+After a grinding victory against the cloud-fortresses of the Varju, a proud warrior people who had resisted decades of Noxian aggression, Darius was named the Hand of Noxus by Emperor Boram Darkwill himself. Those who knew Darius best knew he craved neither power nor adulation—he wished merely to see Noxus triumph over all—so Darkwill ordered him and his warhosts far north into the Freljord, to finally bring the barbarian tribes to heel.
+
+The campaign dragged on for years, ending in a bitter, icy stalemate. Darius narrowly survived assassination attempts, ambushes, and even capture by the vicious Winter's Claw. He was growing weary of endless wars of attrition, and returned to Noxus to demand a reconsolidation of the military.
+
+He marched his veterans into the capital, only to find that Noxus itself was fighting an internal war.
+
+Main article: Proclamation of the Trifarix
+
+Swain overlooking the Immortal Bastion
+
+After Swain's discharge following the Battle of the Placidium, he came to know the Black Rose was still operating and puppeting the actions of Darkwill, betraying him to death in the battlefields of Ionia. After many years of preparation and the reunion of many allies, such as  Draven and General Du Couteau, Swain managed to kill the Emperor of Noxus in a single night, with the newfound power of an ancient demon lying within the Immortal Bastion.
+
+Reaching the capital, Darius found himself in a difficult position. As Hand, many of the noble houses would expect Darius to avenge Darkwill, but he had known and greatly respected the disgraced general Swain, and had spoken against his discharge after the botched offensive in Ionia three years earlier. The oaths of the Hand were to Noxus, not any particular ruler, and Swain was a man who spoke honestly of his new vision for the empire. Darius realized this was a leader he was prepared to follow... but Swain had other ideas.
+
+With the establishment of the Trifarix, three individuals would rule Noxus together, each embodying one principle of strength:  Vision,  Might, and Guile (known as Faceless, true identity unknown). Darius gladly accepted his place on this council, and pledged to raise a new, elite force—the  Trifarian Legion, the most loyal and prestigious warriors the empire could produce—and lead the armies of Noxus into a glorious new age of conquest.
+
+Main article: The Shedding of Skin
+
+While Darkwill's wars raged on, the Black Rose's influence reached out to Shurima though Soreana Du Couteau and her daughter  Cassiopeia, but their efforts were made more urgent when word reached Urzeris of  Jericho Swain's coup, carried out with the help of General Du Couteau.
+
+Outraged by her husband's betrayal, and fearing for the Black Rose, Soreana dispatched Cassiopeia to seek out their ultimate goal in Shurima: the godlike power that had been the key to the Shuriman empire's supremacy.
+
+Upon unearthing the Tomb of the Emperors, Cassiopeia knew this was the threshold to the power she sought, and intended to kill all witnesses from her expedition before claiming it. The guide  Sivir was the first to fall to Cassiopeia's blade, but then an ancient stone tomb guardian reared up, and buried its fangs into her flesh.
+
+Overcome by its arcane toxins, she was carried back through the desert by her hired soldiers, screaming as her body twisted into something new and unspeakable...
+
+Upon her return from the desert, Cassiopeia had hidden in her family's crypt, fearful of her cursed transformation. She remained alone in the vault for weeks, filled with disgust for her serpentine body and mourning the loss of her aristocratic life. Eventually, a growing desire to hunt overwhelmed her, and she ventured out into the night as the household slumbered to kill those who deserved death in her eyes.
+
+Cassiopeia knew she had unearthed the magic of dead Shuriman gods and she would turn it to the schemes of the Black Rose just as she and her mother had planned.
+
+When the Demacian  Prince Jarvan IV received the honorary rank of general, he marched to the lands beyond the Argent Mountains, to bring stability to the almost lawless frontier created by Noxian presence. In response, the newly established Trifarian Legion was sent to the Gates of Mourning, a standing outpost close to the westernmost Noxian border.
+
+After Diadoro from the Dauntless Vanguard held the Gates of Mourning for an entire day, they fell to the Trifarian Legion. General Granth would later be honored as a hero of this battle, even though he knew the Gates fell to the Legion and the honorifics given by Swain were an insult, one that would bloom in his heart as a  pale woman reached out to him.
+
+When word came that the Gates of Mourning had fallen, Jarvan resolved to drive onward into Noxian territory, against the advice of his lieutenants. Inevitably, with the battalions spread so thin, Jarvan was encircled and defeated by Noxian warbands before he even reached Trevale.
+
+Refusing to surrender, the prince and a handful of other survivors fled into the forests, only to be hounded for days by the Noxians. Eventually, pierced through his side by an arrow, Jarvan collapsed into the shade of a fallen tree, where he would be saved by a  purple skinned woman.
+
+Two Noxian Warmasons (warrior spies), Tamara and Colette, infiltrated Piltover for many months in hopes of placing an agent inside Clan Medarda. They used the annual Progress Day to showcase their technical skills to the clan's masters and apprenta.
+
+Tamara Lautari showcased her Hex-Armillary Amplifier invention. It worked by harnessing the properties of a crystal and exponentially increasing its output. However, the invention itself proved to be dangerous as it almost destroyed the entire hall due to its faulty construction - which was intended to sabotage the proceedings.
+
+Later on, after leaving the Medarda mansion, Tamara was apprehended by  Caitlyn, who had discovered her true identity and purpose in the city. She was subsequently banished and sent back to Noxus.
+
+Both Tamara and Gysbert failed to become Medarda apprenta, but Colette succeeded. Some time after, Colette would obtain a Medarda trading map, which she would relay to Noxian intelligence.
+
+Main article: At the Edge of the World
+
+The jungles of Shurima are a frontier that the most ambitious generals would dearly love to claim for Noxus. Having petitioned Noxian high command no fewer than seven times, fleet officer Tomyri is finally summoned to the capital to receive a commission of her own. Tomyri oversees her vessel's final preparations, before learning that the expedition is to be joined by the renowned Reckoning beast hunter, Niander Ordylon. After many days at sea, the Ardentius enters the Serpentine Delta. This is Tomyri's first real glimpse of the wilderness that awaits her, and her crew. The jungle does not treat foreign invaders kindly. Unable to find their bearings, or any quarry for the beast hunters, the Noxians' morale and discipline begins to falter.
+
+The war veteran Quilletta Varn, steward of Baslich at the time, rebelled against Noxus, forcing the  Might of Noxus (Quilletta's childhood friend and ex-lover) himself to come to the city, together with  Draven and the Warmason Tamara. Against Tamara's advice Draven leads a force against the city, which is held back by archers and a gunpowder bomb.
+
+After the defeat Darius goes to Blackrock Mere, a lake full that reminded him of his time with Quilletta, he did so knowing an assassin would be ready to kill him, and so brought Draven hidden with him.
+
+Going back to Basilich with the assassin's head, Darius and Draven faced Quilletta and her second-in-command Invetia Varn. It is revealed that Decius, Quilletta's son, died in the campaign against Freljord by Darius's call to arms. A discussion about how Noxus must conquer and no city can rebel without paying the price arises.
+
+Suddenly ships from Vindor are seen in the distance, Quilletta affirms that Steward Amenesce stands at her side and is bringing his warriors to help her, but due to Trifarian Legions forces on Vindor, Amenesce betrayed Quilletta and was actually coming to help Darius. Running out of options, Quilletta tries to tell Darius that Decius was not only her son, but also Darius'. Invetia Varn, her own daughter (and hinted to also be Darius' by  Swain's interaction), kills her before she finishes, becoming steward of Basilich and ending the rebellion.
+
+Main article: Awaken In a near future, Noxus will start its second attempt to conqueror Ionia, with  Sion joining the cause. They are met with resistance leaded by  Irelia in a seaside village. Sion manages to overpower Irelia while the Noxian army is decimating Ionian farmers, but the arrival of  Akali,  Karma, Kennen and  Yasuo ultimately turns the tide of the battle.
+
+The Empire of Noxus (commonly referred to as Noxus) is a massive expansionist culture, constantly moving its borders further outward and currently sits as the biggest empire in Runeterra. But the capital is located on the eastern territory of Valoran, sharing its borders with Freljord, Shurima, and several city-states such as Piltover and Zaun. It also is close to bordering with Demacia. The currently well-known locations within Noxus are:
+
+The Immortal BastionThe Immortal Bastion Map 1The Immortal Bastion Map 2Bastion Center Tri-TowersReckoner ArenasLife Is A BattleReckoner's ArenaReckoner Arena GauntletMortoraaLayers Of HistoryBastion Outer Walls1/11
+
+Situated in the heartlands of what would later become the Noxian empire, the Immortal Bastion was built by a dreaded  sorcerer in a far distant age. Yet eventually besieged and conquered by a confederation of barbarian tribes who would make the stronghold their new capital. Within the stronghold's walls, the streets and alleyways are narrow and twisting, designed to stifle and frustrate any attacking force that managed to penetrate the fortress outer defenses. The rooftops are flat and crenelated, like the battlements of a castle, allowing soldiers above to dominate any enemy below. While nowhere near as pristine in appearance as the Great City of Demacia, the city is the visual representation of the empire's austere nature. Many noble houses are located in the capital, such as House   Du Couteau. The city is also the headquarters of the enigmatic Black Rose cabal.
+
+Mortoraa: Translated into Iron Gate, is a small district within the Immortal Bastion, known for being one of the wealthiest neighborhoods as well as home to the mysterious socialite,  Vladimir. Unlike many other districts which are typically cramped, the streets in Mortoraa are luxurious and comfortably spacious. However, at night it has a reputation as the most ominous district for the streets are never illuminated with torch-light or lanterns.
+
+Bastion Center Tri-Towers: Located at the center of the Bastion, it is a place forbidden by the order of the Trifarix due to it not being under their control, and anyone who tries to go there must therefore be an enemy of  Noxus. It is possibly the headquarter of the  Black Rose.[1]
+
+Shrine of the Wolf: A tall, multi-tiered tower with open sides, butting up against the old southern bulwarks of the Immortal Bastion. Each level of the tower is held aloft by three pillars of dark stone. In the center of the tower, looming almost fifty feet high, is a massive obsidian statue of a seated wolf.
+
+Stairs of Triumph: A long unbroken flight of stairs leading to the Audience Chamber. Going to the Audience Chamber, a pair of liveried Legionnaires clad in dark steel stand sentinel every twelve steps.
+
+Audience Chamber: An old cavernous throne room, large enough to house over a thousand petitioners. While Boram Darkwill once perched on the throne, the Trifarix who now lead Noxus sit at a simple marble table at the foot of the throne's raised platform to discuss the future of Noxus and hear petitions from leaders of its regions.Sion's Memorial (Newly built)Sion's Memorial (Run down)Sion's Memorial (Black Rose)Sion's Memorial (Reanimation)1/4
+
+Sion's Memorial: This memorial and tomb is dedicated to  Sion, a Noxian war hero celebrated as the killer of the Demacian king Jarvan I. It was later used to contain the resurrected form of Sion before  Swain, with the aid of the Black Rose, was successfully able to control him by the use of  Jarvan IV's blood. The current state of this memorial is unknown, though the former man once housed in it unwillingly serves Noxus once more.[2]
+
+Slums: The sprawl of dwellings built beyond the battle scarred walls of the Noxian capital where many people live in abject poverty and death is commonplace. Tally-men of Kindred often notch their staffs and bare bodies from the almshouses.
+
+The Fleshing Arena: Noxus has been renowned for a festival called The Fleshing, though it is unknown if this still continues. It is a gladiatorial event with a cruel twist: as a fighter wins their matches, the number of opponents they fight simultaneously, generally other prisoners of war, increases. This meant eventual death for every contender, though also unparalleled glory. Both  Xin Zhao and  Alistar are survivors of the spectacle, with Xin Zhao holding the record for defeating the most opponents.
+
+Zagayah Enclave: Coastal enclave inhabited by Shurimans who joined the empire on tented pavilions. It is known for it's desert marching songs.
+
+Dalamor PlainHastur's Home 1Hastur's Home 2Annie's Room 1Annie's Room 2Urtis1/6
+
+Other known locations in north Noxus are: Northern Steppes, Rugg, The Iron Pinnacle, etc.
+
+Dalamor Plain: Located at the northern edge of Noxus, many travelers have lost their lives in this unforgiving wasteland. Due to the dusty climate and perhaps also the presence of a certain murderous  yordle and his mythic  drakalops, most Noxians avoid traveling through the area, with its only populated settlement for hundreds of miles being the village of Drugne.
+
+Drugne: An isolated town north of the Dalmor Plains and southeast of the Ironspike Mountains.
+
+Ironspike Mountains: They are a relatively small mountain range located in the southeast. Noxus has territory here, in the Delverhold.
+
+Delverhold: Between Noxus and the cold tundra of the Freljord lies Delverhold: A fortress settled at the foot of the Ironspike Mountains where it has prospered from the wealth of gold and iron ore quarried from the mountains. It was originally a kingdom of its own independence, that is until the empire of Noxus encroached about eighty-seven years ago. In fear of annihilation, the Delverhold king relinquished his authority and swore loyalty to the foreign emperor. Now its people work endlessly to supply Noxus with armor and weapons crafted with the iron they mine; and in turn, are never drafted to fight for the empire.
+
+Hastur's Home: Former home of the Hastur family. It has since burned down due to  Annie's uncontrolled abilities.
+
+Kimir: A Noxian mining city in northern Valoran. The city is currently led by Steward Colm Onren and is the leading exporter of Noxian granite in the north.
+
+Kimir's Graveyard: Kimir's graveyard is located just outside of the city. Its burials are adorned with gravestones and statues in the likenesses of the deceased.
+
+Kimir's Longhall: Kimir's founders had raised its longhall many generations ago, not far from the quarry whose stone laid its foundation.
+
+Kimir's Quarries: Kimir's oldest quarry was unequaled in the north. It was nestled between a trio of high foothills, the inverted ziggurat slowing biting into their height. From a certain hill, one could see the mountains to the east, the forests to the north, and the city's walls just a short trek southwest. Soapstone, alabaster, clay, limestone, slate and granite can be found in these quarries.
+
+Morrin: A Noxian town located in northern Valoran. Close to Kimir, their neighbors' flowers were highly coveted by Morrin.
+
+Urtis: A northern frontier settlement of Noxus. It was previously its own independent kingdom until its king was killed by  Darius.
+
+Memories of DestructionMemories of Destruction MapNoxtoraa in East Noxus1/3
+
+Other known locations in east Noxus are: Bucket Creek, Khworez, The Immortal Bastion, etc.
+
+Bloodcliffs: Built into the cliffs near an estuary, Bloodcliff neighbors the Immortal Bastion and Basilich on the eastern coast of Valoran. The city's current leader is Steward Hovri IV. One of its main sources of trade are rough grades, which are used for establishing foundations of buildings.
+
+Drakkengate: Located on the eastern coast of Valoran, the city's current leader is Steward Algor Nimchi. It has been in control of Noxus ever since the Draken campaign, lead by  Kled. Its most well-known export is its fine mudpacks (for bricks perhaps), though unfortunately its products seem to be tainted by adulterants: peach slugs, nacre powder, Nirpooti skins, Freljordian grain milk,  Honeyfruit seeds, and Ionian silver pomace.
+
+Drekan: The closest settlement to The Immortal Bastion.
+
+Khom: A village where  Ryze was born, this village was completely obliterated during the Rune Wars.
+
+BasilichSwain at the Rokrund PlainsResurrected Sion during the Siege of Hvardis1/3
+
+Other known locations in south Noxus are: Blackrock Mere, Fenrath, etc.
+
+Argent Mountains: A vast mountain range located in the southwestern part of Valoran. Noxus controls a small portion of the mountain range on its south-eastern and south-western parts. Its coastline has Noxian conquered settlements of Glorft, Kilgrove, Trevale. The mountain range borders close to the Varju mountains on the east and the Gates of Mourning on the west.
+
+Gates of Mourning: They are located in the southwestern tip Noxus and central Valoran. They were used to guard the neighboring lands from Noxian invasion before their recent fall. They are also located west of Hvardis. The Gates are the location of the first battles between Demacia and Noxus. In modern times it was retaken by the Trifarian Legion.
+
+Glorft: Located south of the Argent Mountains on the coast. It is unknown if this city is under control of Noxus but it was the location for the Assault on Glorft, led by  Kled.
+
+Hvardis: A city that was located at the edge of the Argent Mountains near the Gates of Mourning. It has since been decimated by  Sion as ordered by  Swain to discourage and further rebellion from conquered settlements.
+
+Kilgrove: Located south of the Argent Mountains on the coast, Kilgrove is currently led by Steward Dauvin, who seems to have replaced his predecessor Thomark quite recently. Its primary export is Kilgrovian cloudcedar.
+
+Trevale: a farming village on the western edge of Noxian territory.  Kled was part of the initial Noxian party that sacked the village.  Riven was born and raised here.
+
+Fallgren: One of two islands located off the coast of Basilich, the island city of Fallgren has been under control by Noxus ever since the Battle of Fallgren, purportedly spearheaded by  Kled. Presently the city is governed by Steward Jeon. Many tubes used in Zaun have been made here by Hedicila Elastica.
+
+The Great Barrier: A large mountain range stretching at the edge of southeastern Valoran. It was once the sight of many battles and scattered ruins of cities and other settlements destroyed during the Rune Wars.
+
+Basilich: Located on the eastern coast of Valoran is the port city Basilich, which was integrated into the Noxian Empire 32 years ago after the city's elders submitted to Captain Cyrus and his army. Nowadays Basilich has been among a few cities that have attempted to rebel from the hold of Noxus. Most recently when the city's steward Quilletta Varn lost her faith in the Empire and sparked a revolution for independence. For acts of defiance, the city was besieged personally by the Hand of Noxus - Darius, who was also raised on the streets of Basilich as an orphan. The ongoing rebellion ended after the steward was murdered and replaced by Quilletta's second-in-command and daughter, Invetia Varn. The city is well known for its paintings made out of cobwebs.
+
+Ironwater: Located on the coast of the Guardian's Sea and east of Trannit, Ironwater is currently governed by steward Arron. Its primary export is beet wine.
+
+Krexor: Located east of Piltover, it is governed by Steward Lisabetya, the latest in a long list of governors. The city is known for its  Minotaur smiths.
+
+Trannit: Located on the coast of the Guardian's Sea and west of Ironwater, Trannit is currently governed by steward Eranolaj Smik. It primarily exports dried Bolbo fish, which can be made into a local delicacy - boiled Bolbo-head soup.
+
+Vindor: Located south of Basilich and west of the Fallgren islands, it is currently governed by Steward Amenesce. The city is well known for its Light Vindoran horse breed, bred for desert use. The Noxian Dark Riders are said to specifically only ride breeds from this area.
+
+Varju Mountains: A small mountain range bordering the Argent Mountains.
+
+Rokrund Plains: The Plains are located at the footholds of the Vajru Mountains.
+
+Rokrund: Located on the Rokrund Plains in southern Valoran, and neighbor to Qualthala. Rokrund is currently governed by steward Katye. Its primary export is the naap, a type of twisting root vegetable.
+
+Qualthala: The site of the Siege of Qualthala, led by  Kled.
+
+Syndra inside The Dreaming Pool
+
+Bahrl: An island in the central part of the chain, south of the main island of Ionia. The villages of Tevasa and Wuju are located here, as is the Epool River, where  Zed found  Kayn. It is the sight of the first Noxian uses of Zaunite bio weapons. To this day Noxus controls the lower half of the island province.
+
+Fae'lor: A small island to the west of the main island of Ionia. It is the location of the Dael'eh Ahira, the Dreaming Pool, which previously imprisoned  Syndra. Its famous monastery school was converted into a Noxian fort during the invasion. The island has since been stripped bare by Syndra's power, and the fort ripped free of its foundations.
+
+Fae'lor Castle: The fortress of Fae'lor was built upon the westernmost island of Ionia. Highly defensible, this place had remained for centuries, standing against countless foes, before being finally overrun after a long siege during the Noxian invasion. Its famous monastery school was converted into a Noxian fort during the invasion.
+
+Dael'eh Ahira Pool: Dael'eh Ahira, or the Dreaming Pool, a spiritually magical pool that previously imprisoned  Syndra. Currently it imprisons a vastaya named Kalan.
+
+Navori: Located on Ionia, the province of Navori spans the western half of Ionia and is home to various villages, prestigious schools, sacred magical gardens, and the iconic Placidium of Navori. Noxus controls the southwestern edge of the province.
+
+Bel'zhun: Located in northern Shurima, this outpost has previously been controlled by Hagyos Valif and Hazir Ima'Sai but is currently led by a Noxian steward named Dorrik. The city has had a large rebel insurgency against Noxian rule. Known as the Suns of Bel'Zhun, they frequently trade weapons with Clan Medarda of Piltover. The plates and wool of the native Hwatis, goatlike creatures with bony casques on their heads, are prized for felting and insulation.
+
+Tereshni: This Shuriman port city is currently controlled by Noxus and led by Steward Ta'Fik. The city's best-known export is Shuriman Azirite (aka blood glass), named after the current Shuriman Emperor,  Azir.
+
+Urzeris: Located in the northern coast of Shurima, this port city is currently occupied by Noxus, and its current governor is Steward Zikka Taum'Vin. Its most well known trade good is Urzeris Salt. Marcus Du Couteau with his family was stationed close to the governor of Uzeris before his assassination. Both  Katarina and  Cassiopeia lived here during their younger years.
+
+Map showcasing Noxian-controlled lands
+
+A SpiderlingA Frenzied SkittererA Hapless Aristocrat and EliseElise and her Arachnid childrenSpider Queen EliseElise and her Arachnid childrenElise's Precious PetAn Arachnoid HostAn Arachnoid SentryA House Spider1/10
+
+Arachnids known as  Spiderlings are the giant children of  Elise and  Vilemaw and reside in both  Noxus and the  Shadow Isles. Large dark spiders with red highlights, they feast upon living the flesh of humans and other large prey. Living in groups, they gained a hive mind with each other as well as their Spider Queen Elise.
+
+A BasiliskNoxian BasilisksBasilisk RiderA Drake-HoundDrake-Hounds and a Basilisk named Talz1/5
+
+Monstrous reptiles from the eastern jungles of Shuriman Continent, basilisks are fierce saurian predators that can grow to gargantuan sizes, few can stand against their charge. Juveniles are prized riding beasts, and a few can stand against their charge. After they become too large for a rider to control, they are used as beasts of burden, or sometimes as living battering rams to smash down the walls of besieged cities. They are covered in thick greenish hide, hard as iron, which was used for camouflage in the thick native jungles as well as protection. They also have fin type extensions on their backs and back lower legs, hinting on their proficiency in traversing swampy areas. Other than their front horns, the creatures have strong a strong tail used for swimming and hitting other enemies.
+
+Bellswayer is a proud, celestial creature native to the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, bellswayers are just as quick to resume a composed and regal posture.
+
+Blue Stargazers are a type of decorative flowers that grow around the city of Kimir. Its blue hue is used to as a dye for clothing as well as limestone and shale. A well-placed bundle of blue stargazers won the war with the city of Morrin before it began.
+
+A distant relative of dragons, Draken-hounds are a species of wingless, wolf-sized carnivores that lair in the mountains to the north of the Noxian capital. They are vicious pack hunters, and much favored in Noxus as war-beasts, guard creatures, herding animals, and expensive (albeit dangerous) pets. To own one or more drake-hounds is a visible symbol of wealth and power. They are a prized gift to the tribal chiefs of the Dalamor Plains.
+
+A Drakalops known as Skaarl, ridden by KledLight Vindoran Horse1/2
+
+Native to the northern steppe, drakalops are a species of immortal, lizardlike herbivore known for their incredible speed on land.  Skaarl is one of these.
+
+Elmarks are a domesticated herd herbivore animal.
+
+The  Hooked Grouse is a bird species native to the northern steppes of Noxus.
+
+A Breed of horses native to Vindor. Specifically bred for desert use, they are described as "destriers and coursers" by Noxian Warmbloods.
+
+A type of plant native to the Island city of Fallgren. Its natural elastic properties are used for creating Zaunite tubes.
+
+A type of edible plant native to the areas around Rokrund. Its roots, having a similar appearance to onions and carrots, are used for baking.
+
+Nightbloom: are a rare flame-red petaled flower native to the  Blessed Isles. It is virtually extinct except for a few who bushes that are cared for in  Vladimir's garden in his mansion in Noxus. On the Blessed Isles they blossomed on the evening of the summer solstice. By morning the flowers wilted, leaving only blackened petals, not to be seen again until the following year. But for one night, they illuminated the forest with blazing crimson. If the flowers petals are plucked the remaining petals immediately curl inwards, the stem bending away as if it can express fear.
+
+Originating from the conquered lands of Noxus, this citrus fruit is the primary source of Vitamin C for  Bilgewater pirates that prevents scurvy. They are on the sweeter side, compared to other varieties of citrus fruit found on  Runeterra.
+
+A particularly Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value). on a Noxian soldier's leg.
+
+Poros are the mysterious, magical, and most-loved creatures originating from the Howling Abyss. Poros are equal parts truth, valor, and innocence. The colour of their fur is described as “very light blue, like  Freljordian snow”. They have a heart-shaped underbelly because they're made of love. A poro's horns perk up when it's excited and droop down when it's scared. Poros paddle through deep snow with their front paws. Some believe that poros are indestructible. Poros stick their tongue out because they are incredibly warm. This is why they can survive the harsh cold environment of the Howling Abyss.  Poro-Snax are frosted with Freljordian ice crystals and are a favourite treat of this creature. The leader of the Poros is known as the  Poro King.
+
+There is at least one Poro found in Noxus.
+
+Tuskbeasts are giant elephants used by Noxus as living tanks. They resemble Freljordian Mammoths in that they have large curved tusks and small ears. What differs is that they don't have a coat of fur to protect them from winter weather. Noxian warbeast riders usually mount heavy armor on them to protect them from any enemy artillery.
+
+A type of fish native to the shores of Grannit. They faces have a humanoid like appearance and are best when dried, though boiled Bolbo-head soups are also an option.
+
+Noxians respect strength above all things, and the only way to remain strong is to be constantly tested. They relish the opportunity to compete with one another, since to not be challenged is to grow weak, and even those at the peak of power must always seek new ways to challenge themselves... or they will not remain in power for long. It is not just physical or martial strength that Noxians admire - those who demonstrate expertise in politics, craftsmanship, trade, and magic all help to create a stronger Noxus.
+
+Anyone can prosper in Noxus, no matter their background, so long as they have the strength of will, and the drive to succeed. The warlord Darius is a perfect example of this, rising from nothing to become one of the empire's most powerful leaders. Despite this meritocratic ideal, the old noble families still wield considerable power at the heart of the empire, and some fear that the greatest threat to Noxus comes not from its enemies, but from within.
+
+As Noxus expands and defeats neighboring cultures and cities, it offers the conquered people a choice; swear loyalty to Noxus and be judged solely on your worth, or be destroyed. This is not subterfuge or any kind of ruse; the Noxians are as good as their word, and many who have embraced their conquerors' way of life find their prospects greatly improved. But those who refuse to bend the knee are crushed without mercy.
+
+Whether a city is taken by force or willingly swears fealty to Noxus, its Warmasons immediately set to work in stamping the empire's authority upon the newly acquired territory. Gateways of dark stone quarried from the mountains surrounding the capital are raised on every road leading to the city. Known throughout Valoran as Noxtoraa (gateway to Noxus in Ur-Nox) these towering structures leave approaching travelers in no doubt as to who holds the reins of power.
+
+Every city conquered has an assigned Steward to govern and uphold Noxian law and authority.
+
+The Empire boasts a vast number of different languages, due to it conquering different lands. Va-Noxian is the most common tongue used in Noxus. "Noxian (language) is closer to German, spoken by someone with a mouthful of mashed potatoes" - Interlocutioner (writer)[3]
+
+Va-Nox: unified spoken tongue of the empire. Doesn't have a written form.
+
+Khosis g'vyar - Watch where you are going
+
+Say-rah-dech - words used to summon lighting from an enchanted blade
+
+Stom Ur Got! Stom Ur Got! - A Noxian chant sung by the Sons of Ur.
+
+Ur-Nox: is the bygone dialect, no longer in practice except by those few that are ancient enough to remember it.
+
+Butcher's Bill - Number of deaths.
+
+Noxian possibly underwent the same sound changes as real-life German, e.g. voiced stops /b/,/d/,/g/ are devoiced into [p],[t],[k]: e.g. Proto-Germanic *durz > German Tür, Noxian toraa (compare Engl. door).
+
+Interestingly, Ancient Freljordian is based on Old Norse, another Germanic language; Demacian toponyms (Fossbarrow, Silvermere, etc.) also suggest that the official Demacian language is also Germanic-based. So to some extent, the Demacian, Noxian, and Freljordian languages are related.
+
+Apparently while speaking another language, it is possible to identify a Noxian by their accent.[4]
+
+Noxian Writing on Rell's Wanted PosterNoxian Writing on Thresh's Wanted PosterNoxian Writing on the Demonic CompendiumNoxian Writing on Tahm Kench's Contract 1Noxian Writing on Tahm Kench's Contract 2Noxian Writing on Tahm Kench's Contract 31/6
+
+Noxian writing is elegant and sharp, with each letter having a stylized (almost Gothic) appearance. The cursive-like letters are sometimes connected to each other in a word and/or a sentence with a line that goes through the middle section. Most Noxian letters and official documents have their initial capital letters emphasized, ether by being considerably larger than other letters and/or being of a different color from the rest of the text (usually in red).
+
+The Demonic Compendium is written in a language similar to modern Noxian, as they both share similar or identical letters.
+
+Due to Noxus being an expansionist empire, its writing system and language had spread across Runeterra and is used in places (besides Noxus) such as:  Freljord,  Ionia,  Piltover,  Shurima,  Zaun, and many minor nations across Valoran.
+
+CatacombsCrenellated RoofsNoxtoraaImperial ArchitectureA Conqueror's Arsenal1/5
+
+Noxian cities are characterized by imposing structures, claustrophobic streets, crenellated buildings, steep sloped walls, and immense gateways. They emphasize the strength and dominance of the empire, and are highly defensible—an enemy attempting to take a Noxian city by force can expect to be fought and resisted at every turn, for even the humble home is built like a fortress.
+
+Almshouse: They are dwellings built originally by the Tallymen for poor people to live in.
+
+Berms: A berm is a war fortification used by warmasons, an artificial earthen ridge built as a defense against artillery fire.
+
+Catacombs: Catacombs are underground passageways beneath Noxus. They may or may not be meeting locations for the Black Rose.
+
+Crenellated Roofs: Indented battlements of roofs that overhang the lower floors, used for shooting arrows or firing missiles through. They are part of the reason why most Noxian-built homes and buildings are highly defensible.
+
+Noxtoraa: Whether a city is taken by force or willingly swears fealty to Noxus, warmasons immediately set to work in stamping the empire's signature of authority upon the newly acquired territory. Representing the strength of Noxus, they are raised to instill fear and to demand fealty from all who passed beneath them. Gateway arches of dark stone quarried from the mountains surrounding the capital are built on every road leading to the city. Known throughout Valoran as Noxtoraa (gateway to Noxus in Ur-Nox), these towering structures leave approaching travelers in no doubt as to who holds the reins of power.
+
+War Tent: Temporary set up during a campaign outside the borders for strategy councils.
+
+Culturally InclusiveNoxian NoblesNoxians in ShurimaWarbandsWarmasonsXamari RedbladeNoxian SoldierNoxian ArmorWarden's PreyImperial Demolitionist1/10
+
+Noxian clothing is brutalist as its architecture. Function is more important than form, With sharp simplistic lines and angles, the most common colours are grey, red, and black. Nobles would have more lavish outfits, while warriors would wear simple clothing easily worn under armor.
+
+Dark Steel: is made from Ironspike mountain ore, used in the forging of armor. All the best plate in Noxus is made from dark steel. Armors and shields made from Dark Steel are durable enough to deflect not just arrows but also bullets.
+
+Livery: Livery is a uniform, or insignia adorning, denoting a the status/rank of an individual and what group they are associated with.
+
+Demonic Compendium 1Demonic Compendium 21/2
+
+A fragment of esoteric lore, discovered after the attack on the Noxian fortress at Fae'lor. The author(s) and provenance are unknown.
+
+The compendium shows several types of demons that branch out from three root branches, the primary one being Fear. The types of demons that spawn from Fear are: Nightmare, Secrets (which further branches out to Obsession), and Delirium (which further branches out to Bliss and Frenzy), and currently unknown brances. Nine inscriptions of what are likely names of demons all point towards "Azakana". Around the branches, several images can be seen, such as the image of Raum, Fiddlestick's keys, and an image showing 10 circles.
+
+The inscription is written in an Noxian language, possibly even connected to Ochnun.
+
+CitybreakerThe LeviathanBallistaCannon1/4
+
+Ballista: The ballista is a type of catapult-crossbow used to fire large spears.
+
+Citybreaker: A massive siege weapon that's able to fling large boulders at or across city walls. Its spiked wheels and front cutters enable this vehicle to traverse most terrains. It also doubles as a mobile tank, its metal armor protecting the drivers inside.
+
+Cannons: Noxus has developed cannons for naval usage to lay siege to enemy fortifications.
+
+The Leviathan: The personal flagship of  Jericho Swain, the Leviathan is brilliant example of Noxian engineering. As large as a small settlement, it is able to transport an entire army of soldiers and siege weapons. Powered by the same coal furnaces Citybreakers are designed with, The Leviathan is one of the fastest ships on Runeterra. The ships thick metal hull protects it from most enemy weaponry and armed with cannons while also displaying Noxian brutalist design aesthetics. It is currently unknown if the Leviathan is in control of Noxus again, as it was previously taken over by  Gangplank and his pirate crew.
+
+War-Barques: Large, heavily armored, animal-drawn war vehicle, usually pulled by a basilisk.
+
+Black-Powder GrenadeNoxus and MagicNoxian Weaponry 1Noxian Weaponry 2Noxian SwordsAxe Of DariusSamira Pistol, one of the rarest form of firearms in Noxus1/7
+
+The forges of Noxus never cool, churning out swords, axes, and armor in vast quantities for distribution to the warhosts. The empire values function over form, their designs often enabling additional uses, such as hooked handles to unhorse mounted enemies.
+
+In recent years, Noxus has begun to experiment with crude black-powder weapons, and chemtech from Zaun—though the results are often as destructive to friend as they are to foe. While Noxus is familiar with firearms, guns are still a novelty and very expensive to make with only a handful of people possess firearms. Despite this, Noxus realizes the potential of firearms and continues to develop it.
+
+Black-Powder: In recent years, Noxus has begun to experiment with crude black powder weapons and chem-tech from Zaun, though the results are mixed—often as destructive to friend as they are to the enemy. However, significant advancements have been made as Noxus has successfully built cannons for naval usage.
+
+Calendar: With territories spread across Runeterra, the empire of  Noxus has united and assimilated countless smaller nations over the course of centuries. Aside from its obvious military strength and stable, central governance, Noxus takes great pride in "bringing the calendar" to every corner of the globe. But to be Noxian is to subscribe to their notion of world's history, which begins long before the Rune Wars that gave rise to the empire. Since many historical records were lost in those dark times, the precise details of anything earlier are likely based on conjecture, or popular myth.
+
+Magic: Noxians generally regard magic as another powerful tool in their arsenal. Those who are able to wield it are held in high esteem, and are actively sought out—even beyond the borders of Noxus—in order that their special talents may be honed and best harnessed for the benefit of the empire.
+
+Noxian Weaponry: Swords, axes, heavy axe-headed halberds, spears, daggers, war hammers, gauntlets, bows, glaives crossbows, shields and armor in vast quantities for distribution to the warhosts. The empire values function over form, their designs often incorporating additional uses, such as hooked handles to unhorse mounted enemies. Due to the cost and rarity of firearms, very few people in Noxus utilizes firearms.
+
+The  Kindred are well known and followed in Noxus. Lamb represents a peaceful end while the Wolf represents a violent end. Since Noxians, especially the military, vow to fight to the death, Wolf is honored with more rigor and panoply than Lamb. The Shrine to Wolf can be found in the capital fortress.
+
+The shrine is a tall, multi-tiered tower with open sides, butting up against the old southern bulwarks of the Immortal Bastion. Each level of the tower is held aloft by three pillars of dark stone. In the center of the tower, looming almost fifty feet high, is a massive obsidian statue of a seated wolf.
+
+Tales of the creature known as  Fiddlesticks are told among Noxian soldiers. Their version of the fable tells of a lonely farmhand who was blamed for a poor harvest, and as a result was tied up on a field and left to be devoured by the crows - only to return to the world as a demon. It is said that he still stalks the fields, slaying any travelers who dare enter his domain.
+
+Noxus meritocracy is exemplified by the Trifarix doctrine, otherwise known as the "Principles of Strength". This is made up of three core aspects. Might, Vision, and Guile. Each citizen must strive to embody all three as an ideal for prosperity, and if they are weak in one it could falter the empire.
+
+Noxus was once ruled by the will of fallible emperors, the last being Boram Darkwill. Since Swain's rise to power, Noxus is no longer governed by an individual but instead a triad of equal leaders known as the Council of Three, each representing one of the core Principles of Strength. According to Swain's reasoning, while a single person could doom Noxus through incompetence, madness, or corruption, a group of three would always have two others to hold any rogue third member accountable, ensuring that no individual can rule Noxus unopposed.
+
+Main article: Noble Houses of Noxus
+
+Stewards are the provincial rulers of Noxus. They are tasked to enforce Noxian rule in occupied territories as well as cities outside the capital.
+
+The Armies Of NoxusNoxian SoldiersStrength In VarietyThe Trifarian LegionThe WarbandsWarmasonsXamari RedbladesAxe Soldier1/8
+
+The lifeblood of the empire allowing the expansionist nation to conquer fertile lands to supplement its lack thereof.
+
+The armies of Noxus appear to be little more than barbarous hosts of individual warbands, but this belies the discipline and sophistication required to make such a formation viable. Noxus foregoes a strict rigid standardized order - there are merely smaller warbands, larger warhosts, and massive legions - in favor of allowing their forces to specialize in what they do best, directing them to tasks or areas where their strengths can serve the empire best. Within the Noxian army, there are equal chances for anyone: everyone starts on the same rank. On the front lines, a foreign slave could be the equal of a highborn noble.
+
+The success of Noxian armies is undeniable, and their very diversity is a testament to their effectiveness. Conquered peoples that swear loyalty to Noxus become part of its armies and add their unique strengths to the empire's war efforts. Thus, regimentation and uniformity are anathema to the Noxian way of life, and each warband is celebrated for the many and varied methods of war it brings to the table.
+
+The Black Rose, led by  LeBlanc, is what remains of a secret cabal that has existed far longer than Noxus itself. Initiates of the Black Rose have schemed from the shadows for centuries, looking to gain power in any way they can, drawing the rich and powerful - mages, nobles, and politicians alike - to their ranks.
+
+They dabble in the darker powers of magic, manipulation, assassination and deception and share hidden knowledge and secrets, in order to grow their areas of influence and power.
+
+Areas within the Black Rose's domain are discreetly marked by their sigil, etched onto shadowed archways.
+
+Only an elite few learn the “origins” of their matron, though many have uncovered legends of a pale sorceress who aided the broken barbarian tribes, in their struggle against the infamous Iron Revenant.
+
+The Black Rose exists now to further the clandestine interests of those who can wield the dark magic hidden within the Immortal Bastion — with its rank-and-file composed of mundane nobles, drawn to rumors of miracles, kept in thrall and ruthlessly exploited. Even the most powerful military commander could only ever serve the cult's true masters, as they fight one another for influence in games of intrigue and conquest, both in the Noxian capital and beyond its borders.
+
+Under Vladimir's tutelage, the art of hemomancy has found a place in the military of Noxus, and among scions of the old aristocracy. Among these diverse practitioners is the Crimson Circle, a youthful cult dedicated as much to Vladimir's personality as to blood magic itself.
+
+To be a Headsman is a great honor. Headsmen are arbiters tasked with the sworn duty to maintain a strong security within their homeland. They are usually chosen by the leader of Noxus and receive direct orders to seek out internal and foreign threats to the empire, where they have free reign to conduct public executions upon those they deem fallible, treating weakness like a blight upon the nation. None was more dreaded than the extremest,  Urgot - until his downfall.
+
+The warmasons are a distinct branch of the military, tasked not only with planning infrastructure, but also with scouting out enemy territory for future invasion. Notably, a few have infiltrated Piltover's upper echelons.
+
+An order dedicated to taking care of the sick and dying. When a member recognizes someone's suitability for their order they are inducted into their ranks, first as a digger of graves, then a pyre-builder, and finally corpse collector. The tools they use include iron-wheeled corpse carts, and a single knife for cutting death marks on a staff.
+
+The most elite and loyal legion in modern Noxus. It takes a ruthlessly discerning eye to select those worthy enough to become part of the Trifarian Legion, but they can sort the sheep from the wolves a mile away. The Legion spread the empire's reach with every beat of their drums.
+
+In Noxus, gladiator warriors known as Reckoners face one another in vicious arenas where blood is spilled and strength is tested- but none has ever been so celebrated as  Draven.  Xin Zhao is a former Reckoner and is known as  Viscero Xin Zhao
+
+Thanks to  Gangplank's marauding against Noxian warfleets, Bilgewater and Noxus are on shaky terms with one another. At some point, Gangplank managed to steal the Leviathan,  Swain's personal warship, earning the personal enmity of Noxus's Grand General. After Gangplank's fall from power, it is unknown if relations between Bilgewater and Noxus have improved. Bilgerat pirates on occasion will assist the Noxian military, should they see the endeavor profitable.
+
+Noxian hostilities towards Demacia, and vice versa, run deep. Having fought at least two wars with each other, the two nations are political, military and ideological rivals and see each other as a threat. The death of King Jarvan I Lightshield at the hands of  Sion, a General of Noxus, is celebrated as a national event in Noxus. Tensions between the two nations have not changed and will likely not change until one of the two factions gives up.
+
+Noxus has been pushing into the Freljord for decades, while the  Winter's Claw in particular are always raiding south.[5] When the  Hand of Noxus and his warhosts marched into the Freljord during Darkwill's empire, they found themselves in a war of attrition against a Winter's Claw under  Sejuani's leadership. This war eventually ended with a Noxian retreat, but new Noxian advances can be seen recently on the battlefields of this war. Some of the  Avarosan tribes are also known to have fought Noxian advance.
+
+The Great Stand of The Placidium
+
+Over a decade ago, Boram Darkwill set his sights upon the peaceful archipelago of Ionia. Rumors spread of abundant magic flowing from the land, convincing many Noxians to indulge in the conquest, seeking riches beyond their wildest dreams. But Darkwill desired immortality above all, tasking legions to search for anything relevant wherever it could possibly be obtained and annihilating those who stood in their way. In short time the presence of Noxians would increase and turn violent, eventually becoming a full-scale war.
+
+Over the course of the invasion things became an uphill battle, the likes of which Noxians had never experienced. As the Ionians fought in defiance, so did the land itself. Exhausted and nearly defeated, the war would eventually end with  Swain's ascension to power and most Noxian armies were withdrawn from Ionia. Noxus still occupies a small amount of territory in Ionia, and intends to defend the little it has.
+
+As indicated by the Clan Medarda map, No citizen of Noxus is permitted to set foot on the shores of Palclyff and no exceptions are made. This is due to Noxus invading and annexing neighboring city-states and nations.
+
+As the most expansive nation on Runeterra, Noxus heavily relies on the crucial port of Piltover to connect its land in Valoran and its territory in northern Shurima. Due to the neutral city's strategic location, many Noxian shadow agents have infiltrated all levels of Piltover's society in order to prepare the empire for a possible future invasion. Noxus can easily muster the required force, but this may not be a wise strategy. Due to the city's value as a trading hub for many other territories, invasion may cause more opposition that would outweigh the benefits. Noxus remains compliant as a trading partner—however, Piltover is aware of the prospect of invasion, so weapons are sold in expensive prices.
+
+Noxus now controls land routes that can bypass Piltover entirely - but less efficiently. They have a significant presence in the sea between Valoran and Shurima... so they no longer rely on Piltover as much.[6]
+
+Noxian Presence in Bel'ZhunNoxian Full PursesPolitical Marriages1/3
+
+Due to the absence of any centralized government or authority on the continent, Shurima has been disorganized for centuries. Because of this, a number of previously independent ports and cities in northern Shurima have voluntarily assimilated into Noxus. The original inhabitants of these settlements live in relative peace, seeing trade taxes to Noxus as a price worth paying for military protection from raiders.
+
+Shurima quickly became a favorite location for Noxian plunderers and poachers, as the untamed deserts represent yet another land of opportunity. People like  Cassiopeia would risk everything to seek out wealth and power in this unforgiving land. Noxians usually hire local guides and mercenaries such as  Sivir for their grave plunders.
+
+Azir, the last Emperor of Shurima, has now resurrected the ancient capital and made it his mission to rebuild the old desert empire as well. Time will only tell as to what political relations Shurima and Noxus will have in this new landscape.
+
+Despite their plans to invade Piltover, Noxus has a friendly relationship with the undercity of Zaun. Mercenaries from Zaun were recruited by Noxus during the invasion of Ionia, the most terrifying being  Singed and his biological weaponry. The brand of mass death and destruction the madman unleashed remains a festering scar on Ionian history.
+
+The name Noxus resembles Pre-Greek toponym Νάξος.
+
+There is a real life island called Naxos, which is part of modern-day Greece.
+
+Noxus also references Latin noxa "harm, injury" or nox "night > darkness".
+
+In Noxian grammar, Noxus's plural is Noxii.
+
+The Empire's motto is, "Forever strong!"
+
+Also there is a common mantra said by some of its citizens: "The lifeblood of the empire is our bureaucracy."
+
+In Season Nine, the ranked emblems for the League system were redesigned. Noxus represents the emblem for the  Grandmaster rank.
+
+Noxus' history & culture share many characteristics with the Roman Empire.
+
+Noxian architecture was inspired by real life medieval Paris and London, and ancient Rome (mainly Western European architecture) and Constantinople, which might have inspired the Immortal Bastion.
+
+The Immortal Bastion also resembles the castle of Dragonstone from the Game of Thrones series.
+
+Since the release of  Rek'Sai's lore, Noxus has been referred to as an empire, with its own capital city and outer territories; in the old lore it was a city-state. This has been confirmed by later lore releases, as well as the Medarda Heirloom and the world map.
+
+Sion was resurrected with the help of  Vladimir, and several Noxian soldiers who gave their lives for the ritual.
+
+Noxus's crest was inspired by the Trifarix doctrine, where the eyes represent vision, the pillars represent might and the blades represent guile.
+
+Mordekaiser's quote "Destiny. Domination. Deceit." would subconsciously inspire the Trifarix's principles of strength of Vision, Might, and Guile.
+
+Traditional Noxian colors are Crimson Red and Black.
+
+Swain seized control of Noxus 7 years ago. Three years before that, Swain was caught during the Battle at the Placidium in Navori, Ionia, where he lost his arm to  a 14-year-old girl.
+
+Annie's family left Noxus shortly before Swain's coup occurred, proving she is no older than 6 or 7.
+
+Gateways of dark stone known as Noxtoraa are raised over roads in territories conquered by Noxus.
+
+Tacos are a traditional Noxian dish.[7]
+
+The children from foreign lands absorbed by the empire become Noxian by birth. Over the centuries, this has created a cultural divide between those from Noxus Prime and the rest of the empire's populace.
+
+Thornmail and  Vampiric Scepter are Noxian artifacts.[8]
+
+The  Executioner's Calling is a Noxian weapon, created to aid in their conquest of Ionia.
+
+During the Battle of the Greenfangs, an elite group of Noxian warmages known as the Arcane Fist were surprisingly decimated after an expedition into the Greenfang Mountains near Demacia. It was their magical artillery that awoke the Colossus  Galio for the first time.
+
+Marauder Alistar and OlafMarauder Ashe and WarwickLord DariusGladiator DravenNightraven FioraJaximusMarauder KalistaMercenary KatarinaHigh Command KatarinaJudgment KayleMarauder KledDemolisher NunuNoxus PoppyCrimson Elite RivenDarkflame ShyvanaWarmonger SionTyrant SwainCrimson Elite TalonNightmare TryndamereButcher UrgotGrey WarwickViscero Xin ZhaoMarauder Xin Zhao
+
+Sion, the Undead Juggernaut - Login ScreenDarius, the Hand of Noxus - Login ScreenDraven, the Glorious Executioner - Login ScreenLeague of Legends REBORNSion log 1- GloryLeague of Legends REBORN - FallSion log 2- FallLeague of Legends REBORN - RiseSion log 3- RiseLeague of Legends REBORN - RebornSion log 4- RebornKled, the Cantankerous Cavalier - Login Screen2017 Season - Login ScreenDarkin Kayn - Login ScreenShadow Kayn - Login ScreenSwain, the Noxian Grand General - Login ScreenUrgot, the Dreadnought - Login ScreenAwaken (ft. Valerie Broussard) League of Legends Cinematic - Season 2019Season Start 2019 - Anticipation - Login ScreenMordekaiser, the Iron Revenant - Login ScreenLegends of Runeterra Official Music “BREATHE”Samira, The Desert Rose - Login ScreenRell, The Iron Maiden - Login Screen
+
+Bard Mountain New Champion Teaser - League of LegendsShurima Descent into the TombKled The Reunion New Champion Teaser - League of LegendsDarius Fear League Animation WorkshopKayn The Path of Shadows New Champion Teaser - League of LegendsSwain the Noxian Grand General - Champion TeaserANNIE Origins League of LegendsSurviving in Noxus dev diary - League of LegendsIrelia The Defiant Blade Champion Teaser - League of LegendsRyze Call of Power Cinematic - League of LegendsBook of Thresholds Yuumi Champion Teaser - League of LegendsDarius League Animation WorkshopAwaken (ft. Valerie Broussard) League of Legends Cinematic - Season 2019Legends of Runeterra Launch Announcement & TrailerTales of Runeterra Noxus “After Victory”Legends of Runeterra Official Launch Video “BREATHE”New Expansion Monuments of Power Legends of Runeterra - Call of the MountainRiven Champion Showcase - Gameplay - Legends of RuneterraNew Expansion- Cosmic Creation - Legends of Runeterra - Call of the Mountain
+
+1st Noxus Crest2nd Noxus CrestOld Noxus skyline 1Old Noxus skyline 2Old Noxus skyline 3Noxus Invasion Arena Concept 1 (by Riot Artist Igor Artyomenko)Noxus "Legends of Runeterra" Illustration 1Noxus "Legends of Runeterra" Illustration 2Noxus "Legends of Runeterra" Illustration 3Noxus "Legends of Runeterra" Illustration 4Darius "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Darius "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Draven "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Draven "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Elise "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Elise "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Katarina "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Katarina "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)LeBlanc "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)LeBlanc "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Swain "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Swain "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Vladimir "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Vladimir "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 1 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 2 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 3 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 4 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 5 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 6 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 7 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 8 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 9 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 10 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 11 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 12 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 13 (by Riot Contracted Artists Sixmorevodka Studio)Noxus "Legends of Runeterra" Concept 14 (by Riot Artist DEN)Sion's Memorial (Glory)Sion's Memorial (Fall)Sion's Memorial (Rise)Sion's Memorial (Reborn)Noxus Assassin Concept 1 (by Riot Artist Jonboy Meyers)Noxus Assassin Concept 2 (by Riot Artist Jonboy Meyers)Noxus Assassin Concept 3 (by Riot Artist Jonboy Meyers)Noxus "Legends Never Die" Concept 1 (by Riot Artist Julien Renoult)Noxus "Legends Never Die" Concept 2 (by Riot Artist Julien Renoult)Noxus in the Book of Thresholds 1Noxus in the Book of Thresholds 2Noxus in the Book of Thresholds 3Ryze "Call of Power" Concept 1 (by Riot Artist Juan Nuno)Ryze "Call of Power" Concept 2 (by Riot Artist Joe DiCesare)Ryze "Call of Power" Concept 3 (by Riot Artist Joe DiCesare)Ryze "Call of Power" Concept 4 (by Riot Artist Rembert Montald)Noxus "At the Edge of the World" Concept 1 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Concept 2 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Concept 3 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Concept 4 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Concept 5 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Illustration 1 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Illustration 2 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Illustration 3 (by Riot Contracted Artists Wild Blue Studios)Noxus "At the Edge of the World" Illustration 4 (by Riot Contracted Artists Wild Blue Studios)Noxus "The Eyes and the Embers" Illustration (by Riot Contracted Artists Grafit Studio)Noxus "As Stone" Illustration 1Noxus "As Stone" Illustration 2Noxus "As Stone" Illustration 3Noxus "After Victory" IllustrationNoxus "After Victory" Concept 1 (by Riot Contracted Pawel Hordyniak)Noxus "After Victory" Concept 2 (by Riot Contracted Pawel Hordyniak)Noxus "After Victory" Concept 3 (by Riot Contracted Pawel Hordyniak)Noxus "After Victory" Concept 4 (by Riot Contracted Pawel Hordyniak)Noxus "After Victory" Concept 5 (by Riot Contracted Artist Julia Nguyen)Noxus "A Night at the Inn" Concept 1 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 2 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 3 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 4 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 5 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 6 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 7 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 8 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 9 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 10 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 11 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 12 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 13 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 14 (by Riot Contracted Artist Chloe Veillard)Noxus "A Night at the Inn" Concept 15 (by Riot Contracted Artists Grafit Studio)Noxus "A Night at the Inn" Concept 16 (by Riot Contracted Artists Grafit Studio)Noxus "A Night at the Inn" Concept 17 (by Riot Contracted Artists Grafit Studio)Noxus "A Night at the Inn" Concept 18 (by Riot Contracted Artists Grafit Studio)Noxus "A Night at the Inn" Concept 19 (by Riot Contracted Artists Grafit Studio)Noxus "A Night at the Inn" Concept 20 (by Riot Contracted Artists Grafit Studio)Noxus "Sisterhood of War Part 1: Old Wounds" Illustration (by Riot Contracted Artist Grafit Studio)Noxus "Sisterhood of War Part 2: The Unquiet Dead" Illustration (by Riot Contracted Artist Grafit Studio)Noxus "The Shuttered Manse" Illustration (by Riot Contracted Artist Grafit Studio)Cassiopeia "The Shedding of Skin" Illustration (by Riot Artist Blake Byun)Darius "Blood of Noxus" Cover 1 (by Riot Contracted Artist Sana Takeda)Darius "Blood of Noxus" Cover 2 (by Riot Contracted Artist Sana Takeda)Katarina "Message on a Blade's Edge" Illustration (by Riot Contracted Artists Wild Blue Studios)Katarina and Talon "The Name of the Blade" Illustration (by Riot Contracted Artists Grafit Studio)Kayn "Darkin Corruption" Illustration (by Riot Artist Max 'Hexadriven' Zhang)Kayn "The Path Of Shadows" Illustration 1 (by Riot Artist Elena 'Hellstern' Bespalova)Kayn and Ashe "The Path Of Shadows" Illustration 2 (by Riot Artist Elena 'Hellstern' Bespalova)Kayn, Darius and Sion "The Path Of Shadows" Illustration 3 (by Riot Artist Elena 'Hellstern' Bespalova)LeBlanc "Thorns of the Black Rose" Illustration (by Riot Artist T.J. Geisen)Lulu and Tristana "The Whispering Doodad" Illustration (by Riot Artist Horace 'Hozure' Hsu)Mordekaiser "The Final Reign" Illustration (by Riot Artist Jason Nguyen)Rell "The Second Grave" Illustration (by Riot Contracted Artists Grafit Studio)Riven "Seams and Scars" Illustration (by Riot Contracted Artists Grafit Studio)Riven "Sisterhood of War Part 3: Irreparable" Illustration (by Riot Contracted Artists Grafit Studio)Samira "Daredevil Impulse" Illustration (by Riot Contracted Artists Grafit Studio)Swain "The Black Powder Plot" Illustration (by Riot Artist Victor '3rdColossus' Maury)Veigar "The True and Ghastly Tale of the Beast of Boleham Tower" Illustration (by Riot Contracted Artists Wild Blue Studios)Vladimir "Art is Life" Illustration (by Riot Contracted Artists Wild Blue Studios)Princess Noxian Prisoner "Arcane" Model 1 (by Riot Contracted Artists Fortiche Productions)Princess Noxian Prisoner "Arcane" Model 2 (by Riot Contracted Artists Fortiche Productions)Princess Noxian Prisoner "Arcane" Model 3 (by Riot Contracted Artists Fortiche Productions)Princess Noxian Prisoner "Arcane" Model 4 (by Riot Contracted Artists Fortiche Productions)Ambressa's Noxian Soldiers "Arcane" Model 1 (by Riot Contracted Artists Fortiche Productions)Ambressa's Noxian Soldiers "Arcane" Model 2 (by Riot Contracted Artists Fortiche Productions)Ambressa's Noxian Soldiers "Arcane" Model 3 (by Riot Contracted Artists Fortiche Productions)Ambressa's Noxian Soldiers "Arcane" Model 4 (by Riot Contracted Artists Fortiche Productions)Ambressa's Noxian Soldiers "Arcane" Model 5 (by Riot Contracted Artists Fortiche Productions)Ambressa's Noxian Soldiers "Arcane" Model 6 (by Riot Contracted Artists Fortiche Productions)
+
+↑ Confessions of a Broken Blade: Part 1
+
+↑ Scathlocke on Noxus and Freljord
+
+↑ Scathlocke on Noxus and Piltover
+
+↑ RiotRadieblur discusses about new item icons

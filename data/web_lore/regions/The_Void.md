@@ -1,0 +1,162 @@
+# Região: The Void
+**Tipo:** Lore de Região / Runeterra | **Fonte:** League of Legends Wiki & Universe
+
+For information about the  Teamfight Tactics trait, see  Void.
+
+The Void is the "Realm of Nothingness" that lies beyond the Realm of Creation.
+
+It is also a manifestation of this unknowable nothingness. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing.
+
+To be a mortal touched by the power of the Void is to suffer an agonizing glimpse of eternal unreality, enough to shatter even the strongest mind. Denizens of the Void realm itself are construct-creatures, often of only limited sentience, but tasked with a singular purpose - to usher in total oblivion across Runeterra.
+
+Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing, and so usher in total oblivion across Runeterra.
+
+Bel'VethCho'GathKai'SaKassadinKha'ZixKog'MawMalzaharRek'SaiVel'Koz
+
+Aatrox fought multiple voidborn in the past.
+
+Aurelion Sol fought voidborn and sealed a Void rift.
+
+Diana fought three Voidborns and sealed a Void rift.
+
+Ezreal was attacked by Void creatures and helped  Kai'Sa defeat them.
+
+Jax originally comes from the Void ruined city of  Icathia.
+
+Lissandra was turned into an Iceborn by the Watchers and later imprisoned them under the Howling Abyss.
+
+Malphite was created by the Ascended Ne'Zuk to battle the Void, he is still trying to stop the Void's spreading corruption to this day.
+
+Nami fought multiple Voidborn in her search for an abyssal pearl near an underwater Void rift.
+
+Nasus fought multiple voidborn in the past.
+
+Ornn helped to combat the Watchers in Freljords ancient times.
+
+Pantheon fought multiple voidborn in the past.
+
+Renekton fought multiple voidborn in the past.
+
+Rengar fought a voidborn named  Kha'Zix.
+
+Rhaast fought multiple voidborn in the past.
+
+Ryze fought a Voidborn trying to gather a World Rune.
+
+Taliyah's tribe originally lived near the Void rift of  Icathia.
+
+Varus fought multiple voidborn in the past.
+
+Zilean originally comes from the Void ruined city of  Icathia.
+
+The Watchers originated from the Void, a vast canvas of nothingness, in which the concept of its existence is a mystery, even to themselves. From the time the bravest among them first entered Runeterra, the Watchers did not possess material form, nor were they even aware of their own sentience. The Watchers did not know why they or the Void existed, only that it perturbed them that something, that something being our universe, existed in the vast blackness of nothing. In their curious and spiteful intent of understanding the material universe, they reshaped matter within it into conscious extensions of themselves tasked to collect information and knowledge in their behalf, becoming the prototype of the current and modern Voidborn.
+
+The Watchers were immensely powerful, and transformed humans of the Freljord into the immortal Iceborn. The Iceborn were given great gifts, magic and immortality in return for their eternal loyalty. They conquered for the Watchers and built them a great civilization, including the bridge and fortress looming over the Howling Abyss, which eventually amassed in to an enormous empire, all in preparation for the inevitable destruction of all existence.
+
+Avarosa, believing that their servitude to the Watchers was worse than death, led the Iceborn rebellion against the Watchers. This culminated in to a long bloody battle across the bridge known as the Howling Abyss. Countless Iceborn were killed, but they eventually won the battle, with Avarosa's sister, Lissandra, weaving a spell to sacrifice armies of Iceborn, possibly including her sisters, to entomb the Watchers in a glacial prison of True Ice underneath the bridge.
+
+The boldest of the Watchers tore open the veil and hurled themselves upward, only to be horribly disoriented by the sudden shift between the abyss and the corporeal, linear nature of reality. In an instant, there was time, and heat, and pain...
+
+Then there was only cold. The way was shut, and dozens of the Watchers were trapped in the liminal space between two realms, frozen in the moment of transition.
+
+Those that remained in the Void recoiled. They had no concept of what had happened, yet they knew they had been  betrayed.
+
+Reaching into the material realm, the Watchers took from the crude matter that comprised it, shaping, corrupting and imbuing it with consciousness. These constructs were the first of the Voidborn, and would be their masters' eyes and ears, sent forth into the nightmare of existence to watch, listen, and learn.
+
+While many believed the Watchers were dead, they were merely imprisoned in a magical stasis of True Ice under the Howling Abyss. This took the lives of many Iceborn, possibly Avarosa and Serylda, themselves. To cover up her past mistakes in pledging allegiance to the Watchers, Lissandra rewrote the history of the Freljord, turning the tales of the Watchers into that of myths and songs. She now fears the day they return, with each nine runic seal that holds their prison slowly fading away.
+
+At the start of the Icathian rebellion against Shurima, the reformed Kohari order fought against an Ascended in Bai-Zek, a city on the Icathian borders with Shurima. Half of a mountain was toppled and many died, but at the end,  Saijax beheaded the Ascended.
+
+Soon after in the capital, the resentment for centuries of laws intended to eradicate Icathian culture came to a head in one blood-filled day as every servant of the Sun-Emperor were chased and killed. A new Mage King rose together with his reformed Kohari warrior order. The corpse of the Ascended killed in Bai-Zek was shown in the capital as proof that Shurima's "god-warriors" could still die.
+
+A day after the massacre, an army of stonewrights, laborers, and thaumaturges hefted giant blocks of freshly hewn granite into the place of the cities ruined walls with windlass mechanisms that crackled with magic, rebuilding the fallen wall. Ten thousand men and women were conscripted to defend the city, clad in the armor of boiled leather and armed with axes, picks, and spears. Two thousand talon-riders were deployed on either flank riding scaled and feathered mounts. A thousand archers knelt in two long lines, fifty feet ahead of the three blocks of deep-ranked infantry forming the bulk of the Icathian line.
+
+The Empire sent its vast army upon Icathia with riders on golden mounted chariots and hundreds of floating chariots ahead of the main force. Heavy wagons the size of river barques bore spinning globes orbited by flaming spheres and lightning. Nine Ascended lead by Setaka came on the heart of the army. Between those Ascended were  Nasus,  Aatrox, Shabeke, Shabaka, Ta'anari, and Enakai.
+
+The Icathians were winning against the enslaved and mercenary army of Shurima, but they began to be overrun by the might of the god-warriors. What happened next sealed Icathia's fate. A "weapon", found in the underground after an earthquake, was used. With an explosion, arcs of purple energy ripped into the sky and lashed down into the Shurimans. A nightmarish light, sickly blue, and ugly purple smothered the world, pressing down from above and blooming up from somewhere far below.
+
+An abyss that bled purple light tore open amid the Shurimans, and Setaka was overcome by whipping cords of matter. She fought to free herself but the power of the Void proved too much for her. A pulsing light spread over her body like a hideous cocoon. Slick coils rose from the earth and from the air to seize the flesh of mortals. Men and women were swept up and enveloped, bodies dissolve as the tendrils of foul energy overwhelmed them.
+
+Booming cracks echoed as more and more chasms tore the landscape open. The walls of Icathia were shattered by a note that split the earth. Geysers of dust and smoke erupted from within the city. Rock fell and earth split. Ancient towers and palaces were swallowed whole by the ever-widening chasms. Only rubble and shattered fragments remained, the Icathian capital reduced to a charred skeleton. The landscape before the city was twisting with unnatural motion, light spilled from the colossal rents torn in the ground, and alien sounds echoed from far below.
+
+The flesh of the Shuriman army had been obscured by pale, coiling ropes of hideous matter, its surface was undulant, and swelling blisters of glistening matter burst open with frothing birth-sacs that twisted and unfolded. Their surface darkened, splitting where it hardened like a carapace. Viscous ichor spilled out as countless Voidborns came to this damned landscape.
+
+At the end of the battle the territory Where Icathia Once Stood became a Void taken wasteland from where the forces of the Void attacked every lifeform it encountered.
+
+On a battle to seal an ocean rift on the eastern coast, Sypahx and Ta'anari fought for ten days and nights and were able to drive the Void back after the death of seven thousand Shuriman warriors died on the red shore. Only the Ascended heroes returned alive.
+
+Ne'Zuk, an Ixtali elemental mage Ascended of colossal power created the Monolith—a floating fortress of living stone with the size of a city, maintained by the greatest elemental mages, and its ramparts manned by his fellow Ixtali god-warriors, to face the Void in Icathia. After weeks of battle, as Ne'Zuk fought to rally his Ascended brethren for one last, desperate charge, the Monolith crashed down to earth, cleaving through the bedrock of Icathia and opening the Void beneath to the skies. Much of the fortress was lost within that gaping maw, vanishing into the silent nothingness beyond. The only Ascended who survived, Ne'Zuk, fled for his life.
+
+The far-flung shards failed to heal and got destroyed, but one of them remained and later became known as  Malphite.
+
+In the great battle to seal the Great Rift of Icathia, Sabeke and Sabake, twins ravens Ascended had their minds shattered with a glimpse of the Watchers.
+
+The Shuriman Ascended fought against it for years, many god-warriors and even more mortals died at this war, but through the heroic actions of Horok, who found a way to end Void corruption destroying the Void hearts found far below the ground, where unknowable horrors were hidden, the Ascended were able to seal the greatest rifts. Even though those were some of the most affected, all the Sunborn(self given name to the Ascended who survived the war) lost something on that victory. Nightmarish memories of this war would haunt them and reinforce their fall into Darkin.
+
+An Unknowable PowerThe Touch of the VoidGlacial PrisonHowling Abyss BridgeBridge of the LostThe Hall of the NineFall of IcathiaThe RuptureSalt the EarthLand scar from  Aurelion Sol's  Voice of Light1/10
+
+In the abyssal darkness, deep underground, it is believed that the first great Void creatures to walk the surface of Runeterra now lie, dormant and unseen. If that is true, then they have waited patiently through the millennia, and it must surely now be time for them to rise once more. Over the centuries, many mortals from the world above have answered the Void's call, or been dragged down against their will. There are those among them—few and far between—who have survived the encounter... though not a single one of them returned unchanged.
+
+Only a few Void Rifts have ever sprung up in the Freljord, most at the time of Watchers first interactions with Runeterra. After their imprisonment, only a few areas remained Void corrupted. The Frostguard watch over the Watchers' prison.
+
+Glacial Prison Far beyond the known lands of Valoran, in the deepest, darkest spaces beneath the world, servants of the mythical Watchers are drawn to the power of the World Runes.
+
+Howling Abyss: The Howling Abyss serves as the massive chasm prison of the Watchers. There are numerous bridges spanning the abyss, such as the Bridge of Sorrows, Bridge of Shadow, and Bridge of the Lost. At its lower ends True Ice and its variants Dark Ice can be found. The Howling Abyss was the location of the last battle that sealed the Watchers several millennia ago.
+
+The Hall of the Nine: Located deep below the Howling Abyss, it was constructed by the  Yeti and serves as the protective barrier that seals the Watchers. Every year, several Frostguard climb down its icey walls to get to the Hall of the Nine in order to inspect the barriers state.
+
+A great and terrible battle was fought against the Void before the walls of ancient Icathia. In the aftermath, the lands all around the damned city became deserted wastes, and its very existence was struck from the maps of Shurima. It was hoped, perhaps foolishly, that the horrors unleashed there would eventually be forgotten...
+
+The Rupture: On the outskirts of Icathia lies the Rupture—evidence of the Void itself bursting forth from deep beneath the ground, in an age now lost to history. Though the bold and the curious alike have often sought to learn more, only the most foolhardy explorer would ever dare venture into the dark spaces beneath.
+
+After the fall of Icathia, Voidborn spread all across Shurima. Despite the sealing of The Rupture, countless smaller Void Rifts opened across the deserts of Shurima, most near Icathia itself. To this day the land is still littered with underground Void corrupted caves and tunnels. Below those,  the Prophet is opening even more Void rifts across Shurima, the opening of such rifts is said to cause powerful quakes opening up the bedrock of Shurima in new fault lines hundreds of miles long. They corrupt the underground of Shurima in the same way of the rifts mentioned above.  Kai'Sa survived in one of the locations.
+
+Xer'Sai Territory:  Rek'Sai is building a Void rift in Sai'Kahleek.
+
+Lavender Sea:  Bel'Veth has swallowed the port city of Belveth and part of its surrounding seas to create a city in her own image.
+
+Long ago, the  Marai discovered a rift in the depths. The rift bore a horrible, creeping darkness which sought to exterminate all forms of life . The Marai were protected from the creatures coming from the rift by the Moonstone, a glowing rock said to be infused with celestial magic from the heavens, such stone was given to the Marai by a  luminous wanderer from Targon's peak. In exchange of the moonstone, the wanderer asked for an Abyssal Pearl to protect her own tribe. The light of the Moonstone at the center of the Marai village made the Voidborn withdraw from the village, but every hundred years or so, the moonstone's light begins to dim. At that moment, the tribe chooses their fiercest warrior and bestows upon them the title of Tidecaller, who must plunge into the icy darkness of the rift, survive the horrors within and retrieve an abyssal pearl. If successful, the Tidecaller rises to shore where a luminous wanderer from Targon's peak awaits with a moonstone to trade for the pearl. This ritual has been keeping the Voidborn contained, but now that Nami, the most recent Tidecaller, wasn't able to find the Targonian wanderer, the fate of the Marai and the horrors in the depth remain unknown...
+
+The Void is a nightmarish dimension said to exist outside space and time, where terrifying living weapons were wrought to win an ancient and long-since ended war. No-one truly understands how the Void came into existence, but tales of its terrible denizens have wormed their way into the dream consciousness of almost every culture's legends, creation myths, and dark folktales. Those few scattered grimoires and madmen that dare speak of the Void at all speak of it as an infinite realm of unfettered creation, tortured landscapes of crazed organic machinery, magical weapon-looms and mountainous flesh-forges. None have yet ventured into the Void and lived, for mortals would almost certainly be consumed and woven into the endless process of creation.
+
+In places where the mystical barriers between Runeterra and the Void have been worn thin, the air feels charged, and fantastical occurrences are the norm. Rivers run with vibrant colors, flowers bloom with incredible perfumes, and living beings experience psychedelic visions and surges in magical power. For a time, such places are wondrous and brimming with miracles, but soon the landscape is twisted into new and deadly forms, and if the Void is able to consume enough biomass to survive, it can grow and evolve into something ferocious and terrifying.
+
+It was thought for some time that all Voidborns carry names said to be in Ancient Shuriman naming convention, whereby a Voidborn individual has their unique name combined with the last syllable of their species name, being separated by an apostrophe in the middle; e.g. the  Void Burrower's name Rek'Sai consists of her unique name Rek, and Sai the last syllable of her species' name  Xer'Sai. However, this appears to not be true; in fact, we know sai means "desert," so we can perhaps infer the meaning of her and her tribe's names from this.
+
+Cho'Gath: Likely ancient native Shuriman.
+
+Kai'Sa: Original name was  Kaisa before she added an apostrophe so as to be similar with other Voidborn names.
+
+Kha'Zix: Ancient native Shuriman name "You Face Yourself".
+
+Kog'Maw: Likely ancient native Shuriman.
+
+Rek'Sai: Ancient native Shuriman.
+
+Vel'Koz: Ancient native Shuriman name "To Understand By Unmaking".
+
+Bel'Veth: After the Shuriman city Belveth, which in itself loosely translates to "God of Oblivion".
+
+The symbol for the Void likely references the Yellow Sign, from Robert W. Chambers' anthology The King in Yellow. Chambers associated his Sign & King with Ambrose Bierce's pastoral deity Hastur. H. P. Lovecraft would later incorporate all three into his Cthulhu Mythos.
+
+Riot's Void symbol strongly resembles Kevin Ross' 1989 Yellow Sign design, as Chambers only mentioned but never described or designed the sign.
+
+It has been stated that Void portals exist outside of Shurima.
+
+One of the few known ways to combat the Void is to starve it. With no organic or magical sustenance nearby, the Void's material growth will slow, until it eventually falls into a dormant state.
+
+Cosmic moon energy from the  Moon Aspect is also one of the only things that can subdue Void creatures, being used to fend off Voidborn near the Marai Village.
+
+In Season Nine, the ranked emblems for the League system were redesigned. The Void represents the emblem for the  Master rank.
+
+The  Star Guardians fight an alternate version of the Void and its creatures.
+
+The Void functions similarly to the  Dark Star, looking forward to eliminating all creations from existence.
+
+Void FizzVoid Bringer IllaoiHarbinger KassadinPre-Void KassadinOverlord MalzaharVoid Nocturne
+
+Kha'Zix, the Voidreaver - Login ScreenVel'Koz, the Eye of the Void - Login ScreenRek'Sai, the Void Burrower - Login ScreenKai'Sa, Daughter of the Void - Login Screen
+
+Welcome to League of LegendsLeague Of Legends - Cho'gath Eats The WorldVel'Koz First Contact New Champion Teaser - League of LegendsRek'Sai The Terror Beneath New Champion Teaser - League of LegendsKai'sa Breach Comic CoverBook of Thresholds Yuumi Champion Teaser - League of LegendsYuumi The Magical Cat Champion Trailer - League of LegendsWarriors Season 2020 Cinematic - League of Legends (ft. 2WEI and Edda Hayes)The Call - Season 2022 Cinematic - League of Legends (ft. 2WEI, Louis Leibfried, and Edda Hayes)Message to the Prophet of the VoidMessage to the Eye of the Void
+
+Void "Legends of Runeterra" Alpha iconVoid ConceptThe Voidborn (by Riot Artist Patrick Faulwetter)Armored In DarknessVoid Rift of Icathia in the Book of ThresholdsVoid "Warriors Concept 1 (by Riot Artist Jason Chan)Void "Warriors Concept 2 (by Riot Artist Jason Chan)Void "Warriors" Model (by Riot Contracted Artists Blur Studio)Void "The Eye In The Abyss" Illustration (by Riot Contracted Artist Maddie Julyk)Void "Where Icathia Once Stood" IllustrationBel'Veth and Kai'Sa "Pinwheel" Illustration (by Riot Contracted Artists Grafit Studio)Kha'Zix and Rengar "Adaptation" Illustration (by Riot Artist Blake Byun)Kai'Sa "Monstrous" Illustration (by Riot Contracted Artist Grafit Studio)Kai'Sa "Hollowspun" Illustration (by Riot Contracted Artist Grafit Studio)Kai'Sa "Breach" Cover (by Riot Artist Elena 'Hellstern' Bespalova)Malzahar "Feast of the Prophet" Illustration (by Riot Contracted Artists Wild Blue Studios)Vel'Koz "First Contact" Illustration 1 (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "First Contact" Illustration 2 (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "First Contact" Illustration 3 (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "First Contact" Illustration 4 (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "First Contact" Illustration 5 (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "First Contact" Illustration 6 (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "First Contact" Illustration 7 (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "Instrument of Destruction" Illustration (by Riot Contracted Artist Flavio Hoffe)Vel'Koz "A Different Hunger" Illustration (by Riot Artist Max 'Hexadriven' Zhang)

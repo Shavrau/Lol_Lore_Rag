@@ -1,0 +1,158 @@
+# Conto: A Good Death
+**Tipo:** Conto Canônico Oficial do Universo | **Fonte:** League of Legends Universe
+
+: *This article is about the short story featuring Kindred. You may be looking for A Good Day, the Realms of Runeterra story featuring Vrynna.*
+
+== Lore ==
+
+I=
+
+Magga was about to die for the fourteenth time. She had bitten into a rotten apple - yet again. Its putrid flesh had, as always, infected her with carrionshade. The actress went through the motions of stumbling to her death while shouting her final words for all to hear.
+
+*"Oh, but how wondrous a dream is life? Only now - too late! - do I wake to see its myriad of splendors"*, she bemoaned.
+
+With a puff of smoke and glittering powder, Kindred made a grand entrance upon the stage. As per tradition, they were played by one actor, his head covered by two opposing masks. He approached Magga, the white mask of the 20px|border Lamb facing her.
+
+*"Hark! Do I hear a plea for my keenest arrow? Come, child, let the warmth of your heart fade into the cold embrace of oblivion."*
+
+Magga refused, as she had thirteen times before. Any nuance in her performance was buried beneath the ear-splitting delivery of her scream. On cue, Lamb spun around, revealing the second mask - that of the 20px|border Wolf.
+
+*"There is naught ye can do to stave off thine end"*, growled Wolf.
+
+*"I am but a poor young maiden! Please, let my piteous cry fall on all four of thine ears."*
+
+The audience seemed enraptured by the unfolding dramatics of the 'Orphellum Mechanicals'. With the twin threats of plague and war on the tongues of those in neighboring protectorates, death dramas were all the rage.
+
+Denji, the actor portraying both Lamb and Wolf, descended upon the young actress, awkwardly baring wooden fangs. Magga offered her neck. At the threat of Wolf's bite, she triggered the device sewn into her blouse's collar. Ribbons of red fabric unspooled to the delighted pips and yelps of the audience. They'd gotten what they paid for.
+
+|-|
+II=
+center|640px
+
+By the time the Mechanicals had staggered back to their wagon and set off in the direction of Needlebrook, there were no stars to be seen. Instead, a veil of clouds stretched across the night sky.
+
+Needlebrook always delivered a good audience, Illusian, the company's owner and sole dramaturg, explained once more. He staggered around, drunk on his own accolades - as well as the wine Parr had grifted from the locals.
+
+The night wore on, and the troupe had descended into bickering. Tria and Denji lambasted their playwright over the quality of his plots, which fell into a predictable structure: tragedy strikes maiden, death finds maiden, death takes maiden. Illusian argued that complicated plots detracted from a good death scene.
+
+Magga, the youngest of the bunch, agreed with Tria and Denji's diagnosis, but kept her mouth shut. Had she not stowed away in the wandering troupe's wagon, she would certainly be somewhere far more miserable. Luckily for her, the Mechanicals had recently lost several actors due to Illusian's insistence on complete artistic control. Because of his attitude - and obvious mediocrity - they were facing a drought of fresh faces. And so, the 'Orphellum Mechanicals' agreed to contract Magga to die in all their dramatics for the foreseeable future. For which she had been grateful.
+
+Illusian was still smarting from Denji and Tria's words when he motioned to Parr, their wagoner, to stop and make camp. The inebriated auteur set out his bedroll in pride of place next to the wagon. He then threw the rest of the bedding into the long grass nearby.
+
+*"Ungrateful players can sleep in the wilds"*, Illusian spat, *"where they shall hopefully find their manners."*
+
+The rest of the troupe built a fire and swapped stories. Denji and Tria had fallen asleep in each other's arms while whispering potential names for their unborn child into each other's ears. They had nattered on about the day the traveling company would stop in Jandelle, a town so perfect and peaceful they would set aside their vagabond ways to raise their child.
+
+Magga moved closer to the crackling fire so its pops and whistles would drown out the irksome affections of her traveling companions.
+
+But sleep never came. Instead, Magga tossed and turned, thinking about the looks on the audience's faces as the coiled spurts of blood unfurled from her neckline. A pretty maiden struck dead by her own naïveté was all the theatrical pomp Illusian could muster, but the crowd lusted after the gruesome façade.
+
+Eventually, she left her bedroll and set out into the woods to soothe her unsettled mind.
+
+|-|
+III=
+center|640px
+
+In the dead of night, Magga came upon a low grassy mound with slabs of standing stone at its base. Although she could not read the inscriptions, her fingers traced the familiar etching of Kindred's twin masks. This was a place of the dead, a burial site built long ago.
+
+She felt a chill on the back of her neck that compelled her to look up. She was not alone. Magga immediately understood what she saw, for she'd encountered a crude impersonation of them night after night. But poor Denji couldn't begin to instill the dread washing over Magga. Before her, perched on a weathered barrow-archway, was Lamb herself, flanked by her ever-faithful counterpart, Wolf.
+
+*"I hear a beating heart!"* said Wolf, his black eyes twinkling with delight. *"May I have it?"*
+
+*"Perhaps"*, replied Lamb. *"I sense she is afraid. Speak, beautiful one. Tell us your name."*
+
+*"I-I would have yours first"*, stammered Magga, stepping backward. Her slow escape was halted by the speedy Wolf, who materialized unsettlingly close behind her.
+
+He spoke directly in her ear. *"We have many names."*
+
+*"In the West, I am Ina to his Ani"*, said Lamb. *"In the East, Farya to his Wolyo. But we are Kindred everywhere. I am always Lamb to Wolf, and he is always Wolf to Lamb."*
+
+Wolf reared up and sniffed at the air.
+
+*"She is playing a boring game"* said Wolf. *"Let us play a new game, one of chasing and running and biting."*
+
+*"She is not playing, dear Wolf"*, said the Lamb. *"She is frightened and has lost her own name. It hides behind her lips, afraid to come out. Worry not, dear child, I have found your name. We know it as you know us, Magga."*
+|-|
+IV=
+center|640px
+
+*"P-please"*, Magga stammered. *"Tonight is not a very good night for--- "*
+
+Wolf's great pink tongue lolled out of the side of his mouth, and he proceeded to cackle.
+
+*"All nights are good nights for pouncing"*, said Wolf, laughing.
+
+*"All days are, too"*, Lamb said. *"With light comes a clear shot."*
+
+*"There is no moon tonight!"* cried Magga. She used what Illusian had taught her - to gesture grand, so those in the back could see her movements. *"It is hidden by a blanket of clouds, tucked away from my eyes and yours. Without the moon, what would be the last thing I would see?"*
+
+*"We see the moon"*, replied Lamb, as she caressed her fabled bow. *"It is always there."*
+
+*"There are no stars!"* said Magga, trying again, this time gesturing smaller and speaking quieter. *"No menagerie of twinkling diamonds, glittering in the midnight hue. What more beautiful view could one hope for whence one meets Lamb and Wolf?"*
+
+*"This Magga-thing is playing a new game"*, growled Wolf. *"It is called 'stalling'."*
+
+Wolf stopped moving and cocked his head to the side. He turned his sideways snout toward Magga before speaking. *"Can we play 'Chasing the Magga-Thing and Bite Her to Bits?'?"* Wolf clacked his fangs together loudly for effect.
+
+*"Let us ask her"*, said Lamb. *"Magga! Do you prefer Wolf's Wolf's Frenzy, or my Dance of Arrows?"*
+
+Magga was trembling now. Her eyes raced to take in every last detail of the world around her. It wasn't such a bad place to depart. There was grass. There were trees. There was the ancient archway. There was stillness to the air.
+
+*"I would prefer Lamb's arrow"*, she said, looking at the rough crusts of bark on the trees. *"I'll imagine myself climbing to the highest boughs, like when I was a child. Only this time, I will never stop climbing. Is that what it is like to go with you?"*
+
+*"No"*, said Lamb, *"though it is a nice thought. Fear not, little maiden, we are just having our fun. You have come to us tonight; we have not come for you."*
+
+*"I cannot chase Magga-thing"*, said Wolf, with a hint of disappointment in his voice. *"But there are other things nearby. Other things ripe for the chasing and the biting. Hurry, Lamb. I am hungry."*
+
+*"For now, know that your theatrics have pleased us, and we will watch them until the day we meet again."*
+
+Wolf passed over Magga and disappeared into the woods. The shadowy beast snaked away through fields of tall grass. Magga looked back toward the weathered barrow. Lamb was gone.
+
+The actress fled.
+|-|
+V=
+center|640px
+
+When Magga returned to the encampment, she found it in utter ruin. The wagon she had only just begun to call home had been ransacked and reduced to a smoldering husk. Bits of clothing and ruined props lay strewn across the campsite.
+
+She found Denji's body near where he'd slept. He had died protecting Tria, whose corpse lay behind him. Judging from the trails of blood, their deaths had not been slow. They had dragged themselves toward each other, their fingers entwined in one last caress before death.
+
+Magga noticed that Illusian had managed to kill two of the bandits before being burnt to a crisp along with Parr in the wagon.
+
+The only thing that remained untouched were Denji's Lamb and Wolf masks. Magga picked them up and held them in her hands. She placed the Lamb mask over her own eyes and heard the voice of Wolf.
+
+*"Chase the Magga-thing."*
+
+The maiden ran the distance to Needlebrook, never once looking back.
+
+|-|
+VI=
+center|640px
+
+The Golden Round was filled to the brim with a sea of twinkling eyes, all glittering in excitement at the velvet curtain. The king sat in the theater with the queen and their advisers, all eagerly awaiting the onset of the dramatics. Everyone hushed as the black curtain lifted to reveal the actors.
+
+Magga sat in a quiet dressing room under the stage. She heard the crowd fall silent as she studied herself in the mirror. The luster of youth had faded from her eyes years ago, and left her with a long shock of silver running through her hair.
+
+*"Madame!"* said the stagehand. *"You're not in costume yet."*
+
+*"No, child"*, Magga said, *"I only dress at the last moment."*
+
+*"It is the last moment"*, said the young stagehand, holding the two final pieces of Magga's costume: the same Lamb and Wolf masks from her days with the 'Orphellum Mechanicals'.
+
+*"May your performance be blessed tonight"*, the stagehand said.
+
+Magga prepared to leave for the stage. She slipped the masks over her head. The old chill from the dark barrow crept down her spine. She welcomed it - as always.
+
+She enthralled the audience as she glided onto the stage, embodying Lamb's graceful movements. She thrilled the crowd with her rendition of Wolf's playful savagery. She, as the twin deaths personified, eased the suffering of her fellow actors, or ripped it from their throats, until the crowd stood on its feet and erupted in thunderous applause.
+
+It was true. All audiences loved a good death, and they loved Magga's more than any other.
+
+Even the king and queen were on their feet in praise of her work.
+
+But Magga heard no applause and saw no ovations. She didn't feel the stage beneath her feet, nor the hands of her fellow mummers in hers as they bowed low. All she felt was a sharp pain in her chest.
+
+When Magga looked out over the audience, every single face was either a lamb or a wolf.
+
+center|640px
+
+center|640px

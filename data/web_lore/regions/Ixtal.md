@@ -1,0 +1,198 @@
+# Região: Ixtal
+**Tipo:** Lore de Região / Runeterra | **Fonte:** League of Legends Wiki & Universe
+
+Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older—part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon—and it is likely they played a significant role in the creation of the first Ascended.
+
+But the mages of Ixtal survived the Void, and later the Darkin, by distancing themselves from their neighbors, drawing the wilderness around them like a shield. While much had already been lost, they were committed to the preservation of what little remained...
+
+Now, secluded deep in the jungle for thousands of years, the sophisticated arcology-city of Ixaocan remains mostly free of outside influence. Having witnessed from afar the ruination of the Blessed Isles and the Rune Wars that followed, the Ixtali view all the other factions of Runeterra as upstarts and pretenders, and use their powerful magic to keep any intruders at bay.
+
+Secluded deep in the wilderness of eastern Shurima, the sophisticated arcology-city of Ixaocan remains mostly free of outside influence. Having witnessed from afar the ruination of the Blessed Isles, and the softening of Buhru culture, the Ixtali view the other factions of Runeterra as little more than upstarts and pretenders, and use their powerful elemental magic to keep any intruders at bay.[1]
+
+MalphiteMilioNeekoNidaleeQiyanaRengarSkarnerZyra
+
+Ezreal traveled to Paretha to obtain the Elixir of Ulola and had a run in with  Neeko.
+
+Kha'Zix roams the jungles and encountered  Rengar here.
+
+Lucian traveled to the Serpentine Delta in search of the Black Mist and any traces of recent Harrowings.
+
+Shyvana's dragon mother, Yvva, hails from the Shuriman jungle.
+
+Twisted Fate was born in the Serpentine Delta and moved to Bilgewater.
+
+Yuumi traveled to the Jungles in search for her Master, Norra.
+
+Zilean once studied under the great Yun of Ixtal as an elemental mage.
+
+Main article: Primordial Sovereign     Skarner, the Primordial Sovereign
+
+The founders of Ixtal traveled to the west of Shurima and settled in a lush jungle. Unbeknownst to them they were being observed by the brackern  Skarner, who found their existence fascinating. He watched them from afar, deep within the jungle, until one day a rockslide threatened to destroy the settlement. Not wanting the subjects of his observations to be destroyed, Skarner emerged from his hiding and saved Ixtal. The Ixtali were grateful for his intervention and revered Skarner as a protector, who soon integrated himself in the settlement. In exchange for sharing their culture and history, Skarner would use his geomancy and strength to help them build the great arcology of Ixaocan. Skarner became a founding member of the Yun Tal, the ruling caste of Ixtal, and combined the Brackern's collectivist culture with the Ixtali's scientific mindset to lead their people to greatness.
+
+Skarner continued to protect Ixtal by monitoring the earth's vibrations and grew concerned over the Shuriman Empire's expansion across the continent and the violence caused by the Ascended. The Shuriman Empire invited Ixtal to join into an alliance and the Yun Tal agreed, despite Skarner's protest.
+
+Not long after, and roughly 3500 years before the present day, Icathia fell, opening the way for the Void. The Ixtali people, at the time part of the Shuriman empire, now faced an enemy that could lay their grand empire low. The corruption spread rapidly from Icathia's ruins, before its hideous tendrils reached the southernmost jungles of Ixtal. Ne'Zuk of the Ascended Host was an Ixtali elemental mage of colossal power. He pledged to create a weapon powerful enough to take the fight to the Void, and eradicate it at the source of its original eruption.
+
+After months of inhuman labor, Ne'Zuk revealed the Monolith—a floating fortress of living stone, maintained by the greatest elemental mages, and its ramparts manned by his fellow Ixtali god-warriors. The size of a city itself, the Monolith glided towards Icathia to face the Void and the hordes of Voidborn it had created.
+
+The battle dragged into weeks. It was violence of a scale and intensity never before witnessed in Runeterra. Sorcery enough to raze entire civilizations, or render whole continents into naught but a memory, was unleashed upon the Void.
+
+The darkness retaliated in kind. The living stone of the Monolith became pocked and seared with unnatural malphite—from the Ixtali for “bad stone”—and leaving mineral-like scars. The fortress was pushed to the very limits of its design, struggling to self-repair and reknit its weakened superstructure until it reached the breaking point.
+
+As Ne'Zuk fought to rally his Ascended brethren for one last, desperate charge, the Monolith crashed down to earth. Much of the fortress was lost within that gaping maw, vanishing into the nothingness beyond. The rest rained down as great ruins. Only Ne'Zuk survived, fleeing for his life.
+
+However, a single shard remained. Buried deep beneath the surface, forgotten even by those that dwelt in the abyss, it slowly gathered in strength. It lived, until at last it awakened after uncounted centuries, and realized it was alone. In all the centuries since that dark day, the last shard of the Monolith would become  Malphite.
+
+In the aftermath of the war, and further destruction wrought by the Rune Wars, Skarner convinced the Yun Tal to withdraw from the outside world and hid their land in lies and magic. Skarner's faith in the Yun Tal was forever shaken by their decision to ally with Shurima, and while he still cared deeply for the people of Ixtal, he could no longer trust them to protect themselves. Skarner decided that only he could defend Ixtal and constructed an underground chamber beneath Ixaocan. He sequestered himself within the chamber, where his ability to listen to the earth's vibrations were greatly enhanced. He began to leave his chamber less and less, eventually fading into myth; with only the Yun Tal aware of his existence.
+
+Deep in jungles south of Kumungu, between the rivers that divide eastern Shurima were the  Gardens of Zyr. Elemental magics found in the soil allowed the growth of fierce, carnivorous plants that prayed on all creatures within reach. In the midst of the Rune Wars, a small company of soldiers lead by an ambitious sorceress entered these lands in search of a long-lost prize. A battle ensued between the vicious flora of the Gardens and the soldiers, forcing the sorceress to gather her power and unleash a mighty runic spell, creating a blast of energy. In that instant however, a rogue spark ignited the gasses throughout the swamps and caused an explosion, destroying all living things for miles around, leaving no survivors to tell the fate of the Gardens of Zyr.
+
+Main article: At the Edge of the World
+
+The jungles of Shurima are a frontier that the most ambitious generals would dearly love to claim for Noxus. Having petitioned Noxian high command no fewer than seven times, fleet officer Tomyri is finally summoned to the capital to receive a commission of her own. Tomyri oversees her vessel's final preparations, before learning that the expedition is to be joined by the renowned Reckoning beast hunter, Niander Ordylon. After many days at sea, the Ardentius enters the Serpentine Delta. This is Tomyri's first real glimpse of the wilderness that awaits her, and her crew. The jungle does not treat foreign invaders kindly. Unable to find their bearings, or any quarry for the beast hunters, the Noxians' morale and discipline begins to falter. Realizing they were send on a fool's errand, they try to return home, only to find that their ship has been taken by the jungle. Tomyri and the rest of her crew are all smothered to death by the living vines.
+
+Ixtal is located in the eastern part of Shuriman Continent bordering Shurima in the east, and surrounded by the Shuriman Jungle (Ixtals borders once stretched the entirety of the jungle region). The currently well known locations encompassing Ixtal are:
+
+IxaocanIxaocan MapAn Unexplored FrontierThe VidalionMastery Over The Material RealmEsoteric KnowledgeIxtal Jungle Region1/7
+
+Ixaocan is a system of arcologies that stretches across the jungles of  Ixtal. The Cardinal Arcology, sometimes also named after the system it anchors, stands as its heart.
+
+The arcologies are connected by intersecting lines of power, and each represents a specific form or discipline of elemental magic. The largest are home to tens of thousands of Ixtali practitioners. However, they are neither wholly habitats nor colleges of magic, but something in between.
+
+Cardinal Arcology: The arcologies are connected by intersecting lines of power, and each represents a specific form or discipline of elemental magic. The largest are home to tens of thousands of Ixtali practitioners. The Cardinal Arcology, seat of the ruling Yun Tal caste, has stood since before the ancient Shurimans raised their first Sun Disc. Its great arcologies are neither wholly habitats nor colleges of magic, but something in between.
+
+Skarner's Chamber: Beneath Ixaocan lies a secret chamber home to Skarner, a founding member of the Yun Tal, and protector of Ixtal. Here he lies, attuned to the earth's vibrations, vigilant for any threats to Ixtal. Only the Yun Tal are aware of Skarner's presence beneath the city.
+
+Vidalion: Within the cardinal arcology of Ixaocan is a grand chamber, deliberately positioned at the very center of Ixtal, and indeed the whole of Runeterra, as far as the Ixtali are concerned. Above this chamber hangs the Vidalion, an ancient artifact that can weave magic into material form.
+
+Magma Arcology: High in the mountains, the mages of this relatively small arcology combine their understandings of fire, rock, and magnetism to draw precious metals from the earth, crafting them into exquisite shapes with the merest gesture.
+
+Water Arcology: Located next to one of the many river confluences of the Serpentine River,  the mages of this arcology combine their understandings of water, ice, and steam to reshape the land around them.
+
+The jungles of Ixtal are dotted with multiple outlying villages and settlements, separate from the arcologies of Ixaocan. The most trusted  Yun Tal may be designated as the prefects of these villages. They would resolve local disputes, test potential aspirants, and generally ensure that the Ixtali people have as little interaction with outsiders as possible.
+
+Kiilash Village: A Vastayan settlement, it is the birthplace of  Rengar.
+
+Milio's Village: A small village somewhere around the borders of Ixtal. Milio's family was banished to this village after his aunt, Luné, was caught plotting treason against the  Yun Tal.
+
+Ohmka: An outlying village somewhere in Ixtal's jungle
+
+Paretha: An old Shuriman settlement known for its taffa-flower water. It is near the location from where the Elixir of Uloa was found by  Ezreal.
+
+Semchul: A semi-independent settlement known for their great "Gardeners", those who tend to the barrier of the Ixtal in order to protect it from the outside world, also known as the Nasiana by fellow Ixtali.
+
+Taarqen: A semi-independent settlement noted to be closely situated to Ixaocan
+
+Tikras: A village governed by Prefect Mara Yunalai. Most of the village was decimated after  Piltover miners blew it up as an act of revenge for their killed mining team.
+
+Xolen: An outlying village somewhere in Ixtal's jungle
+
+When the Rune Wars closed in on their doorsteps,  Skarner was able to convince the other Yun Tal to close the Ixtali border by drawing the wilderness around them to act as a barrier, isolating Ixaocan and its surrounding jungles from the rest of  Runeterra.
+
+The barrier erected by the Yun Tal, manifests several potent effects that deter and repel people from the outside world (known as Nasiana by the Ixtali) from trespassing. Elemental magic manipulates the weather, conjuring sudden storms that persist for days, drenching intruders and making navigation treacherous. The dense mist obscures visibility, leading travelers astray, while the landscape itself shifts and rearranges, impeding progress and trapping those who venture within.
+
+Travelers can find themselves entangled in a relentless struggle against the oppressive vegetation, hacking through thick vines and dense foliage as they press forward into the heart of the wilderness. The air hangs heavy with humidity, choking the senses and obscuring visibility in a thick, impenetrable fog. An eerie sense of being watched pervades the atmosphere as men vanish without a trace, swallowed by the jungle's insatiable appetite or torn asunder by unseen forces lurking amidst the shadows. Vines exhibit a rapid growth rate, quickly engulfing structures, vessels and people alike within their reach.
+
+Despite the barrier's formidable reputation for causing those who attempt to breach it to mysteriously vanish, a few individuals, such as  Ezreal and  Neeko, have somehow managed to traverse it, although the specifics of their methods remain unknown. Meanwhile,  Piltover has intensified its endeavors to extend its operations beyond the Ixtali borders, with some degree of success.
+
+A BasiliskNoxian riding a Basilisk1/2
+
+Monstrous reptiles from the southern jungles of Kumungu, basilisks are fierce predators that can grow to gargantuan sizes, few can stand against their charge. Young basilisks are prized riding beasts. After they become too large for a rider to control, they are used as beasts of burden, or sometimes as living battering rams to smash down the walls of besieged cities. They are covered in thick greenish hide which was mostly used for camouflage in the thick native jungles. They also have fin type extensions on their backs and back lower legs, hinting on their proficiency in traversing swampy areas. Other than their front horns, the creatures have strong a strong tail used for swimming and hitting other enemies.
+
+Calasa are a type of plant native to the Serpentine River delta of the Shuriman Jungle. Its gourd called a Calasa fruit has a sweet nectar center. The settlement of Venaru exports them to other islands of the delta.
+
+Winged, elemental-breathing reptiles that can reach near-giant sizes over their long, long lifespans, they are the indisputable ruler of the skies. Both fearsome and majestic,  dragons have a society that revolves around strength and might and because of their egoistic and narcissistic pride, mixing their blood with that of races outside of dragonkind are seen as an abomination, a cancer that must be eradicated utterly. Many dragons persecute such defiled creations and their perpetrators to no end, a thing that  Shyvana, the Half-Dragon, found out firsthand. There are five types of dragons:  Cloud,  Infernal,  Mountain,  Ocean drakes (all Elemental Drakes), and  Elder Dragons. The firstborn female dragons of certain dragon bloodlines have elemental rune shards within them, which gives them their elemental powers.
+
+Curiously, the abandoned ruins scattered throughout Ixtal are home to a surprising number of dragons. These terrifying creatures have not fought alongside mortals since the last days of Shurima's war against the Void—now, for the most part, they seem content just to be left alone.
+
+Kraken Lilies are a type of flower native to the Serpentine River delta of the Shuriman Jungle. Sold in the markets of Kumangra, their distinct sent is heavily sought after by flower collectors.
+
+Night-Blooming Zychids, or Death Blossoms, are native to the southern parts of the Shuriman Jungle, these flowers grow where sunlight never touches the forest floor. They're more for potion brewers or alchemists. They clings for foreign objects upon touch.
+
+Parethan Corpse Tulips are type of flower native to Paretha of the Shuriman Jungle. Sold in the markets of Kumangra, their distinct sent is heavily sought after by flower collectors.
+
+Tola Vines are a type of plant native to the hilltops of islands in the Serpentine River delta of the Shuriman Jungle. It can be weaved into rope and litter.
+
+Wharf rats a terrifying blend of shark and rat commonly found on the docks of Bilgewater. These creatures are larger than dogs and are known to prey upon drunks and lone fishermen on moonless nights. They often travel in packs, and are easily capable of biting a man's leg off.
+
+For more detail, see Rift Scuttler.
+
+Scuttler Crabs or Rift Scuttlers live in the fresh waters of Valoran, Shurima and can be found near the docks of Bilgewater. They are small green-shelled crustaceans with 3 pairs of legs and one pair of front claws. They sometimes bury themselves into the muck of the river to avoid predators and are known to either avoid or flee from dangers. To confer peaceful resolution (hence the elusive pacifist nickname) to the force that subdues it, it will grant them a boon: a persistent field around it that grants vision and magical speed to the aggressor and its allies. If corrupted by The Void, a Rift Scuttler turns into a  Rift Herald.
+
+Very Little is Known of Ixtal's History by those outside its borders. Indeed, over the years, countless expeditions-from Noxus, Bilgewater, and more recently The Piltover Explorers Guild-have delved into the Jungle in search of arcane treasures or new territorial claims... only to vanish without a trace.
+
+Clothed In PowerA QuarrymanA CarverA MetallurgistA SpearfisherA Courier-tribuneA Path WardenRuling CasteThe PrefecturesThe Yanlei1/10
+
+The Ixtali wear clothing best suited for a tropical environment. The clothing is vibrant in color, patterns and designs. Ixtali wear clothing best suited for their caste work, with an Axiom altering a persons garment with elemental magic.
+
+Elemental Clothing: Upon acceptance into the ruling Yun Tal caste, an initiate will have their own magic woven around them by the Vidalion, creating shimmering garments that respond to the needs of the wearer. This confirms the status of a true elemental master, who will lead and teach others in turn.
+
+The Axiomata 1The Axiomata 21/2
+
+To the people of Ixtal, the world is merely a vast confluence of material forces, which they alone are capable of mastering. Each and every permutation of elemental magic—from the most simple to the most complex—is governed by a numbered Axiom, held almost sacred by the arcology that teaches it. There are at least over a hundred axioms that are learned and practiced by Ixtali elemental mages.
+
+Third Axiom: With this Axiom, a fisherman is able to create favorable currents beneath the surface, even a novice spearfisher can land a prize catch.
+
+Fifth Axiom: With this Axiom, a courier-tribune can bring an announcement from the cardinal arcology with speed. It is also able to amplify their words to all who must hear them.
+
+Sixteenth Axiom: With this Axiom, a quarryman is able to haul stone from the ground, and carry it as easily as a bag of feathers.
+
+Translated from Ixtal's most ancient tongue, this chant is taught to the mages of Ixaocan from an early age, often before they even begin formal study in the arcologies.
+
+The elements of this world are ours
+
+Understand and master the singular
+
+To create new alloys of our design
+
+Formed by our will and intention
+
+We are the sons and daughters of Ixtal!
+
+The Yun Tal are the ruling Ixaocan caste of  Ixtal. For countless generations, Ixtal's secrets have been preserved by their most gifted and wise elementalists. There are no formal criteria for admission to the Yun Tal, though aspirants can expect to be tested to the very limit of their abilities, and any approval must be unanimous among those present. Each Yun Tal caste member wears special elemental clothing woven from the Vidalion to enhance and showcase their elemental prowess.
+
+The most trusted Yun Tal may be designated as the prefects of outlying villages and settlements beyond Ixaocan, such as Ohmka, Xolen, or Paretha. Their duties include the resolution of local disputes, testing potential aspirants, and generally ensuring that the Ixtali people have as little interaction with outsiders as possible.
+
+Protected by magic and solitude, Ixtal needs no armies. The closest thing they have to professional soldiers are the path wardens of Ixaocan, who endlessly patrol the lines of power between arcologies, and are much respected for it.
+
+Magma ArcologyWater Arcology1/2
+
+While the great arcologies of Ixtal are a blend of wholly habitats and colleges of magic, each archology specializes with a different elemental mastery. The further one travels from the cardinal arcology of the capital, the more specialized and prestigious the masteries become.
+
+Magma Arcology: Located in the mountainous areas far from Ixaocan, this arcology focuses on mastering elemental magics of Fire, Rock, and Magnetism.
+
+Water Arcology: Located next to one of the many river confluences of the Serpentine River, this arcology focuses on mastering elemental magics of Water, Ice, and Steam.
+
+Ixtali culture is part of an older great westward diaspora that gave the rise of civilizations across  Runeterra.
+
+After its isolation from the rest of the world and the formation of Bilgewater, a lot of pirates and adventure seekers would attempt to trek into the unforgiving jungle landscape in search of ancient treasure, only to never be heard from again (due to the wildlife, or the Ixtali defending their borders). One of the group of people that settled the regions around Ixtal are the riverfolk of the Serpentine River.
+
+During ancient times, both of these nations had a cultural ties with one another. Mages from Icathia such as  Zilean went to study elemental magics in Ixtali cities such as Ixaocan. After the Void rupture, the Ixtali Ascended Ne'Zuk constructed a giant superweapon known as the Monolith to combat the entities of the Void. The battle decimated Icathian lands, leaving visible scars to the entire peninsula.
+
+In recent times, Ixtali have had an unwelcoming contact with the Noxian Empire. Numerous Noxian expeditions were made to the Shuriman Jungle, some of which ending in disaster while others were able to secure small outposts at the very edges of the jungle.
+
+In recent times, Ixtali have had an unwelcoming contact with the nation of Piltover. The Piltover Explorers Guild has delved into the Jungle in search of arcane treasures, only to vanish without a trace (due to the wildlife, or the Ixtali defending their borders). However, due to the actions of  Qiyana, Piltover has found out about the existence of this hidden nation.
+
+During ancient times, Ixtal was one of the first nations to join the Shuriman Empire. After the fall of Icathia, the Ixtali started to distance themselves from the Empire, completely isolating themselves by the time of the Darkin War and the later Rune Wars.
+
+It is likely Ixtal had a significant relation with Targon due to its involvement in the creation of the first Ascended.
+
+While not residing inside Ixtal itself (instead residing in the Shuriman Jungle), champions like  Neeko and  Nidalee are still placed under Ixtal champions.
+
+Ixaocan is comprised of all currently used arcologies, not just the cardinal one.
+
+There are no other inhabited/non-ruined cities in Ixtal, beyond Ixaocan.[2]
+
+While not directly in control of the vast jungle areas, some  Ixtali defend the jungle borders from approaching foreigners such as Piltovans, Zaunites, Shurimans, and Noxians.
+
+Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value)., is from Ixtal who joined Sentinels of Light.
+
+Note: these are just to reflect the similarity to Ixtal. Its not part of Ixtal.
+
+Prehistoric Anivia, Cho'Gath, and RenektonBeast Hunter Draven, Sejani, and TryndamereSun Goddess KarmaElementalist LuxWorldbreaker Nasus and HecarimTribal RyzeBoneclaw ShyvanaWorldbreaker Trundle and Nautilus
+
+Zyra, Rise of the Thorns - Login ScreenRengar, the Pridestalker - Login ScreenNeeko, the Curious Chameleon - Login ScreenQiyana, Empress of the Elements - Login ScreenMilio, The Gentle Flame - Champion Theme - League of Legends
+
+Neeko Champion TeaserNeeko The Curious Chameleon Champion Trailer - League of Legends (No Voice-Over)Neeko The Curious Chameleon Champion Trailer - League of LegendsYuumi The Magical Cat Champion Trailer - League of LegendsEmpress of the Elements Qiyana Champion Teaser - League of Legends
+
+Ixtal Ixaocan Concept 1 (by Riot Artist David 'Sharpcut93' Ko)Ixtal Ixaocan Concept 2 (by Riot Artist David 'Sharpcut93' Ko)Ixtal "The Axiomata" Illustration (by Riot Contracted Artists Grafit Studio)Ezreal "The Elixir of Uloa" Illustration 1 (by Riot Contracted Artist Maddie Julyk)Ezreal "The Elixir of Uloa" Illustration 2Ezreal "The Curator's Gambit" Illustration (by Riot Contracted Artist Maddie Julyk)Neeko "The Monster of Kalduga Outpost" Illustration (by Riot Artist Ashley Mackenzie)Nidalee "Human Blood" Illustration (by Riot Artist Leesha Hannigan)Malphite "Roots of a Poisoned Tree" Illustration (by Riot Artist Jason Nguyen)Milio Teaser 1Milio Teaser 2Qiyana "Fit to Rule" Illustration 1 (by Riot Artist Ian Su)Qiyana "Fit to Rule" Illustration 2 (by Riot Artist Ian Su)Qiyana "Empress of the Elements" IllustrationRengar "Prey" Illustration (by Riot Artist Eric Canete)Kha'Zix and Rengar "Adaptation" Illustration (by Riot Artist Blake Byun)Zyra Teaser

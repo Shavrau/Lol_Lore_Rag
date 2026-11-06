@@ -1,0 +1,48 @@
+# História Completa: Garen
+**Tipo:** Lore Aprofundada & Relações Canônicas | **Fonte:** League of Legends Universe / Wiki
+
+## Background
+
+### Early life 
+At 12 years old, Garen left High Silvermere to join the military. By the time Garen was 18 years old he has served with honor in campaigns along the Freljordian borders, played a key role in purging cultists from the Silent Forest, fought alongside the defenders of Whiterock, and started the trials necessary to join the ranks of the . At the age of 21, Garen joined the ranks of the .
+
+### Recent history 
+*(TBA)*
+
+## Relations
+
+### Lux 
+Garen is  older brother and their family name is Crownguard. He deeply respects and loves his sister, but he fears what may happen to her if her magical abilities were to be revealed. After the events of the Lux comic, Lux got Garen to verbally acknowledge that she was a mage. The two parted ways on good terms. In the end Garen ended up accepting his magician sister and that not all magicians are bad people. He and their aunt, Tianna, planned on arranging Lux to marry prince Jarvan IV in order to protect her from persecution. As their family name implies, they serve and protect the crown.
+
+### Katarina 
+It is hinted that Garen and Katarina have feelings for each other. Then there are those who imply it to the point of confirmation:
+*  *"Katarina and Garen sitting in a tree~ And you better just be holding hands or I'm telling!"*
+*  *"Garen live by a code that'll never let you get what you want. Let me take you to Katarina."*
+*  *"Don't starve your heart, Katarina! Let me deliver you to Garen."*
+*  *"Honor? Duty? Ha! What Garen heart demands is all that matters."*
+*  *"No love is impossible, my god demands you follow Katarina desires."*
+*  *"The always-enchanting tale of Garen-Katarina lovers."*
+*  *"Katarina finale will be a Garen."*
+* *"Stop carving words into my bark! Everyone knows **Garen <3 Katarina**!"*
+Their special interactions with each other and various others in Legends of Runeterra suggests that at some point the two are in a romantic relationship, which they try to keep secret.
+
+### Jarvan IV 
+Jarvan IV is Garen's childhood friend. When the Exemplar was captured, Garen felt responsible and led the Dauntless Vanguard on a rescue operation.
+
+### Taric 
+Garen and Taric are long-time friends from the Shield of Valoran's days in the Demacian military. Garen was furious at being convinced Taric was wasting his talents as a warrior but he still believed in him.
+
+### Pieter Crownguard 
+Garen and  father, Pieter Crownguard was a defender during the failed Noxian assault nicknamed *Cyrus's Folly*. This is likely referring to the same Cyrus who conquered the port city Basilich, which also happens to be the home town of Darius and his Draven.
+
+### Nocturne 
+Nocturne terrorized the Demacian settlement of Fossbarrow until Garen and Lux expelled him from neighboring tomb. Nocturne was sealed in the grave of their great-grandfather Fossian, who died during the fight versus him, before a young mage named Luca accidentally woke him up.
+
+### Sylas 
+Garen has fought Sylas and his allies multiple times.
+
+### Galio 
+Garen encountered Galio when his sister summoned the Colossus to fight off Sylas and the Winter's Claw.
+
+### Fiora 
+Garen and Fiora know each other, as she helps train the Dauntless Vanguard, though they never train together as "the outcome would be obvious". They fought together against the dragon that attacked Ehrenmount.

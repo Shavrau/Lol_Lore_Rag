@@ -1,0 +1,512 @@
+# Região: Demacia
+**Tipo:** Lore de Região / Runeterra | **Fonte:** League of Legends Wiki & Universe
+
+For information about the  Legends of Runeterra  regional card set, see  Demacia.
+
+A strong, lawful kingdom with a prestigious military history, Demacia's people have always valued the ideals of justice, honor, and duty most highly, and are fiercely proud of their cultural heritage. But in spite of these lofty principles, this largely self-sufficient nation has grown more insular and isolationist in recent centuries.
+
+Now, Demacia is a kingdom in turmoil.
+
+The capital, the Great City of Demacia, was founded as a refuge from sorcery after the nightmare of the Rune Wars, and built upon the riddle of petricite—a peculiar white stone that dampens magical energy. It is from here that the royal family has long seen to the defense of the outlying towns and villages, farmland, forests, and mountains rich with mineral resources.
+
+However, following the sudden death of Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value)., the other noble families have not yet approved the succession of his sole heir, young  [Jarvan], to the throne.
+
+Those who dwell beyond the heavily guarded borders are increasingly viewed with suspicion, and many former allies have begun to look elsewhere for protection, in these uncertain times. Some dare to whisper that the golden age of Demacia has passed, and unless its people are willing to adapt to a changing world—something many believe they are simply incapable of doing—the kingdom's decline may be inevitable.
+
+And all the petricite in the land will not protect Demacia from itself.
+
+2.4 Battle of the Winged Sisters
+
+Demacia is a proud, lawful kingdom with a prestigious military history. Founded as a refuge from magic after the Rune Wars, some might suggest that the golden age of Demacia has passed, unless it proves able to adapt to a changing world. Self-sufficient and agrarian, its society is inherently defensive and insular, valuing justice, honor, and duty above all else.
+
+FioraGalioGarenJarvan IVKayleLucianLuxMorganaPoppyQuinnShyvanaSonaSylasVayneXin Zhao
+
+Evelynn killed  Vayne's parents.
+
+Ezreal travelled to Demacia in his expeditions.
+
+Fiddlesticks stalks the Demacian countryside for his next victims.
+
+Kindred took the life of a famous Demacian stage performer.
+
+Nocturne attacked a Demacian settlement.
+
+Ryze stores several World Runes inside a petricite forest in Demacia.
+
+Senna is  Lucian's wife. She was also born in an island near Demacia, though she isn't Demacian herself.
+
+Sion was killed by and slew King Jarvan I.
+
+Taric is a former Demacian knight turned Targonian Aspect.
+
+Talon is a wanted man in Demacia that  Quinn was tasked with capturing.
+
+Vel'Koz attacked a Demacian soldier.
+
+Viego came to Demacia in search of a fetter and corrupted  Shyvana.
+
+Zoe is antagonistic towards  Lux due to rumors of the latter's relationship with  Ezreal.
+
+The history of Demacia and its culture stems from the cataclysm of the Rune Wars. Where survivors who fled from the conflict had ventured into the west of Valoran with the hope of establishing safety away from the chaos. Some say it was while a cult of dark mages terrorized these displaced survivors, that they hid in an ancient and petrified forest where the sorcerers that chased suddenly found their magic was made ineffective by the strange woods. Deciding to take advantage of the unique power from this environment, these vagabonds set up a permanent residence.
+
+Eventually, knowledge of this curious new realm reached other refugees, who came seeking asylum and solidarity from the magic that was ravaging the rest of Runeterra. Within a short time, the united settlers had built themselves a sizable community, allied under a new nation they would come to call Demacia.
+
+Kayle and Morgana, the Winged Protectors of Demacia
+
+Main article: Canticle of the Winged Sisters
+
+Many refugees fled the horrors of the Rune Wars. One such refugeee were Kilam and his twin daughters  Kayle and  Morgana. Hailing from Mount Targon their father sought a safer life for his daughters, after their mother  Mihira became the ascended host of the Aspect of Justice. Several years have past and the conclusion of the Rune Wars, one day the sisters have received their mother's  Starfire Spellblade from the sky and with which they unlocked their celestial powers, becoming additional ascended hosts for the Aspects of Justice. Together, they vowed to protected their new home of Demacia.
+
+Main article: Canticle of the Winged Sisters
+
+Kayle and  Morgana flew to aid the people of Zeffira. While Kayle was busy dealing with the frontline attack, Morgana learned of a hidden wave of enemies attacking the city and left the frontlines to aid the citizens. After the battle Kayle lost trust in her sister for leaving her on the battlefield.
+
+Main article: Canticle of the Winged Sisters
+
+Warriors flocked to Kayle's banner at Silvermere's Peak, where she founded a judicator order to enforce the law, and hunted down rebels and reavers with equal fervor. Kayle allowed Morgana to rehabilitate wrongdoers who appeared humble enough to admit their guilt.
+
+Gradually Kayle's followers started to resent Morgana. Kayle's protege, Ronas, attempted to imprison Morgana for her actions when Kayle was busy outside of the city, which resulted in his death. His death lead to an outbreak of riot in a city.
+
+When Kayle returned, she looked down upon the city, became enraged and summoned her divine fire to cleanse the city of sinners and bring Ronas killer to justice. Morgana flew up to meet her, raising her blade, saying that is she wants punish darkness in mortal hearts, she should start from her sister. The Battle raged on, ruining the city and killing numerous of its inhabitants, until it was abruptly halted by their father's anguished cry.
+
+With the death of their father Kilam, both Kayle and Morgana left Demacia.  Kayle isolated herself near the slopes of Mount Targon, seeking perfect celestial clarity.  Morgana remained at the outlying wilds of Demacia where she rectifies wrongs she sees fit on an interpersonal level as the Veiled One.
+
+Quick to discover their homeland was rich in natural resources, the development of infrastructure for new cities and farmlands grew exponentially. But with progress and wealth came adversaries to the fledgling kingdom, ensuring that Demacia was at constant odds with ambitious conquerors.
+
+Yet there would be no fear of invaders capitalizing on magical warfare, and so Demacia's small but elite infantry would always have the advantage when threats took place in their homeland. But not every battle took place within the kingdom's protective boundaries, as the most cunning enemies would attempt to draw out Demacia's army where they would be far more susceptible to arcane attacks. Seeking out a means for more advanced protection, the leaders of Demacia enlisted Durand, the greatest artisan of the time, to sculpt a mobile instrument that could be useful in wars set abroad. Later unveiled to be a statue titan, shaped in the form of half man and half raptor- like the Silverwing's native to the highlands. Proven difficult to transfer in and out of Demacia but unquestionably effective once it was out on the battlefield, the Colossus has been used when necessary ever since.
+
+More than a century ago, Noxus expansion brought the empire forces dangerously close to the lands protected by Demacia. On their nations' first and legendary clash, the King Jarvan I went at war with Noxus for the southern lands.
+
+But Noxus wouldn't bow, the war hero  Sion charged against the demacians, with the only true focus of killing their king. Jarvan's royal guardsmen believed they could halt his charge. They were wrong. He cut them down, one by one, until only  he and the king remained. Battered and fatigued, Sion continued to fight the king. He battled Jarvan beyond the point of breaking and was finally bested... but not beaten. With his dying breath, he locked his fingers around the king's throat and broke the will of a nation. The Demacian King, Jarvan I, was dead.
+
+Main article: Exemplar of Demacia
+
+When the Demacian  Prince Jarvan IV received the honorary rank of general, he marched to the lands beyond the Argent Mountains, to bring stability to the almost lawless frontier created by Noxian presence. In response, the newly established Trifarian Legion was sent to the Gates of Mourning, an standing outpost close to the westernmost Noxian border.
+
+After Diadoro from the Dauntless Vanguard held the Gates of Mourning for an entire day, they fell to the Trifarian Legion. When word came that the Gates of Mourning had fallen, Jarvan resolved to drive onward into Noxian territory, against the advice of his lieutenants. Inevitably, with the battalions spread so thin, Jarvan was encircled and defeated by Noxian warbands before he even reached Trevale.
+
+Refusing to surrender, the prince and a handful of other survivors fled into the forests, only to be hounded for days by the Noxians. Eventually, pierced through his side by an arrow, Jarvan collapsed into the shade of a fallen tree, where he would be saved by a  purple skinned woman.
+
+The supposed death of the prince affected all of Demacia,  Jarvan III was in grieve and Garen blamed himself for what happened, using all of his funds to aid the family of the fallen soldiers. He was recognized by the king himself for this demonstration of the demacians ideals.
+
+Raised in one of Demacia's lesser quarters,  Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them.
+
+Over the years after apprehending numerous mages for the order, Sylas began to doubt Demacian ideals as he began to notice numerous mages amidst its population, some of which were highborn protected by their status.
+
+Those doubts finally bloomed in one deadly, fateful event, when Sylas and his handlers encountered a mage living in hiding in the countryside. After discovering it was only a young girl, Sylas took pity on her. When he tried to shield the child from the mageseekers, he accidentally brushed against her skin. The girl's magic rushed through Sylas's body—but rather than killing him, it shot forth from his hands in raw, uncontrolled bursts. It was a talent he did not know he possessed, and it resulted in the deaths of three people, including his mageseeker mentor.
+
+Knowing he would be called a murderer, Sylas went on the run, and quickly gained notoriety as one of the most dangerous mages in Demacia. Though he was still just a youth, when Sylas was eventually apprehended he was sentenced to life imprisonment. He languished in the darkest depths of the mageseeker compound, forced to wear heavy shackles of magic-dampening petricite.
+
+After fifteen years, a young volunteer from the Illuminators named  Luxanna stumbled into his cell. Over time the two forged an unusual and secretive bond: In exchange for Sylas' knowledge of the control of magic, Lux educated him about the world outside his cell, and brought him whatever books he desired, one of which was the Manuscript of Durand.
+
+The artisan's work was the foundation of Demacia's defenses against malicious sorcery. But Sylas analyzed that Petricite was not recorded to actually suppress magic, but to absorb it—meaning that it was possible to expel the magic stored within his restraints. All he needed was a source of magic: a source like Lux. But she never visited Sylas again. Her family, the immensely powerful Crownguards, had learned of their contact, and were furious that Lux had defied the law to help this vile criminal. Without explanation, Sylas was to be swiftly executed.
+
+On the scaffold, Lux pleaded for her friend's life, but her cries fell on deaf ears. As the headsman pushed past her to raise his sword, Sylas managed to touch against Lux with his chains. As he had predicted, her power surged into the petricite shackles, ready for him to unleash—and with that hijacked magic, Sylas blasted his way free, sparing only the terrified young Crownguard.
+
+Sylas destroyed the Mageseeker prison, liberating all the mages and assembling an indignant mob to assault the monarchy. However, he and the seized  Prince Jarvan discover the King had already been assassinated. Unbeknownst to anyone, Grand General  Swain had dispatched  Katarina to assassinate the king to weaken Demacia for future assimilation into the empire. Sylas prepared to execute the next in line, but  Garen had assembled the Vanguard to battle the insurgency. Garen tried to stop Sylas from escaping the city, and nearly succeeded in ending the mage's life. At the last second, Sylas was secretly rescued by his former mentor: Mageseeker Killan. The criminal absconded through a tunnel out of the city and planned to grow his revolution to one day destroy the authority that had oppressed mages across the land.
+
+Following the revolt, the Mageseekers began a crack down on the magical population within the Great City, arresting all mages and anyone harboring one. Lux had opposed this persecution, and could not remain idle when Garen suggested framing others to hide her magic. She gathered a family of mages and escorted them through the same sewers, but encountered her brother one last time. Respecting Lux's decision to leave, Garen allowed the mages to escape, and said goodbye to his sister.
+
+Shortly after Sylas's escape, the Mageseekers began to systematically gather and imprison or exile all known Mages within Demacia.
+
+Young and old, dangerous or benign, every person with even a trace of magical abilities were taken away from their homes and families. These drastic decisions lead to of numerous revolts across the Kingdom. The people demanded their loved ones to be returned to them.
+
+One such similar instances happened in Meltridge. A diplomatic convoy from Arbormark was being escorted to the capital by the Demacian military and the Mageseekers. When they reached Meltridge, they were ambushed by the local villages demanding retribution for the capture of one of their beloved residents. Kyra was discovered to have had faint traces of magic within her at a very young age, but up until escape of Sylas she was not deemed any threat to the nation.
+
+Despite a small fight erupting, further escalation of violence was averted by the quick actions of a soldier named  Cithria who stopped the fighting and promised the parents of Kyra that she would do anything within her power to bring their daughter back to them.
+
+Sylas had begun to seek allies to start his revolution. He met a spellcrafter named  Leilani that lead a group of rebel mages in Zeffira, and agreed to teach them to fight; in exchange they would help him kill  Eldred Crownguard, leader of the Mageseekers. Sylas and his rebels waged guerilla warfare against the Mageseekers, raiding their outposts to steal supplies and recruit their prisoners.
+
+During one such raid, they found a feather of the  Veiled Lady. Intrigued by its power, Sylas sought her out and found her within the Sacred Woods. While Morgana agreed that the Mageseekers were a threat, she withheld assistance due to her disdain for Sylas' vengeance.
+
+Sylas would lead his rebels to assault the Great City, battling their way through Demacia until Sylas reached Eldred's office and slayed the leader himself. Jarvan and Shyvana would battle him shortly after, but Sylas had to make a choice between helping his allies and killing the King. Remembering his promises to Leilani, Sylas retreated from the wounded duo to help his squad survive the fight. Wisteria's forces arrive, and she cast a wave that stuns all but Leilani, then charged up a lethal blast of energy. Running out of options, Leilani casted a powerful reflection spell at the cost of her own life, which buys them the chance to escape.
+
+Reeling from Leilani's death, Sylas finally understood what Morgana meant about vengeance, and she would summon him back to give him a weapon that could defeat the Mageseekers. She showed him a vision of Demacia's founding: how mages and non-mages alike worked hand in hand to create their nation. But people like the mageseekers distorted the truth and turned the people moreso against magic than evil.
+
+Armed with this revelation, Sylas and his rebels would focus on saving mages instead of taking revenge on the Mageseekers. In the wake of Eldred's death, Commander Wisteria took over the Mageseekers and pressured King Jarvan IV to warrant the execution mages, which forces Shyvana to leave Jarvan in fear of persecution. Sylas interrupted one of these executions and showed the people Morgana's vision, turning public opinion against the persecution of mages.
+
+Growing desperate, Wisteria lead the Mageseekers to exterminate a camp of mages in Terbisia, lead by Lux. Sylas and his rebels arrive to her defense, alongside Garen and Shyvana. Sylas eventually came face to face with Wisteria and battled his old friend, emerging victorious. In the aftermath of the battle, King Jarvan IV reconsidered his actions, and would follow through with his late father's wishes to disband the Mageseekers.
+
+The Kingdom of Demacia (commonly referred to as Demacia) is a nation located in the Western part of Valoran, sharing its borders with Freljord and is close to bordering with Noxus. The currently well known locations encompassing Demacia are:
+
+Citadel Of DawnThe Grand PlazaHall Of ValorTemple Of The LightbringersThe Palace GardensA Dregbourne StreetThe Great City of Demacia Map 1The Great City of Demacia Map 21/8
+
+The largest city in the Kingdom. The capital, located in the western part of Demacia, is the main political, cultural, religious, military, economic and educational center of the country. Demacia sees itself as a shining beacon of hope for humanity, and as such, the nation and its Capital are the visual representations of this concept. Towering spires punctuate its skyline; Petricite (a pale, magic-resistant stone) and marble are the materials of choice.The noble houses that reside within the city include  Buvelle,  Crownguard and  Laurent. The Royal Palace of House  Lightshield is from which the king of Demacia reigns. The city also has a barracks and a penitentiary, like most cities throughout the kingdom. The Capital itself sits next to a harbor overlooking the Conqueror's Sea, with the majority of the surrounding towns resting on a plateau.
+
+North Demacia City: Geographical western part of the city, The Last Gate and Noble Family Residences are located in this part of the city.
+
+Memorial Road: A pilgrimage road where Demacians give honor to their fallen from numerous wars.
+
+Galio Monument: Situated on the Memorial road, it is the resting place of the colossus known as  Galio.
+
+Noble Family Residences: Located near the center of the capital, this wealthy district of the city is the seat of residence for most of the noble houses in the capital.
+
+The Last Gate: A main entrance to the Grand City of Demacia. Its road leads directly to Noble family residences and ends at the King's Rock in the center of the city.
+
+East Demacia City: Geographical southern part of the city, the Silverwing Aviaries are located in this part.
+
+Sepulchral Halls: Main religious area of the city.
+
+The Circle of the Illuminators: A clandestine order headquartered in the city, the Illuminators are one of the few groups in Demacia where mages are accepted; members are tasked with protecting the kingdom's borders. One of its members is  Lux.
+
+Temple of the Lightbringers: One of the oldest structures in the capital, this temple honors the legend of the  Winged  Protectors, which embody the Demacian ideals of duty, honor, and tradition.
+
+Silverwing Aviaries: The complex is the capitals main housing area for the Silverwing Raptors.
+
+South Demacia City: Geographical western part of the city, the City Harbor is located in this part of the city.
+
+City Harbor: The harbor is situated on its own rocky island. Due to impassable rocky cliff side, the harbor area only connected to the rest of the city via constructed bridge that spans across the surrounding cliff side.
+
+West Demacia City: Geographical northern part of the city, Military District and Mageseekers Complex are located in this part of the city.
+
+Dregbourne: A one the districts settlements located in the western part of the capital. It is the birthplace of  Sylas.
+
+Mageseekers Complex: A large headquarter for the Mageseekers, this building stands out because of its impressive colossal marble eagle standing in top of the building. It also houses Demacian mages which are imprisoned and locked in order not to wreak havoc and destruction in the Capital. It also houses the infamous  Sylas.
+
+Arcane Registry: A large secured library which houses all confiscated magical tomes, scrolls, and other materials. Only highborn and nobility are allowed access. There is at least one locked vault that holds the scrolls making up Durand's original texts, such as the design specs of  Galio.
+
+Military District: The main army district of the city. It is the location of the kingdoms many military barracks and penitentiaries.
+
+Central Demacia City: The heart of the city, it is the location of the Kingdoms royal palace.
+
+Alabaster Library: The Library is one of the most beautiful houses of knowledge in all of Valoran; according to Taric, it houses the poetry of Tung among its many works.
+
+King's Rock: A rocky mount located in the center of the city from which The Citadel of the Dawn is carved from.
+
+The Citadel of Dawn: Situated in the center of the capital, it is the main palace of the royal Lightshield dynasty.
+
+The Hall of Valor : The Throne Room, where fallen Demacian Warriors are remembered for their sacrifice.
+
+The Grand Plaza: Situated out front the Citadel of Dawn in the heart of the Great City is a wide, open courtyard welcoming mass crowds to applaud those honored by the crown.
+
+Palace Gardens: Located within the Grand Plaza area, the area was the favorite are of the late Queen Catherine. The gardens are well maintained, with carefully placed topiary, sculptures, and other flora.
+
+High SilvermereRise To The Raptor Aerie 1Rise To The Raptor Aerie 2The Demacian Vault 1The Demacian Vault 21/5
+
+Other known locations in north Demacia are: Rocky Highlands, Bloody Wall, etc.
+
+Rocky Highlands:  The Rocky Highlands, or the Demacian hinterlands, are the mountainous region of northern Demacia, bordering with Freljord.
+
+Fossbarrow: Located in the far north of Demacia, bordering with the Freljord. The town is named after the Demacian hero Fossian Crownguard, whose tomb is near the town itself. It was the site of a horrific incident between the Dauntless Vanguard and an unknown  nightmarish shade that threatened the town. The town occupies the banks of the Serpentrion, a thundering river that rose in the mountains and snaked to the western coast. The town's walls of polished granite follow the line of the hills, and the buildings within are wrought from stone, seasoned timber and bottle-green roof tiles. The tower of a Lightbringer temple is located in the eastern part of town. The current Magistrate of Fossbarrow is Lady Giselle.
+
+Fossian Crownguard's Tomb: Location where  an evil spirit possessed a child which was later saved by  Lux.
+
+Temple of the Lightbringers: A local temple of the Lightbringer, it is where  Lux was stationed during the events For Demacia.
+
+High Silvermere: It is a large city in the rocky highlands of northern Demacia. It is known as the City of Raptors, due to its large native population of silverwing raptors. The original Crownguard family mansion is located in High Silvermere, at the foot of Knight's Rock.
+
+Knight's Rock: A rocky mount at the edge of a waterfall.
+
+House Crownguard Mansion: The main home of the Crownguard family.
+
+Raptor Aerie: Located on the top of Knight's Rock, the Aerie is the headquarters of the Raptor-Knights and their mounts.
+
+Petricite Grove: One of many similar forests in Demacia, it is the location of the rare petrified flora with magical absorbing properties.
+
+Demacian Vault: Deep beneath the ancient petricite groves, Ryze has found a forgotten vault where the volatile energies of the World Rune shards can be safely contained.
+
+Uwendale: A remote mountain hamlet in the northeastern hinterlands of Demacia, Uwendale was the birthplace of  Quinn and her brother Caleb. It is a thriving town of hunters and farmers, protected by mountain rangers expert in intercepting and killing any monsters that come down from the high peaks to hunt. The nearby towns harbor wyverns, rabid wolves, and bandits, though these foes were once thwarted by an  unknown hero.
+
+Zeffira: A great old city in the mainland of Demacia, probaly it is here where  Kayle and  Morgana where raised by their father at first time. This city is as large as the Great City.
+
+Other known locations in east Demacia are: East Wall, Brashmore Fields, Wardens Wall, etc.
+
+Cloudfield: A settlement located in eastern Demacia, south of the Greenfang Mountains. Hometown of  Cithria.
+
+Greenfang Mountains: During the Battle of the Greenfangs, it was the site where  Galio first awakened.
+
+Everpeak: A settlement located on the southeastern slopes of the Greenfang Mountains.
+
+Graygate: One of the main entrances to Demacian territory. Located at the East Wall, Meltridge is its closest settlement. Arbormark representative used this entrance to get inside Demacia.
+
+Meltridge: A settlement located in the eastern part of Demacia. Meltridge was the peaceful settlement before the Mage rebellion. While ignored due to their small amount of magic, the rebellion prompted the Mageseekers to gather all the inhabitants of Meltridge with even a shred of magic within them. This has almost lead to a civil unrest against the Demacian military and Mageseekers.
+
+Paisfield: A settlement located in eastern Demacia, south of the Greenfang Mountains.
+
+Sacred Woods: A magical forest where  the Veiled Lady's secluded refuge is located.
+
+Other known locations in south Demacia are:  Andras, South Wall, etc.
+
+Evenmoor: A mountain settlement, it was the sight of the Battle of Evenmoor where  Jarvan IV lead the Demacian forces against the a force known as the Argoth.
+
+Lower Demacia: is a plain region located in southern Demacia.
+
+Cloudwoods: A coastal forest just south of the Capital. Cloudwoods is made out of thick, towering evergreen redbarks that form an imposing skyline south of the Great City. It is an ideal place to hide from any search parties, and a good foraging ground.
+
+Vaskasia: A group of coastal settlements known for their timber industry.
+
+Jandelle: A settlement located to the east of Demacia city. In the Day of Lost Light, a Noxian assassin struck down Castle Jandelle's commander. The killer escaped battalions of knights dispatched to capture him, but  Quinn and  Valor tracked and killed the assassin after a night of lethal traps, counterattacks and ambushes. She returned with the assassin's blade, earning the nickname, Demacia's Wings.
+
+The Golden Round: A large and lavish theater where royalty come to watch its numerous plays. Magga, a famous actress, once played on its stages.
+
+Terbisia: A riverside settlement located in Lower Demacia of southern Demacia, south of the Greenfang Mountains. It was badly destroyed after an earthquake.  Lux and the  Illuminators came to give aid to the devastated city.
+
+Needlebrook: An isolated coastal settlement, this town was the first refuge of the famous actress Magga after her previous companions' murders.
+
+Wrenwall: A fortified border settlement located at the mountains next to the Argent Mountains.
+
+Wrenwall Castle: It was built as a safe haven for refugees during the cataclysmic upheaval of the Rune Wars. This was where  Jarvan IV and  Shyvana slew the black dragon known as Yvva.
+
+Other known locations in west Demacia are: Whiterock, etc.
+
+Ehrenmount: A coastal settlement of Demacia. It houses a training camp and arena where future duelists and soldiers such as those that wish to join the  Dauntless Vanguard go to learn and hone their skills.
+
+Serpentrion River: A thundering river that rose in the mountains and snaked to the western coast.
+
+Edessa: The closest of four nearby, clustered towns to Demacia City, located in the north-east part of Demacia on the banks of the Serpentrion River.
+
+Lissus: The third of four clustered villages, and the third stop on the way from Demacia City to High Silvermere.
+
+Pinara: The second of four clustered villages, and the second stop on the way from Demacia City to High Silvermere.
+
+Velorus: The closest of four clustered towns to High Silvermere.
+
+Westerley: A peninsula at the west most part of Demacia.
+
+Dawnhold:  Dawnhold is a coastal fortified settlement. At the Battle of Dawnhold, Freljordian sea-wolf fleet was defeated by Knight Varya of the  Dauntless Vanguard. She set their ships ablaze and even wounded nigh unto death, cut down their berserk leader. Rodion, her twin brother, had sailed north to Frostheld and burned the Freljordian harbor city to the ground, so that no others would dare sail south to wreak havoc again.
+
+The land and coastal territories have an assortment of astounding creatures, like the massive Tuskvore. There are also more mundane animals like bats, ravens, seagulls, and wolves.
+
+Valor, the Azurite Eagle 1 Valor, the Azurite Eagle 2 Valor, the Azurite Eagle 3Badgerbear1/4
+
+Azurite Eagles are an avian predatory species that live in the northern parts of Demacia. Their name comes from their blue to almost azure like feathers. Very rarely seen, these birds hunt small animals, but are also able to attack larger ones such as horses and tuskvores, even sometimes unexpecting attacking humans. They are some examples of domesticated azurite eagles, such as  Valor of  Quinn.
+
+Badgerbears are large mammalian omnivores that live in the forests of Demacia. Their name stems from their mixed appearance. Their fur color resembles that of a badger, while their body shape and size give them a bears stature. Some Demacian ranger beastmasters have domesticated badgerbears, which work well as loyal companions during hunts and scouting missions.
+
+Bellswayer is a proud, celestial creature native to the Argent Mountains, the Bellswayer's beautiful chiming bells inspire and compel other sprites to attend them. Though they startle easily, bellswayers are just as quick to resume a composed and regal posture.
+
+Crag Beast being attacked by a Demacian soldier.Fleetfeather TrackerGreathorn 1Greathorn 21/4
+
+Giant boar-like creatures. Crag Beasts are often sighted in the countryside where they frequently attack Demacian settlements. They're adorn large tusks and sharp fangs. Their outer shell is protected by a thick layer of rocky-like skin which protects them from swords, spears and other weapons. The only place where their skin isn't as thick is at their belly region. Their soft skin, inner organs, and blood are of a blue-ish colour. Their size ranges from a house to a large tower.  Poppy, Keeper of the Hammer of Orlon, once saved an entire settlement from one of these beasts.
+
+Demacia is home to its own variety of citrus fruit, similar to a real-world tangor, a sour-sweet hybrid of tangerines and oranges. It's unknown if this is the origin of these fruit in the  Runeterra Prime universe. The fruit are described unfavourably by  Gangplank's Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value)..
+
+Fleetfeathers are an avian predator who is a close relative to the silverwing raptors, though share an eagle appearance with Azurites. There are way smaller size compared to their cousins. However, these birds still retain an aggressive predatory instinct, attacking horses and humans that get close to their surroundings. Fleetfeather trackers are often used by the Demacian military to hunt down enemy scouts or fleeing bandits.
+
+Greathorns are large mammalian herbivores that live in the forests of Demacia. They are similar to Stags in their appearance. Some Demacian soldiers use them as a substitute for horses.
+
+Petricite TreesPetricite Trees1/2
+
+Petricite Trees are fossilized-like trees that were magically altered by World Runes. They have magic-dampening abilities as well as the ability to absorb magic. Several stories high, these white trees and their yellow leaves are as hard as stone. The early settlers of Demacia discovered a petrified forest that can dispel magic, and mixed this wood with ash and lime into the resistant material that is called Petricite. From this innovation, the walls of Demacia were established. The material used by Demacians in defensive walls, military, and public security. It is also used in Demacian architecture due to its white and elegant appearance. However, they are a limited resources as the trees have stopped growing at the moment. The name of these trees was likely just derived from "petrification", which literally means something organic turned into stone, or becoming stone-like, and the suffix -cite comes from Greek[2]
+
+A particularly Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value). using  Dauntless Vanguard gear.
+
+Poros are an are the mysterious, magical, and most-loved creatures originating from the Howling Abyss. Poros are equal parts truth, valor, and innocence. The colour of their fur is described as “very light blue, like  Freljordian snow”. They have a heart-shaped underbelly because they're made of love. A poro's horns perk up when it's excited and droop down when it's scared. Poros paddle through deep snow with their front paws. Some believe that poros are indestructible. Poros stick their tongue out because they are incredibly warm. This is why they can survive the harsh cold environment of the Howling Abyss.  Poro-Snax are frosted with Freljordian ice crystals and are a favourite treat of this creature. The leader of the Poros is known as the  Poro King.
+
+There is at least one Poro found in Demacia.
+
+A Silverwing RaptorRaptor WingspanA Silverwing Raptor & Raptor Knight 1A Silverwing Raptor & Raptor Knight 2A Silverwing Raptor & Raptor Knight 3A flock of SilverwingsRaised To SoarYoung Silverwing Raptor1/8
+
+For Little Legend, see Silverwing
+
+Griffin-like creatures native to the high crags of northern Demacia, raptors are rare and voracious predators known to attack lone farmers, and occasionally even armed convoys of soldiers Nevertheless, particularly exceptional individuals have made an art of building rapport with these noble beasts, forging such a bond that the raptor may permit itself to be ridden. These riders serve in the Demacian military, scouting ahead or harassing the enemy advance. The  young raptors egg hatchlings have yellow and light blue feathers, growing into their signature silvery hue with  maturity.
+
+Predatory killers from the Demacian hinterlands known for their thick hide, the long razor-horns that crown their head, and a ferocious temperament.  Quinn's brother Caleb was gored to death by one of these. A year later, she herself nearly met the same fate before being saved by  Valor.
+
+Wyverns are members of the dragon family that are often mistaken for their  cousins due to their similar appearances. The distinguishing features of a wyvern is that it only has two legs and one pair of wings as opposed to the four-legged dragons. They are often spotted attacking the Demacian countryside and are a frequent threat to villagers.
+
+GeneralLanguagesObjectsMythosFestivals
+
+From the natural sanctuary of western Valoran an ambitious new nation was built, where all were welcome, regardless of station or background, so long as they contributed to the good of the whole. Yet despite the country's noble beginnings the ideals of Demacia has twisted over the centuries, they're still driven by a common cause to disseminate benevolence and order for the betterment of their country. While priding themselves as the moral vanguards of Valoran, with their strength, courage and unity. But have adopted seemingly draconian measures to ensure that their moral code remains the only code by which one may live and prosper within the kingdom.
+
+Crime in any form is harshly punished: there are no misdemeanors within Demacia. Some detractors of Demacia (who criticize far from the reaches of the nation) claim this as proof of its inherent hypocrisy. Demacians counter this argument by pointing out that their justice system incorporates benevolence and mitigation into its verdicts. No one is punished without fair and just consideration of the circumstances involved. While others may continue to criticize the harshness of Demacian law, the Demacians stand by their convictions.
+
+Mageseekers diverting attention from a mage apprehend.Mageseekers taking away a young mage from his parents.Young mage imprisoned 1Young mage imprisoned 2Rebel Mages lead by  Sylas 1Rebel Mages lead by  Sylas 2Turmoil in Demacia1/7
+
+Magic is particularly rare in Demacia and in the wake of how the country was formed, its people have been raised on folk tales about dark mages and powerful magic that had almost destroyed the world. Naturally, they have become suspicious of its power in all forms. Where this fear in destructive magic has even extended to distrust in foreign people, which has flourished an insular nation that refuses to be inclusive with the rest of the world. The Laws of Stone dictate that any citizen or foreigner accepted inside the walls of Demacia if a mage is not allowed to use their magical abilities.
+
+The nation hides an ever-growing mage population by removing magical individuals from public society. Those discovered with the "affliction of magic" are either expelled from Demacia, turned to the Kingdom's Mageseekers, or the Illuminators, secret orders tasked with guarding Demacia of magic. The unfortunate ones such as rebel mages are placed in secured Petricite prisons specially designed to nullify magical abilities of its prisoners. Some mages were able to break out from prison after realizing Petricites true capabilities such as  Sylas, the Unshackled. These rebels have started a Mage Revolution to topple the tyrannical anti-mage government. Due to stricter actions against even the least magically gifted, many families and communities have also risen up against the nations archaic laws and regulations.
+
+Demacia has a varied system of distinguishing its individuals and familiar units. The Demacian nobility has surnames for their families ( Buvelle,  Crownguard,  Laurent,  Lightshield). For a noble, the surname of their family holds great significance. Depending on the families reputation, one surname can hold great political power and respect in society, or shame and ridicule. A family surname could represent the families position in society, their ideals, or be named after significant individuals such as the progenitors of the house (e.g.  House of Durand being named after their ancestor Durand, the famous petricite sculptor and architect who built  Galio).
+
+The commoners, especially those of lower social standings, do not have surnames as distinguishing commoner familiar units holds no great significance in larger Demacian politics.[3] Individuals like  Cithria,  Sylas, and  Quinn are differentiated among others with the same name by referring to them by their names as well as their place of birth (Cithria of Cloudfield, Sylas of Dregbourne, Quinn of Uwendale). While this is the most common way of differentiating individuals of non-noble birth, a commoner that gains notoriety in their field of work or by their deeds may also start to be referred to by an earned or given title (such as Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value).).
+
+The kingdom of Demacia was founded by refugees fleeing the Rune Wars' cataclysmic upheavals; as such, Demacian nomenclature reflect her founders' diverse backgrounds. However, Demacia has become culturally unified as time went by.
+
+Demacia: The Kingdom's endonym, etymology unknown
+
+(W)Edessa: (Ϝ)Έδεσσα (< possibly Phrygian βέδυ "water" < PIE *gʷheid- "to swell, to flow, to drip")
+
+Fossbarrow: *fursaz + *bergaz "waterfall height" (Germanic)
+
+Jandelle: יהחנון Yehoḥanan "Yahweh is gracious" (Hebrew) + *daljō (Germanic)
+
+Pinara: Πίναρα (Lycian "round", further origin unknown)
+
+Silvermere: *silubran (non-IE loanword) + *mari (Germanic)
+
+Uwendale: possibly *Agilaz + *dalan (> *daljō "dell") (Germanic)
+
+Velorus: vellus "wool" (Latin, from PIE *h₂welh₁-)
+
+Wrenwall: wrandijô (unknown origin) & Latin vallum.
+
+Demacian Writing System 1Demacian Writing System 2Demacian Writing in the Canticle of the Winged SistersDemacian Writing on Veiled Lady ArtifactsDemacian Writing on the Manuscript of Durand1/5
+
+Most Demacian writing is rigid, non-cursive, and simplistic in its design. The designs of each of the symbols are reminiscent of the Latin alphabet. It is unclear if each symbol represents a letter or an entire word, since some Demacian books space out each symbol apart from each other. Numerous artifacts from the time of  Kayle and  Morgana, such as the Canticle of the Winged Sisters, shows similar writing system both in written and etched forms.
+
+However, there are some documents such as the Manuscript of Durand with cursive letters reminiscent of stylized Latin alphabet and with a writing system more in common with nations like Noxus. It is unclear why Demacia has different writing systems, if it use both, or one was supplanted over the other over the centuries since the founding of Demacia.
+
+Interior ChambersBuilding StructureTemple Of The LightbringersPetricite GroveGalio, a Living Petricite StatueHousehold Interior1/6
+
+Demacian architecture is inspired by the Winged Sisters, mainly by  The Protector, and is defined by its simplistic and yet elegant design. Buildings have vast courtyards, with lavished gardens and masonry. Other wealthier buildings have massive interiors, with sculptures seemingly part of the buildings foundation. Large Petricite living trees are cut down, mixed with limestone to create a strong construction material. Most buildings are reinforced by petricite. The magic-nullifying substance is used as a tool while strengthening the structure, is primarily used to ward of any magic from the area where building is located in.
+
+Winged Protection: Wings and featers are almost as common in Demacian art and architecture as swords and shields. While they recall the aspirational ideals of freedom and transcendence, they also highlight the kingdom's connections to the Silverwing raptors, some of the most impressive hunters found anywhere in Valoran.
+
+Canticle Of The Winged SistersAncient Manuscript Of DurandCitadel Of DawnGalio, a Living Petricite StatueSylas, with his Petricite Prison Shackles1/5
+
+Canticle of the Winged Sisters: The Canticle is an epic poem retelling the story of the winged sisters  Kayle and  Morgana. The original scripture is held in the Crownguard family library in High Silvermere.
+
+Mageseeker Handbook: The Mageseeker handbook is the main guide that all mageseekers must abide by. Some of the text inside the book goes as followed:
+
+"Long ago, the wild magicks of the Rune Wars brought all Runeterra to its knees. Thus, our order was created to protect our kingdom by ridding it of magic, whether abroad or within."
+
+"Arcane items have undeniable intrigue. But these objects of power are best left to the capable hands of our experts, and away from the well-meaning ignorance of our citizens."
+
+"Your petricite Graymark is your primary safeguard against magic, a symbol of our responsibilities, and a reminder to others of our authority. Honor it above all else."
+
+Manuscript of Durand: The ancient manuscript of Durand stores the collective work of one of Demacia's most respected engineers and crafters. It has detailed blueprints on how to create numerous Petricite infused tools, objects, and buildings, as well as sketches of animals and demons such as  Beatrice.
+
+Sigils: Sigils and crests of organizations such as The Illuminator Order & The Order of Mageseekers where designed by Durand.
+
+Galio: Commissioned by the elders of the Kingdom, the sculptor was initially built by Durand as a petricite shield for the military. The great winged statue would become vital to the defense of the nation throughout its history, also serving as a symbol of Demacia's might across Runeterra. After centuries of "eating magic" from countless battles, the sculpture became sentient. However it was only able to experience the breath of existence while in presence of sufficient amount of Magic, otherwise Galio would turn back to his dormant state with what he refers to as "a deep slumber".
+
+Prison Shackles: Engineered by Durand, the  Petricite infused restraints and  chains are built to incapacitate mage prisoners, as well as to focus a persons magical energy for those that know of Petricites capabilities such as  Sylas.
+
+Examples of Demacian Female ClothingDemacian YouthDemacian SteelDemacian WeaponsPrecious GemsPetricite Graymark1/6
+
+Demacian clothing uses the nations iconic blue, white and gold colours. Mostly inspired by  The Protector and its simplistic, elegant, and conservative architecture and the smoothness of petricite.
+
+Demacian armor and weapons are made out of Demacian steel, sometimes referred to as silver steel or rune-steel. This perfected alloy of steel is highly regarded across Runeterra. It is rumored that Demacian armorers quench the metal with petricite in blessed waters, to offer protection from magic in battle.
+
+Bluesteel: Metal from which  Garen's armor is made.
+
+Demacian Steel: Metal from which  Jarvan IV's armor and  Garen's sword are made.
+
+Mageseeker Masks: Mageseekers wear half masks in order to signify they are acting under official capacity on behalf of the throne of Demacia and not under their normal social or military roles. However they are not ashamed of what they must do in order to keep Demacia safe from unchecked magic so they have no reason to conceal their identities.
+
+Precious Gems: Some primal elemental magic made its way into early Demacian hands in the form of precious gems. These were fashioned into jewelry such as pendants brooches and even crowns.
+
+Demacian WeaponsDemacian ToolsPetrified TreesPetricite ColumnHidden In Plain SightPetricite ShacklesKing's Gambit ChipsTellstonesThe Veiled Lady Artifacts1/9
+
+Demacian Weaponry: Made from Demacian steel, silver steel or runesteel. The design ethos of Demacia is elegant, yet minimalist and austere. Its weapons, just like its armor, are not overly ornate.
+
+Mage Weaponry: In the past, objects of warding or focus for magical power were often disguised in various ways, to avoid the attention of the Mageseekers. In time, the true purpose of these objects may even have been forgotten, since they were handed down as innocuous family heirlooms, such as canes, staves, or scepters.
+
+Petricite: A magic-absorbing material used in Demacian military, it is also utilized in architecture and tools for its white, elegant appearance. The early settlers of Demacia encountered petrified forests that could absorb magic. Combining lime, ash and the fossilized bark from ancient trees, they created a resistant material called Petricite. With this innovation, the white walls of Demacia were established and eventually a mobile petricite  colossus. However, Petricite is not indestructible, and Noxus have Basilisks (and  Sion) big enough to besiege most city walls. Petricite is not infallible. When magic is not nullified properly by the stone it can cause it to flake and torque in unnatural shapes. The magic absorbed by Petricite can lay dormant for years, and was recently used by  Sylas during his revolt. The Mageseekers use a Petricite elixir to quell tremendous magic in its mid-risk prisoners.
+
+Tellstones: A variant of Tellstones called "King's Gambit" is played in  Demacia. It is named after a Demacian King Santon the Great. King Santon of Demacia avoided civil war with a game of Tellstones, saving thousands of lives. Despite the game's popularity across Runeterra, no one seems to know where Tellstones originated. There is a variant of Tellstones played by the  Dauntless Vanguard and they use it to settle disputes within the ranks.
+
+The  Kindred are both known in Demacia, though Lamb is definitely more venerated than Wolf. When the final moment comes, it is said a true Demacian will turn to Lamb, taking her arrow.
+
+Orphellum MechanicalsOrphellum Mechanicals1/2
+
+Orphellum Mechanicals is a famous theatrical play of the  Kindred, Lamb and Wolf. The dualities of a peaceful death and a violent one. With the twin threats of plague and war on the tongues of those in neighboring protectorates Demacia, death dramas were all the rage during the time of the famous actress known as Magga.
+
+The play starts with an actress dressed with a  Lamb mask. At the end of the play a maiden character bites on a poisoned apple and is taken away by a male actor in  Wolf Mask after she refuses the  Lamb.
+
+One of two guardians of Justice worshiped in Demacia. Bringer of Justice, also known as  The Protector is seen as the judge, the jury, and the executioner of the unjust and wicked. Few know that there were two Winged Protectors of Demacia.
+
+One of two guardians of Justice worshiped in Demacia. Sword of Shadow, The Veiled One, also known as  The Veiled Lady. A pariah whose dark outbursts and preaching of redemption led to her exile. Even so, some Demacians still create totems to her memory when seeking guidance on matters of family and forgiveness. She is seen as the one gives mercy, absolution, atonement of those that wish to atone for their past sins. Demacians also pray that their deceased find a safe passage to her shortly after death.
+
+A celebration to honor a  monster hunter who saved numerous Demacian farms and villages from wyverns, rabid wolves, and bandits. Although this revered warrior had chosen to remain anonymous, that didn't stop the villagers from celebrating "his" deeds. This slayer had been spotted near the town of Uwendale, leaving the first eyewitness accounts of "his" appearance. To commemorate the hero's bravery a stone statue was erected in "his" honor.
+
+The Yellow Spring Festival is celebrated in Cloudfield. It celebrates the start of spring in the area which is indicated by the bloom of yellow flowers all across the hillsides.
+
+King Jarvan III and Prince Jarvan IV Lightshield, with Tianna Crownguard and Xin Zhao.
+
+Demacia is a constitutional monarchy, where the King of Demacia serves as the head of state and an elected council serves as the legislative body. While the king is a strong ruler, he is kept in check at least partially by the Demacian Council. The former King of Demacia, Jarvan III (Jarvan Lightshield the Third), worked earnestly with the Demacian Council to ensure that the sanctity of the kingdom remained pure and true. A king serves not only as the political leader of the country, but also as the commander-in-chief of its military. Numerous territories controlled by the Kingdom are known as the Protectorates.
+
+Since the rule of Jarvan I, there has not been an attempted coup or rebellion of any kind in Demacia. That changed when the mage known as  Sylas of Dregbourne started his revolution right after his prison escape which may have led to the death of Jarvan III. The current and only person next in line for the throne is  Jarvan IV, soon to be King Jarvan.
+
+Main article: Noble Houses of Demacia
+
+Magistrates are the provincial rulers of Demacia. They are tasked to enforce Demacian rule in cities or villages outside the capital.
+
+Military ElitePrince Jarvan IVLine Warrior And Palace GuardDemacian Elite Guard 1Demacian Elite Guard 2Demacian Elite Guard 3Raptor KnightMounted KnightDemacian Soldiers (With  Poppy, Keeper of the HammerThe Weight of ExpectationsFleetfeather TrackerBattlesmithWar Chefs1/13
+
+The Demacian military is one of the strongest in all of Valoran, and until recently it was the only force capable of holding back the hunger of the military machine that is Noxus. Noxus has been the sworn enemy of Demacia since both settlements were founded hundreds of years ago. Their conflict is, at its core, a moral one. With such a night-and-day division of moral philosophy between Demacia and Noxus, it is not hard to see why Demacia views its military requirements as a vital necessity for survival. Every Demacian citizen is required to serve in its military for no less than three years. Even after this time, most Demacians remain on active status in the nations military reserve.
+
+Demacia's army is often outnumbered, but is arguably the most elite, well-trained army in Runeterra. The resolve of Demacia's military is alternately celebrated or despised, but always respected. Their "zero tolerance" moral code is strictly upheld by civilians and soldiers alike. In combat, this means Demacian troops may not make excuses, flee, or surrender by example. Thousands of great heroes have risen and fallen on the bloody battlefields between Demacia and its preeminent rival, Noxus.
+
+The smallest formation of Demacian soldiers is called a Shield. The warriors in each Shield are armed and armored almost identically. Battalions are composed of differently armed companies of Shields, and will often have units of specialists seconded to their command element, such as scouts, raptor riders, or duelists. The most prestigious battalion is undoubtedly the  Dauntless Vanguard. At full strength, it numbers over the two thousand soldiers. Currently it is led by Garen, nephew of the High Marshal Tianna Crownguard. A standard demacian Shield has eight soldiers. A company is composed of sixteen Shields, and a battalion, like the Dauntless Vanguard, has sixteen Companies.
+
+As an indoctrination tool, the Demacian military utilizes The Measured Tread, a handbook which outlines the nation's ideology.
+
+The Crown of Stone is a ceremony that demands a dishonored soldier ascend Mount Targon. Known to all as a death sentence, few mortals have survived the climb. It was traditionally used by the dishonored to simply flee Demacia and make a new life in exile.  Taric is among the few who decided to follow the rules and ended up not only surviving the climb but being chosen as an Aspect of Targon, becoming the Aspect of the Protector.
+
+The Dauntless Vanguard are an elite order of warriors tasked in tackling the most dangerous missions in Demacia as well as beyond. Each of their members are one of the most well-trained soldiers in the Kingdom, being adept with numerous weapons as well as having a wide knowledge of battle tactics and warfare.  Garen Crownguard is the current leader of the Dauntless Vanguard (his aunt  Tianna Crownguard is one of his predecessors) is also tasked at protecting the future King of Demacia,  Prince Jarvan IV Lightshield.
+
+Demacian Rangers are the special branch of the Demacian military tasked in scouting enemy territory, as well as hunting and capturing criminals and murderers. Rangers also swear an oath to protect the Demacian wilderness they patrol, and all who seek shelter within it. Most rangers have an animal partner that aids them with their work. To see the rangers of Demacia in battle is inspiring. They fight as one, human and animal, side by side, fiercely determined and utterly inseparable.
+
+Dragonguard are the special branch of the Demacian military tasked in defending demacian lands from dragons, as well as hunting and capturing dragons. Dragonguard are unique among other soldiers as they are clad in shining red and gold armor, to honor the fallen at the battle of Wrenwall.
+
+The Illuminators are a charitable religious order of Demacia working to help the sick and the poor. The Illuminators have been secretly recruiting people with magical abilities and helping them conceal their abilities from the public.  Luxanna Crownguard became a volunteer in the ranks of the Illuminators, aiding people in need, even prisoners such as  Sylas before his escape.
+
+The Mageseekers are an order which primary task is to locate and secure any magical individual in the country. They are also tasked at accompanying any envoys outside of Demacia who are known to have magical abilities during their stay in the kingdom. If "magical affliction" is noticed in children, they would be taken away from their families and ether locked up or given the opportunity to work as Mageseekers themselves.  Sylas was once a Mageseeker, being convinced by his parents to give himself up to the order. His magical talents were proven useful in tracking down and securing numerous mages until the young mage eventually rebelled against the order and decided to protect and fight for his fellow mages. Currently the Mageseekers are also tasked at rounding up or killing any rebel mage as well as apprehending their leader Sylas. The Mageseekers wear half masks to signify they are working in official capacity on behalf of the throne but are not ashamed of keeping Demacia safe from unchecked magic thus they have no reason to fully conceal their identities. The Mageseekers would prefer mages to renounce magic, so Demacia can still benefit from their talents but those who are recalcitrant and ignorant to the danger they can pose will still be persecuted.
+
+The Arbormark have long been allies of Demacia. As a small nation between Demacia and Freljord, they have been instrumental in protecting the kingdoms borders. While the nation does have high-ranking officials with magical abilities, they are well protected and guarded during their stay in the Kingdom so long as the abide by the Laws of Stone.
+
+Over the centuries, Demacia has received many attacks from Freljordians, those attacks have been growing on number and strength recently as two new leaders rise to power. The  Avarosan tribes led by  Ashe were able to form alliances with the rich sourthen tribes though promises of conquest, one of the earliest of those promises led to an attack at Dawnhold that was held back by Varya of the  Dauntless Vanguard, her twin brother also from the Vanguard, Rodian would answer the attack setting the Avarosan capital, Frostheld, ablaze. Meanwhile, the  Winter's Claw led by  Sejuani are united by warlike tradition and constantly raid the borderlands for survival. They have recently made an alliance with  Sylas who has promised to help them raid the rich land of the kingdom. The tension between the two regions isn't likely to diminish anytime soon.
+
+Noxian hostilities towards Demacia, and vice versa, run deep. Having fought at least two wars with each other, the two nations are political, military and ideological rivals and see each other as a threat. The death of King Jarvan Lightshield I at the hands of  Sion, a General of Noxus, is celebrated as a national event in Noxus. Tensions between the two nations have not changed and will likely not change until one of the two factions gives up.
+
+Demacia has long protected neighboring city-states and nations from onslaught of invading armies such as Noxus. In compensation they are used as buffer states between larger nations and Demacia. Some Demacian traveling actors frequently visit perform in Palclyff.
+
+Demacia isolationist politics put them as one of the few major nations that don't allow official trade with Piltover, however on hidden black markets citizens from the two nations still trade with each other. The nations remain as allies but as political rivals.
+
+Demacian military has fought countless battles against the undead hoards of the Shadow Isles in order to protect its citizens. There were several military expeditions to the Isles, all of which ended in disaster as countless soldiers lost their lives very quickly after landing at shore.
+
+Demacia has had a long reverence for Mount Targon itself. It is unknown to what extent is the relationships between Demacia and the Mount Targon tribes, only that Demacia has a ceremony known as the "Crown of Stone" that demands a dishonored soldier to ascend Mount Targon. One of the only known soldiers that survived this ceremony to become an Ascended is  Taric. Both  Kayle and  Morgana are two Ascended who hail from Mount Targon but have made historical and cultural mark upon the nation since its inception.
+
+The name Demacia possibly puns on Greek δῆμος demos "people" and Latin decem "ten".
+
+Demacia's namesake seems to be a Pre-Greek toponym, Δρυμαλία Drymalia, a former municipality of the island of Naxos, probable namesake of Noxus.
+
+Poppy currently keeps the  warhammer belonging to Demacia's founder Orlon, possibly based on real-life Orlan(d) < Proto-Germanic *Hrōþinanþaz "famous & daring".
+
+Orlon is also the bladesmith that created the  Drakebane.
+
+A common battle cry among Demacian soldiers is (naturally) "Demacia!"
+
+In Season Nine, the ranked emblems for the League system were redesigned. Demacia represents the emblem for the  Challenger rank.
+
+The stress accent of the name Demacia falls on the second syllable /dɛ̝ˈmɑ:sɪ.ä/ De-MAA-sih-ah.
+
+Prior to the retcon,  Jarvan IV was kidnapped by Noxus and supplanted by  LeBlanc (featured in the Journal of Justice - Issue 25: War in Kalamanda).
+
+Demacian architecture was inspired by real life Renaissance (mainly Mediterranean and Adriatic architecture).
+
+Similarities designs of the background look like from Whiteface Mountain New York.
+
+Demacian colors are blue, white and gold.[4]
+
+The Crest for  the Dauntless Vanguard was previously the old canon Crest of Demacia.
+
+In the ancient manuscript of Durand, several blueprints sketches can be seen:
+
+Beatrice, the Demon of Secrets;
+
+Concepts of Demacian buildings.
+
+This crest is the same one as with  Elementalist Lux.
+
+Galio, the Colossus of Demacia;
+
+Petricite Chains, currently in use by  Sylas;
+
+Petricite Restraints, currently in use by  Sylas.
+
+Note: These are just to reflect the similarity to Demacia (In appearance or assimilation of their culture). Its not part of Demacia.
+
+Royal Guard FioraCommando GalioCommando GarenWarden GragasCommando Jarvan IVWarden Jax & KarmaSilver KayleCommando LuxElementalist LuxSpellthief LuxWarden Nautilus & SivirBattle Regalia PoppyWarden QuinnCommando Xin Zhao
+
+Quinn, Demacia's Wings - Login ScreenLucian, the Purifier - Login ScreenLeague of Legends Music Quinn And ValorThe Crystal Method - "Lucian" Live (League of Legends World Finals)League of Legends Music Demacia RisingPoppy, Keeper of the Hammer - Login ScreenTaric, the Shield of Valoran - Login ScreenGalio, the Colossus - Login ScreenSeason Start 2018 - Anticipation - Login ScreenSeason Start 2018 - Commencement - Login ScreenLegends Never Die (ft. Against The Current) Worlds 2017 - League of LegendsSylas, the Unshackled - Login ScreenSeason Start 2019 - Anticipation - Login ScreenKayle & Morgana, the Righteous & the Fallen - Login ScreenSenna, the Redeemer - Login ScreenLegends of Runeterra Official Music “BREATHE”
+
+Reintroducing Demacia dev diary - League of LegendsLux Binding Light League Animation WorkshopRyze Call of Power Cinematic - League of LegendsSylas The Unshackled Champion Trailer - League of LegendsMagic is Rising Stand With Sylas League of LegendsKayle and Morgana The Righteous and the Fallen Champion Gameplay Trailer - League of LegendsLux Comic Series PreviewSenna Dark Passage Champion Teaser - League of LegendsSenna Shadow's Embrace Champion Animated Trailer - League of LegendsWarriors Season 2020 Cinematic - League of Legends (ft. 2WEI and Edda Hayes)Universe in 2020 Dev Video - League of LegendsFiddlesticks Terror in Demacia Champion Update Trailer - League of LegendsLegends of Runeterra Launch Announcement & TrailerTales of Runeterra Demacia “Before Glory”Fate of Demacia - Official Teaser - League of Legends
+
+1st Demacia Crest2nd Demacia Crest3rd Demacia CrestOld Demacia ConceptDemacia "Legends of Runeterra" Illustration 1Demacia "Legends of Runeterra" Illustration 2Demacia "Legends of Runeterra" Illustration 3Demacia "Legends of Runeterra" Illustration 4Blocking Badgerbear "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists [[Kudos Productions])Fiora "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Fiora "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Garen "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Garen "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Jarvan IV "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Jarvan IV "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Lucian "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Lucian "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Quinn "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Quinn "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Senna "Legends of Runeterra" Illustration (by Riot Contracted Artists Sixmorevodka Studio)Senna Sentinel of Light "Legends of Runeterra" Illustration (by Riot Contracted Artists Sixmorevodka Studio)Shyvana "Legends of Runeterra" Illustration (by Riot Contracted Sixmorevodka Studio)Dragon Shyvana "Legends of Runeterra" Illustration (by Riot Contracted Sixmorevodka Studio)Lux "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Lux "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Poppy "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Poppy "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Demacia "Legends of Runeterra" Concept 1 (by Riot Contracted Artists Sixmorevodka Studio)Demacia "Legends of Runeterra" Concept 2 (by Riot Contracted Artists Sixmorevodka Studio)Demacia "Legends of Runeterra" Concept 3 (by Riot Contracted Artists Sixmorevodka Studio)Demacia "Legends of Runeterra" Concept 4 (by Riot Contracted Artists Sixmorevodka Studio)Demacia "Legends of Runeterra" Concept 5 (by Riot Contracted Artists Sixmorevodka Studio)Demacia "Legends of Runeterra" Concept 6 (by Riot Artist DEN)Demacian Wilderness (by Riot Artist Maisie Yang)The Great City of Demacia Map 1 (by Riot Contracted Artist Sean Yang)The Great City of Demacia Map 2 (by Riot Contracted Artist Sean Yang)The Great City of Demacia Map 3 (by Riot Contracted Artist Sean Yang)Demacia Mage Concept 1 (by Riot Artist Jonboy Meyers)Demacia Mage Concept 2 (by Riot Artist Jonboy Meyers)Demacia Soldier Concept 1 (by Riot Artist Jonboy Meyers)Demacia Soldier Concept 2 (by Riot Artist Jonboy Meyers)Demacia Soldier Concept 3 (by Riot Artist Jonboy Meyers)Demacia Soldier Concept 4 (by Riot Artist Jonboy Meyers)Demacia Soldier Concept 5 (by Riot Artist Jonboy Meyers)Demacia Soldier Concept 6 (by Riot Artist Jonboy Meyers)Demacian Warrior Concept 1 (by Riot Artist Eduardo Gonzalez)Demacian Warrior Concept 2 (by Riot Artist Eduardo Gonzalez)Demacian Warrior Concept 3 (by Riot Artist Eduardo Gonzalez)Demacian Warrior Concept 4 (by Riot Artist Eduardo Gonzalez)Demacian Warrior Concept 5 (by Riot Artist Joon Ahn)Demacia "Legends Never Die" Concept 1 (by Riot Artist Victor Mosquera)Demacia "Legends Never Die" Concept 2 (by Riot Artist Victor Mosquera)Demacia "Legends Never Die" Concept 3 (by Riot Artist Victor Mosquera)Demacia "Legends Never Die" Concept 4 (by Riot Artist Victor Mosquera)Demacia "Legends Never Die" Concept 5 (by Riot Artist Victor Mosquera)Demacia "Legends Never Die" Concept 6 (by Riot Artist Victor Mosquera)Demacia "Legends Never Die" Concept 7 (by Riot Artist James Zapata)Demacia "Legends Never Die" Concept 8 (by Riot Artist Julien Renoult)Demacia "Legends Never Die" Concept 9 (by Riot Artist Julien Renoult)Demacian Armoury (by Riot North Front Studios Artist Ryan Dening)Demacia "Call of Power" Concept 1 (by Riot Artist Rembert Montald)Demacia "Call of Power" Concept 2 (by Riot Artist Rembert Montald)Demacia "Stand With Sylas" Concept 1 (by Riot Contracted Artists Wild Blue Studios)Demacia "Stand With Sylas" Concept 2 (by Riot Contracted Artists Wild Blue Studios)Demacia "Warriors" Concept (by Riot Artist Jason Chan)Demacia "Warriors" Model 1 (by Riot Contracted Artists Blur Studio)Demacia "Warriors" Model 2 (by Riot Contracted Artists Blur Studio)Demacia "Before Glory" Illustration 1Demacia "Before Glory" Illustration 2 (by Riot Contracted Artist Pawel Hordyniak)Demacia "Before Glory" Concept 1 (by Riot Contracted Artist Le Vuong)Demacia "Before Glory" Concept 2 (by Riot Contracted Artist Le Vuong)Demacia "Before Glory" Concept 3 (by Riot Contracted Artist Le Vuong)Demacia "Before Glory" Concept 4 (by Riot Contracted Artist Le Vuong)Demacia "Before Glory" Concept 5 (by Riot Contracted Artist Le Vuong)Demacia "Before Glory" Concept 6 (by Riot Contracted Artist Le Vuong)Demacia "Before Glory" Concept 7 (by Riot Contracted Artist Le Vuong)Demacia "Before Glory" Concept 8 (by Riot Contracted Artist Pawel Hordyniak)Demacia "Before Glory" Concept 9 (by Riot Contracted Artist Pawel Hordyniak)Demacia "Before Glory" Concept 10 (by Riot Contracted Artist Pawel Hordyniak)Demacia "Before Dawn" Concept 1 (by Riot Contracted Artist Chloe Veillard)Demacia "Before Dawn" Concept 2 (by Riot Contracted Artist Chloe Veillard)Demacia "Before Dawn" Concept 3 (by Riot Contracted Artist Chloe Veillard)Demacia "Before Dawn" Concept 4 (by Riot Contracted Artist Chloe Veillard)Demacia "Before Dawn" Concept 5 (by Riot Contracted Artist Chloe Veillard)Demacia "Before Dawn" Concept 6 (by Riot Contracted Artist Chloe Veillard)Demacia "Before Dawn" Model 1 (by Riot Contracted Artists Axis Studios)Demacia "Before Dawn" Model 2 (by Riot Contracted Artists Axis Studios)Demacia "Before Dawn" Model 3 (by Riot Contracted Artists Axis Studios)Demacia "Fragile Legacies" Illustration (by Riot Contracted Artists Grafit Studio)Demacia "Visions of Demacia" Illustration 1 (by Riot Artist Elena 'Hellstern' Bespalova)Demacia "Visions of Demacia" Illustration 2 (by Riot Artist Elena 'Hellstern' Bespalova)Demacia "Visions of Demacia" Illustration 3 (by Riot Artist Elena 'Hellstern' Bespalova)Demacia "Visions of Demacia" Illustration 4 (by Riot Artist Elena 'Hellstern' Bespalova)Demacia "Visions of Demacia" Illustration 5 (by Riot Artist Elena 'Hellstern' Bespalova)Demacia "Lux Comic" Concept 1 (by Riot Artist Maisie Yang)Demacia "Lux Comic" Concept 2 (by Riot Artist Maisie Yang)Demacia "Lux Comic" Concept 3 (by Riot Artist Maisie Yang)Demacia "Lux Comic" Concept 4 (by Riot Artist Maisie Yang)Demacia "Stand With Sylas" Concept 1 (by Riot Contracted Artists Wild Blue Studios)Demacia "Stand With Sylas" Concept 2 (by Riot Contracted Artists Wild Blue Studios)Demacia "Stand With Sylas" Illustration 1 (by Riot Contracted Artists Wild Blue Studios)Demacia "Stand With Sylas" Illustration 2 (by Riot Contracted Artists Wild Blue Studios)Demacia "Stand With Sylas" Illustration 3 (by Riot Contracted Artists Wild Blue Studios)Demacia "Stand With Sylas" Illustration 4 (by Riot Contracted Artists Wild Blue Studios)Demacia "Stand With Sylas" Illustration 5 (by Riot Contracted Artists Wild Blue Studios)Demacia "Turmoil" Illustration (by Riot Contracted Artists Wild Blue Studios)Demacia "The Weight of Expectations" Illustration 1Demacia "The Weight of Expectations" Illustration 2Fiddlesticks "Voices" Illustration (by Riot Contracted Artists Grafit Studio)Galio "A Hero Wakes" Illustration (by Riot Artist Eric Canete)Galio and Lux "Flesh and Stone" Illustration 1 (by Riot Artist Eric Canete)Galio and Lux "Flesh and Stone" Illustration 2 (by Riot Contracted Artist Yuka Soemy)Garen "The Soldier and the Hag" Illustration (by Riot Artist Eric Canete)Garen and Lux "For Demacia" Illustration (by Riot Artist Eric Canete)Garen, Lux and Sylas "Lux Comic" Issue 1 Cover 1 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 1 Cover 2 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Lux "Lux Comic" Issue 1 Cover 3 (by Riot Contracted Artist Adriana Melo)Lux "Lux Comic" Issue 1 Cover 4Garen, Lux and Sylas "Lux Comic" Issue 2 Cover 1 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 2 Cover 2 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 3 Cover 1 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 3 Cover 2 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 4 Cover 1 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 4 Cover 2 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 5 Cover 1 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Garen, Lux and Sylas "Lux Comic" Issue 5 Cover 2 (by Riot Contracted Artists Billy Tan, Gadson, and Haining)Cithria, Garen and Quinn "First Shield" Cover 1 (by Riot Contracted Artists Sixmorevodka Studio)Cithria, Garen and Quinn "First Shield" Cover 2 (by Riot Contracted Artists Sixmorevodka Studio)Jarvan IV and Xin Zhao "What Once Sailed Free" Illustration (by Riot Contracted Artists Wild Blue Studios)Jarvan IV "Ivory, Ebony, Jasper" Illustration (by Riot Artist Eric Canete)Jarvan and Xin Zhao IV "Aftermath" Illustration (by Riot Contracted Artist Grafit Studio)Jax "None Shall Pass" IllustrationKayle "In the Fires of Justice" Illustration  (by Riot Artists Jessica 'OwleyCat' Oyhenart and Victor '3rdColossus' Maury)Lucian and Senna "Shadows and Reflections" Illustration 1Lucian and Senna "Shadows and Reflections" Illustration 2Lucian "Homebound" Illustration (by Riot Contracted Artists Grafit Studio)Lux "Last Light" Illustration (by Riot Artist Eric Canete)Morgana "Prayer to a Crumbling Shrine" Illustration  (by Riot Artists Jessica 'OwleyCat' Oyhenart and Victor '3rdColossus' Maury)Quinn "Rules of Survival" Illustration (by Riot Artist Eric Canete)Quinn "Shield of Remembrance" Illustration (by Riot Contracted Artists Grafit Studio)Senna "The Voices of the Dead" Illustration (by Riot Contracted Artist Grafit Studio)Senna "Redeemed" Illustration (by Riot Contracted Artists Grafit Studio)Shyvana "The Winged Beast" Illustration (by Riot Artist Eric Canete)Sona "One Last Show" Illustration (by Riot Contracted Artists Grafit Studio)Sylas "The Unshackled" Illustration 1 (by Riot Artist Elena 'Hellstern' Bespalova)Sylas "The Unshackled" Illustration 2 (by Riot Artist Elena 'Hellstern' Bespalova)Sylas "The Unshackled" Illustration 3 (by Riot Artist Elena 'Hellstern' Bespalova)Sylas "The Unshackled" Illustration 4 (by Riot Artist Elena 'Hellstern' Bespalova)Sylas "The Unshackled" Illustration 5 (by Riot Artist Elena 'Hellstern' Bespalova)Sylas "The Recruit" Illustration (by Riot Contracted Artists Wild Blue Studios)Sylas "The Shackles of Belief" Illustration (by Riot Artist Jason Nguyen)Vayne "Monsters" Illustration (by Riot Artist Eric Canete)Veigar "The True and Ghastly Tale of the Beast of Boleham Tower" Illustration (by Riot Contracted Artists Wild Blue Studios)The Kingfisher "Legends of Runeterra" Illustration (by Riot Contracted Artists Envar Studio)
+
+↑ Riot Frodo on Sona communicating
+
+↑ JohnODyin on Sylas' Last Name

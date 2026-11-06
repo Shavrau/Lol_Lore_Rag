@@ -1,0 +1,152 @@
+# Região: Bandle City
+**Tipo:** Lore de Região / Runeterra | **Fonte:** League of Legends Wiki & Universe
+
+For information about the  Legends of Runeterra  regional card set, see  Bandle City.
+
+Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream...
+
+In Bandle City, it is said that every sensation is heightened for non-yordles. Colors are brighter. Food and drink intoxicates the senses for years and, once tasted, will never be forgotten. The sunlight is eternally golden, the waters crystal clear, and every harvest brings a fruitful bounty. Perhaps some of these claims are true, or maybe none—for no two taletellers ever seem to agree on what they actually saw.
+
+Only one thing is known for certain, and that is the timeless quality of Bandle City and its inhabitants. This might explain why those mortals who find their way back often appear to have aged tremendously, while many more never return at all.
+
+Opinions differ as to where exactly the home of the yordles is to be found, though many claim to have travelled through unseen portals to a land of curious enchantment. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders and end up lost in a dream, never to return at all.
+
+For most of the peoples of Runeterra, yordles are not typically something to be feared. Their fabled home of Bandle City is said to be a mysterious, spiritual place, filled with odd trinkets and keepsakes gathered from across the material realm. While these curious creatures often leave to dwell among mortal races for a time, they generally return with fresh tales and new experiences to recount.
+
+CorkiLuluNorraRumbleTeemoTristanaVeigarYuumi
+
+Amumu, an ancient Shuriman yordle.
+
+Braum helped  Yuumi during her Runeterran travels to find her Master, Norra.
+
+Draven fought (and fled) against  Lulu and  Tristana.
+
+Ezreal possibly found a Bandle city portal during an expedition in sourthen Shurima.
+
+Fizz, a water-dwelling Yordle at Bilgewater.
+
+Gnar, an ancient ancestor of the Yordle race who defrosted in the Freljord.
+
+Heimerdinger, a renowned techmaturgist residing in Piltover.
+
+Kennen, one of the Kinkou Order.
+
+Vex, a "teenage" Yordle who prefers hanging out in the Shadow Isles.
+
+Ziggs, an explosives expert residing in Zaun.
+
+Graves captured a few of the Bandle City Yordles, but was thwarted in their escape.  Twisted Fate spectated this incident due to his objection against this venture.
+
+Soraka has a dear friend in Bandle City.
+
+During the early periods of Bandle City, Yordles that resided in this spiritual realm started constructing intricate system of gateways which would enable them to travel to the material realm of Runeterra. During the centuries, Runeterran civilizations rose and fallen, but the gateway system became ever more complex, connected with each other through magical leylines that crossed between the spiritual and material realms.
+
+Gnar observing his surroundings
+
+Time marches on for most, but not  Gnar. A yordle born millennia ago, Gnar was trapped in true ice, frozen - quite literally - in time. Civilizations formed and fell as the prehistoric yordle vacantly stared on, but nothing – not even true ice – could confine Gnar forever. After breaking free, he wandered Runeterra until he found himself taken in by his yordle descendants. But, as they would soon discover, there's a beast behind the boy.
+
+Bandle City is a self-contained pocket within the spirit realm, with no direct "mirror" in the material realm.[1] According to  Lulu's lore, its likely origins are in The Glade.[2] The Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value). connecting Bandle City to the material realm appears to have grown into Runeterra from the Glade.[3]
+
+Deep in the BandlewoodOtherworldly GatewaysGeometry of Transit 1Geometry of Transit 21/4
+
+Runeterra is linked to an enchanted place in the spirit realm known as Bandle City. The pathways are rarely seen by mortals, for they only open under particular circumstances, or for those with the ability to read and interpret the language of the yordles. Certain portals can only be opened with a series of specific gestures, often defined by peculiar symbols inscribed nearby. Some portals open to a deep cavern, when the low tide reveals a pattern of runic circles, filling the indentations with sea water.
+
+While there are portals whose positions can shift over time, there are many that stay rooted in a single location. The magic of the spirit realm occasionally ebbs back and forth around such places—known as bandlewoods—and affects the local flora and fauna in strange, unpredictable ways.
+
+"The Low Roads" is a general term referring to the routes between portals.[4]
+
+The doorways between realms are finicky and seldom open, even to creatures as dexterous as cats such as  Yuumi. Yordles would have to wait for days for the eastern star to align with a particular stone archway, or waded impatiently between marsh-lilies, seeking a silver blossom blooming from the mud—only then would a pathway appear.
+
+Bandle City Writing System 1Bandle City Writing System 2Bandle City Writing System 3Bandle City Writing System 4Bandle City Writing System 5Bandle City Writing System 6Bandle City Writing System 7Bandle Scout Journal Writing 1Bandle Scout Journal Writing 2Bandle Scout Journal Writing 3Bandle Scout Journal Writing 41/11
+
+Not much is known about Bandle City, or Yordle writing system in general. Their symbols form elegant wave patterns and geometric shapes that connect with each other in what almost looks like random patterns. Such writing can be seen on certain gateways connecting to Bandle City, as well as in the Book of Thresholds.
+
+Book of Thresholds 1Book of Thresholds 2Book of Thresholds 3Book of Thresholds 4Book of Thresholds 5Book of Thresholds 6Book of Thresholds 7Book of Thresholds 8Book of Thresholds 91/9
+
+Book of Thresholds: The Book of Thresholds is a powerful sentient artifact from Bandle City which allows the user to instantly travel almost anywhere depicted in its pages via the yordle gateway system. Book of Thresholds was created by a yordle anthropologist long ago who wanted to study how yordle magic works and specifically how yordles travel between realms. It's been added to over the years by various enchantresses and sorcerers with marginalia and drawings.[5] Magical in nature, the book illustrates how to use gateways, where they are located, as well as the magical leylines that crossed the material and spirit realms. While primarily used for travel between Bandle City and Runeterra, its thousand of pages also have archived data for all the runeterran locations the gateway system was connected to (both past and present).  Yuumi, its current holder, also keeps tracks of the best locations for catching fish around the Serpent Isles, as well as the unusual leyline patterns around the Void rift of Icathia in search for the books original owner, the Yordle Enchantress Norra. With this book, it is possible for anyone to easily access Bandle City or any location on Runeterra connected via gateway system without the meticulous process of opening a gateway. The user would simply specify where they want to go, then after the location was illustrated on the books pages the user would then dive into its glowing paper and arrive at their destination, joined a moment later by the book. The book was given sentience by one of its previous owners in order to protect itself from those who would use its powers for evil.
+
+Yordles With Demacian And Ionian Clothing Heimerdinger And  Ziggs With Piltovan And Zaunite Clothing Veigar With Noxian Clothing Tristana With Bilgewater Clothing1/4
+
+Bandle City residents wear a variety of different garments, armor, and accessories. Due to many Yordles leaving Bandle City, those that return sport clothing from common to the Runeterran cultures they were the longest part of. Those who do not travel outside of Bandle City wear clothing similar to mage robes, with giant hats adorning their heads.
+
+In less enlightened parts of the world, a yordle's appearance could seem frightening or unnatural to mortals. Fortunately, they are adept at blending in, and often protected by a kind of supernatural glamour—subconsciously fading from the viewer's notice, or being masked as a less remarkable individual. Yordles do not necessarily control their glamour, and may understand it in a variety of ways. The revered inventor Heimerdinger, for example, crafted unique technological devices for himself and Ziggs, to help them blend into Piltovan society.
+
+While Bandle City has no official form of governance, they do have a mayor. No one recalls Bandle City ever appointing a mayor. He was simply there one day, a plump yordle with a funny hat who decreed this and pontificated that. Any who questioned his legitimacy soon forgot their concerns as he shook hands and twirled his magnificent, stately mustache.[6]
+
+The role is simply a self-appointed one with no actual political power or sway towards the yordle inhabitants of the city.
+
+Recently, a number of yordles have started to imitate  Tristana, trying to copy her disciplined ways and to defend the Bandlewoods and portals to Bandle City. Some have even had weapons mimicking Boomer constructed for them by the scrappy inventor  Rumble. While Tristana finds this all rather embarrassing, she has started training these new recruits, and they have adopted a new moniker—the Bandle Gunners.
+
+Notable Bandle Gunner chants are:
+
+The Bandle Scouts are the protectors of Bandle City, doing covert operations as well as scouting unknown lands.
+
+Rule 13: Treat every day like it's an adventure.
+
+Rule 42: Never let 'em corner you!
+
+Rule 79: Keep your hands and feet outside the baron pit at all times.
+
+Rule 92: You can't help others if you don't help yourself first.
+
+Rule 102: Practice makes perfect!
+
+Rule 151: Ever yordle loves the portal.
+
+Rule 154: Never fear the unknown!
+
+Rule 212:  You gotta team up to fight for what's rights!
+
+Rule 276: Denizens of the woodlands are our friends!
+
+Rule 354: If it's fuzzy, it might be safe to pet but certainly isn't safe to eat!
+
+Rule 417: Make sure you're out of the blast zone!
+
+Rule 419: Care for your equipment and it will care for you.
+
+Many yordles from Bandle City have traveled to Runeterra, searching for new adventures and experiences. Throughout the centuries, these yordles have shaped countless cultures and nations, becoming key figureheads in historical events.
+
+Yordles such as  Kennen and  Heimerdinger have reshaped the histories of  Ionia and  Piltover/ Zaun respectfully, becoming respected elders and mentors in those nations.
+
+Yordles like  Poppy and  Kled have turned the tide of countless battles for the nations of  Demacia and  Noxus respectfully, becoming the stuff of legends.
+
+Yordles such as  Teemo,  Veigar, and  Fizz through their mischievous deeds and accidental heroism are known throughout Runeterra.
+
+Bandle is Anglicized from Irish bannlámh, a unit of measurement that is two feet in length,from:
+
+bann < English "band"[7] (meaning changed to "a measure") < PIE verbal root *bʰendʰ-;
+
+lámh < Proto-Celtic ɸlāmā < PIE noun *plɐmex- (> Latin palma > English "palm").[8]
+
+The average height of a Yordle is two feet, so the city's name may have been chosen under this logic.
+
+Original Bandle Cities architecture was inspired by traditional German houses, such as the ones in the town of Eisenach.
+
+Current architecture was heavily inspired by Smurf houses.
+
+Heimerdinger,  Rumble and  Ziggs are credited for the creation of  Mecha Aatrox,  Mecha Malphite and  Mecha Zero Sion in the  Mecha universe.
+
+It is said the passage of time is different in Bandle City, giving yordles a timeless nature.
+
+Because of their glamour, the true form of a yordle is difficult for normal humans to perceive.
+
+In  Amumu's music video, The Curse of the Sad Mummy, Amumu travels through a Bandlewood portal near Bilgewater to what might be Bandle City.
+
+The old icon for Bandle City depicted the silhouette of a Yordle's head, and presumably a candle and mountains. The current icon appears to depict a Bandlewood, and reflects the whimsy of the location's current depiction.
+
+An icon was found in the files of an early patch of  Legends of Runeterra depicting an early icon for a Bandle City  Region that uses this old icon. See Region (Legends of Runeterra)#Trivia.
+
+Mecha AatroxMecha Aurelion SolOmega Squad FizzDragon Trainer HeimerdingerMecha Kha'ZixDragon Trainer LuluMecha MalphiteBlacksmith PoppyMecha RengarSuper Galaxy RumbleMecha Zero SionOmega Squad TeemoDragon Trainer TristanaOmega Squad TristanaRocket Girl TristanaOmega Squad TwitchOmega Squad Veigar
+
+Lulu, the Fae Sorceress - Login ScreenGnar, the Missing Link - Login ScreenLeague of Legends Music Lulu and Shaco's Quirky EncounterLeague of Legends Music Tiny Masterpiece of EvilLeague of Legends Music The Curse of the Sad MummyPoppy, Keeper of the Hammer - Login ScreenKled, the Cantankerous Cavalier - Login ScreenLCU - Login ScreenSeason Start 2018 - Anticipation - Login ScreenSeason Start 2018 - Commencement - Login ScreenYuumi, the Magical Cat - Login Screen
+
+League of Legends Music The Curse of the Sad MummyBook of Thresholds Yuumi Champion Teaser - League of LegendsYuumi The Magical Cat Champion Trailer - League of LegendsLulu Reveal New Champion - Legends of Runeterra
+
+Old Bandle City CrestOld Bandle City skyline (by Riot Artist Matt Gaser)Bandle City's old iconAlpha Legends of Runeterra region iconLulu "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Lulu "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Rumble "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Rumble "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Tristana "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Dao Trong Le)Tristana "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Dao Trong Le)Veigar "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Veigar "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)BandlewoodsCorki "Don't Mess With Yordles" Concept (by Riot Artist Quy Hoy)Lulu and Tristana "The Whispering Doodad" Illustration (by Riot Artist Horace 'Hozure' Hsu)Rumble "Shuriman Trash" Illustration (by Riot Contracted Artists Grafit Studio)Veigar "The True and Ghastly Tale of the Beast of Boleham Tower" Illustration (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" Illustration (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" 1 (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" 2 (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" 3 (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" 4 (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" 5 (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" 6 (by Riot Contracted Artists Wild Blue Studios)Yuumi "Book of Thresholds" 7 (by Riot Contracted Artists Wild Blue Studios)Yuumi "The Biggest Catch" Illustration (by Riot Contracted Artists Wild Blue Studios)
+
+↑ Realms of Runeterra AMA: Bandle City
+
+↑ MacBain, A. Etymological Dictionary of the English language
+
+↑ Matasović, R. Etymological Dictionary of Proto-Celtic, p. 132

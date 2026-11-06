@@ -1,0 +1,360 @@
+# Região: Targon
+**Tipo:** Lore de Região / Runeterra | **Fonte:** League of Legends Wiki & Universe
+
+For information about the  Legends of Runeterra  regional card set, see  Targon.
+
+Like any place of myth, Mount Targon is a beacon to dreamers, madmen and questors of adventure. A mountainous and sparsely inhabited region to the west of  Shurima, Targon boasts the tallest peak in Runeterra. Located far from civilization, Mount Targon is all but impossible to reach, save by the most determined pilgrims, chasing some soul-deep yearning to reach its summit. Those hardy few who survive the arduous journey to the foot of the titanic mountain find a sky shimmering with celestial bodies; the sun and moons, but also constellations, planets, fiery comets that streak the darkness, and auspicious arrangements of stars. They return haunted and empty, or changed beyond all recognition. The people living at the mountain's base believe these to be aspects of long-vanished stellar beings, creatures powerful and ancient on a scale beyond human comprehension.[1] However, Mount Targon is simply a way into the celestial realm, and it would be wrong to attribute much in the way of mortal sensibilities, morals or concerns to what lies beyond the mountain.[2]
+
+Mount Targon is the mightiest peak in Runeterra, a towering peak of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker. Many legends cling to Mount Targon, and, like any place of myth, it is a beacon to dreamers, madmen and questors of adventure. Some of these brave souls attempt to scale the impossible mountain, perhaps seeking wisdom or enlightenment, perhaps chasing glory or some soul-deep yearning to witness its summit. The ascent is all but impossible, and those hardy few who somehow survive to reach the top almost never speak of what they have seen. Some return with a haunted, empty look in their eyes, others changed beyond all recognition, imbued by an aspect of unearthly, inhuman power with a destiny few mortals can comprehend.
+
+The following are champions from either Mount Targon's slopes or from  Targon Prime, the gold-and-silver city beyond the peak's veil:
+
+ApheliosAurelion SolDianaLeonaPantheonSorakaTaricZoe
+
+Aatrox killed the Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value)., and later fought its leftover  host.
+
+Bard is a wandering celestial caretaker.
+
+Garen banished  Taric to Mount Targon.
+
+Jayce obtains a Targonite stone for his Hextech research. ( Arcane)
+
+Kayle was born on Mount Targon and is an Ascended Targonian with power of the Aspect of Justice who once protected Demacia and  has succeeded in going to the land beyond Targon Prime.
+
+Myisha was the previous Runeterran Ascended Targonian Aspect of Twilight during the Great Darkin War.
+
+Morgana was born on Mount Targon and is an Ascended Targonian with the power of the Aspect of Justice who once protected Demacia and is now residing in its wilderness.
+
+Nami is a Tidecaller searching for the Aspect of the Moon.
+
+Nasus interacted with  Myisha in the past.
+
+Rhaast fought against  Pantheon in the past.
+
+Viego went to the peak of Targon in search of a fetter and resurrected  Pantheon.
+
+The being known as  Aurelion Sol was born in the first breath of creation, and he then roamed the physical realm, seeking to fill this canvas of incalculable breadth with marvels which would delight all who witnessed them.
+
+Much later, around one of the first stars he had created, he discovered a world not made by him orbiting it. The Aspects, who seemed unusually invested in it, implored him to come closer. There was life here, and magic, and fledgling civilizations that cried out for guidance. Flattered, Aurelion Sol descended in the form of a dragon from the stars. The Targonians named him for the sun he had gifted them, and the Aspects commanded them to offer something in return. The mortals climbed to the peak of their tallest mountain, and presented him with a splendorous crown, crafted with careful and cunning magic, and etched with the inscrutable patterns of the celestial realm.
+
+But it was no gift at all. The crown clamped in place too tightly to remove, and his knowledge of the sun began to drain through it, to be examined by mortals. Worse still, he was hurled back into the heavens, and prevented from getting any closer to that world. The Aspects of Targon set the mortals to construct a great Sun Disc. With this, they channeled his celestial power to raise up immortal god-warriors, for some future conflict.
+
+Since its inception, Shurima has had deep political and social ties with both Mount Targon and celestial Targon itself. The knowledge of how to create the first Ascended, the blueprints on how to create the Sun Disc, and the means to revert ascension, was given by Targonians. At one point, Targon became a nation-state of the greater empire. The Targonian Aspects may have joined the empire in the war against the  Void after the fall of Icathia. Some time after the empire was destroyed, the nation collapsed, and Targon once more withdrew.
+
+Main article: Twilight of the Gods
+
+Myisha, host of the Aspect of Twilight, leads panther Ascended Ta'anari to  Nasus, who reveals the location of the  Chalicar of Setaka, with which Ta'anari hopes to stop the civil war between Ascended. Ta'anari calls for a gathering of the Ascended. Enakai (Tiger), Syphax (Chameleon), Zigantus (Bull), Xuuyan (Turtle), Shabaka and Shabak (Raven twins), Valeeva (Unknown), Cebotaru (Wolf), and Naganeka (Snake) come to this gathering.
+
+Ta'anari proposes that the next wielder of the Chalicar be recognised as Sivunas Alahair, one of  Azir's remaining descendants. Xuuyan disagrees and tries to take the Chalicar by force. Ta'anari is forced to slay him by using  Riftwalk. The other Darkin disagree with uniting. Ta'anari, with the aid of  Myisha, uses the Chalicar to heal himself, and release an empowered form of  Moonfalling which takes away the Ascended's forms and power.
+
+Shabaka and Shabake arevaporized instantly by the Moonfall, with Syphax, Zigantus and Enakai dying a few moments later. Ta'anari ascension is also reverted.  Myisha later removes his heart, killing him. Naganeka, Valeeva and Cebotaru manage to escape alive. Ta'anari's three warrior queens - Teushpa, Sulpae and Idri-Mi - are made responsible for having weapons to seal away the Darkin, with  Myisha's tutelage.
+
+Later,  Myisha gives the mortals the knowledge to trap the remaining Darkin, while the newly reborn  Aspect of War unites many in fighting back. The Darkin threats are eventually neutralized.
+
+Over a millenia ago, as   Zoe of the  Lunari skips away from her studies to find something more fun to do, she is noticed by the Targonian Aspect of Twilight. It observes as the young girl mocks the priests chasing her. An hour later, she finds herself cornered by her angry teachers. The Aspect summons six objects: a bag of golden coins, a sword, a completed study book, a devotion rug, a silk rope, and a toy ball. Five of these objects would help her solve her problem. Zoe chooses the sixth option, kicking the ball and making it bounce between the priests. Delighted, the Aspect opens a portal to the apex of Mount Targon. Zoe dives into it, merging with the Aspect. Following this,  Zoe travels to dimensions at the edge of Targon's control, playing within realities beyond mortal comprehension.
+
+Conflicts arise between the two religious organizations of the region. The  Solari defeat the  Lunari and become the dominant group while condemning those who oppose them as heretics, hunting them down and destroying the evidence of their existence. The Lunari flee into hiding.
+
+Diana, an outcast among the  Solari acolytes who had always questioned their belief that the Sun is the only source of light, decides to ascend the mountain. Her concerned lover  Leona follows to the peak, where they are chosen as the mortal hosts of the Aspects of the Sun ( Leona) and the Moon ( Diana). Frustrated with each other's choices on how to use their power,   Diana almost kills Leona. Fearful of losing herself to the Aspect's power, Diana flees down the mountain to confront the Solari priests. They condemn her as a heretic, enraging Diana and the Aspect within, and she kills many priests and their guardians. She then flees, hoping to find her purpose. Meanwhile, Leona swears to find Diana, to preserve the dominance of the Solari, but also to help her keep her Aspect under control.
+
+A few years later, the Rakkor warriors Atreus and his friend Pylas climb Mount Targon after Leona denies their pleas to fight invading barbarians. Atreus is the only one who survives the climb, becoming one with the Aspect of War, Pantheon. However, it judges him unworthy to fulfil its purposes  and takes control of his body, relegating Atreus to the back of his own mind. Eventually, Pantheon was goaded into battle by the Darkin  Aatrox. Against all expectations, Aatrox's blade kills Pantheon with a shattering blow, stars in the sky fading as it dies. Atreus awakes impaled upon Aatrox's blade, and spits in the darkin's face. Aatrox leaves the man to die. Atreus is nursed back to health by Pylas' widow, Iula. He realises that it was Aatrox who had sent the barbarians into Targon, and that mortals are seen as mere pawns in the games of higher powers. Atreus swears to oppose the greater powers that threaten the world as the  Pantheon reborn.
+
+Taric, a  Demacian exile, is sentenced to endure 'the Crown of Stone', after a ceremony that demanded a dishonored soldier ascend Mount Targon, known to all as a death sentence, as few mortals had ever survived the climb. And while the Crown of Stone was traditionally used by the dishonored to simply flee Demacia and make a new life in exile,  Taric decided to actually atone for his mistake and set out for the towering spire of Mount Targon. The ascent nearly claimed him, body and soul, numerous times, but Taric pushed past the tests inflicted upon him by the mountain. As he approached the summit,  Taric was challenged by a seemingly unending myriad of conflicting realities, each warped existence offering a new, horrifying vision, but he completed all of his trials. 'The Protector' was impressed by Taric's steadfast resolve, the otherworldly being deemed the fallen Demacian hero a worthy avatar, imbuing him with its ethereal powers. The Protector spoke of the truths Taric had known his entire life, and of the mantle that he had unknowingly been preparing for with every decision that brought him to the top of the mountain. As the Protector's whispers faded, Taric received a final warning: He would stand as the Shield of Valoran, but crashing against him would be a wave of howling madness, an ocean of gnashing teeth intent on consuming all, a squalid horror born of the  Void. Reborn with power and purpose,  Taric gladly accepted the seemingly impossible challenge and now dedicates himself to his sworn duty - as the steadfast guardian of an entire world.
+
+Returning home after millennia,  Zoe has aged barely a year. Though  Runeterra has changed little from her perspective, she arrives full of teenage curiosity for humans and her fellow aspects.
+
+Aphelios and his sister  Alune.
+
+Main article: The Weapon of the FaithfulAn ancient temple, the Marus Omegnum, began to come into phase from the spirit realm for the first time in centuries. Lunari from across the mountain gathered, emerging from hiding to witness the balance of power shift as celestial cycles in the heavens turned.
+
+The fortress accepted only one occupant, gifted in magic, each time it appeared. This time it would be  Alune, her orbit guiding her to the temple. Aphelios, her twin brother, usually asking for nothing, requested to attend the event.
+
+But somehow, the Lunari had been discovered even as the celestial cycles turned in their favor. An army of Solari descended upon them. All seemed lost, the Solari purging the Lunari heresy with fire and steel. Even  Aphelios was beaten, his moonstone blades shattered on the ground.
+
+But as the battle raged, Alune reached the heart of the temple. From inside, amplified by the temple's focusing power, Alune was able to project her magic anywhere, so long as it found a focus—like the noctum poison coursing through Aphelios' veins. Aphelios's skill and Alune's magic converged. With a whisper, she pushed magic into his hands—a replacement for his blades solidifying into moonstone.
+
+Those Solari would not live to see the sun again.
+
+As her power flared, Alune pushed the temple, and herself within, back into the spirit realm where it would remain safe from the Solari.
+
+Aphelios would become a conduit for the moon's power, constantly in pain due to the noctum poison. Alune would live alone, isolated in her fortress, but she would guide her brother.
+
+To protect the survivors of the attack who retreated back into the shadows of the mountain, Aphelios' training as an assassin has been given reach by Alune's magic—his blades now an arsenal of mystical weapons, perfected by Alune over the course of many missions together.
+
+Now that the power balance of Targon is shifting, and the Solari know the Lunari still endure, Aphelios and Alune are needed more than ever.
+
+Pantheon awaiting  Aurelion Sol's arrival
+
+When witnessing the rise and fall of the God-Warriors,  Aurelion Sol slowly accepted his fate. But soon after, the world was ravaged by a succession of sorcerous catastrophes, and  Aurelion Sol finally knew that Targon and the hated Aspects were all but defenseless. As he cautiously circled back, he realized the magic that bound him was weakening. Flecks of gold began to fall from his crown, each one blazing across the skies like a comet.
+
+Driven by the tantalizing possibilities of freedom and revenge, Aurelion Sol now regards Runeterra with simmering, eternal fury. Surely, it is here, upon this world, that the cosmic balance will tip in his favor once more—and with it, the universe itself shall bear witness to the fate of those who dare steal the power of a star forger.
+
+Mount Targon is a nation in the Western part of the Shuriman Continent and boarders with Shurima. The currently well known locations encompassing Mount Targon are:
+
+Mount TargonMount Targon Map 1Mount Targon Map 21/3
+
+Mount Targon is a mountain found in the Western part of the Shuriman Continent and borders with Shurima. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker. It is highest and mightiest peak in Runeterra, a towering mountain of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. It is the site of many sacred pilgrimages.
+
+Mount Targon can be broken into distinct regions, as delineated by patterns in the rock and a marked increase in hazardous weather conditions, difficulty of the climb, and increased death rate. The upper levels of the mountain expand and contract as if the land itself were alive, making it impossible to map a reliable pathway to the top. Each ascent is different, as the mountain magically stretches–some climbs can last for months while others reach the peak in just a day. Its rocky heights have been twisted and elongated, some say drawn upward, by powers beyond mortal comprehension.
+
+Living in the shadow of cyclopean structures of monumental scale, the Rakkor believe they were called to the mountain by mysterious powers. Some believe that the patterns in the rock were once a map of the realms beyond the heavens. Others say the markings warn of a day when a great war will ravage the lands and set brother against brother. Despite such speculation, the true origin and purpose of these patterns in the rock remains a mystery.
+
+Four SeasonsUnnatural FormationsRakkor CavesTemple Of The Solstice1/4
+
+Ring of The Mountain: The base of the mountain experiences a variety of weather, creating climates where the Rakkor can hunt and forage for food, herd animals, and sustain life. Greenery grows lush throughout the otherworldly ridges of the mountain. During spring and summer, the flora and fauna thrive, making everyday life possible even on such steep slopes. At this time fresh water is plentiful, and shepherds herd their flocks to graze on the slopes. To the Rakkor, these gargantuan patterns in the rock are proof that the mountain was forged by divine beings.
+
+Rakkor Caves: The main settlements of Mount Targon. They are mostly large cave structures carved out from the mountainside. The Rakkor are a warrior like society that devote their life for the pursuit of battle and knowledge. Atreus, and  Leona come from this tribe.
+
+Temple of the Lunari: Located in the secluded footholds of the mountain. It was the place where most Lunari artifacts were kept safe from the Solari inquisition and where  Diana faced the oppressing Solari Elders.
+
+Temple of the Solstice: The entrance to the Solari Temple on the eastern slopes of the mountain is carved from gold-veined marble. Windows are carved into the temples at precise locations, so that the light of the sun floods the inner chambers during the solar equinoxes and solstices. Here,  Leona learned the ways of the sacred order – how they worshipped the sun as the source of all life and rejected all other forms of light as false.
+
+Divine Carvings 1Divine Carvings 2Frozen LakePatterns Of The Dead 1Patterns Of The Dead 2Marus Omegnum on Mount Targon 1Marus Omegnum on Mount Targon 2Marus Omegnum on Mount Targon 3Marus Omegnum on Mount Targon 4Marus Omegnum on Mount Targon 5Marus Omegnum on Mount Targon 6Marus Omegnum on Mount Targon 7Marus Omegnum on Mount Targon 8Marus Omegnum on Mount Targon 9Marus Omegnum on Mount Targon 10Marus Omegnum on Mount Targon 11Marus Omegnum on Mount Targon 12Star Spring of the Astral GroveSoraka at the Astral Grove1/19
+
+Upper Slopes: No matter how well-trained the climber, the thin atmosphere and countless perils of the mountain mean that nearly all who attempt to reach Targon's peak die on their climb. The bodies of the dead freeze where they fall, permanently preserved in the thin, frigid air of the mountain, and serving as a dark warning to those who come after. Each path to the summit is vastly different, so much, that the length of a climb can range from a single night to several months. Unforgiving to even the most adept climbers, the upper slopes of Mount Targon are plagued by frigid winds, arctic storms, and frequent avalanches. Its thin air makes every breath laborious and painful.
+
+Astral Grove: Located in the upper slopes south of the Holy Mount. It is where Soraka resides, it has a campfire and a little yurt with few items and souvenirs from all across Runeterra like a willow-wreath from the grove of Omikayalan, a tiny golden acorn from Bandle City and a stone  dog statue from Nashramae.
+
+Ottrani Tribe: The main settlement of the Ottrani vastaya.
+
+Star Spring: Main grazing area of the Stellacorns.
+
+Divine Carvings: At higher altitudes, bitter winds and perilous snows overcome the seasons, creating an everlasting winter. Here, the otherworldly shapes create strange patterns and rock formations, forming an alien landscape perilous to any stray wanderers. Plants and animals are rare sights in the thin atmosphere and cold climate.
+
+Frozen Lake: A lake, frozen millennia ago, was slowly pulled up the mountain toward Targon Prime.
+
+Marus Omegnum: A  Lunari temple fortress located for the majority of the time inside the spirit realm. During special lunar events, the temple phases into the physical realm and shows up on Mount Targon.
+
+Patterns of The Dead: Travelers sometimes climb in groups to assist each other on the ascent. When a climber is grievously wounded or exhausted beyond all movement, no hope of rescue is possible, as any attempt would be a suicide mission. The bodies of the dead do not decay at such heights, but seemingly meld into the rock, slowly twisted into the circular patterns and ridges of the mountain.
+
+The PeakReaching The Summit 1Reaching The Summit 21/3
+
+The Peak: In the rare event when a worthy mortal successfully ascends Mount Targon's peak, the heavens open in a dazzling display of cosmic aurorae. Few ever bear witness to the radiant sight far above the cloudline and beneath the glittering stars, where a beam of light emerges from the peak. Beyond the mountain's summit, it is said that immortal godlike beings dwell in a city of gold and silver.
+
+Known troughout Runeterra as the City of Gold and Silver. Targon Prime is a realm beyond Runeterra where celestial beings known as Aspects and mythical creatures of the stars resides. Each generation or so, an Aspect will descend from Targon Prime to imbue these mortals on which they deemed worthy to become their vessel. It is a vast realm bathed in golden light at day and sparkling stars at night. Currently  Kayle set out for this realm to know if what really happened to their mother Mihira. Sometimes the reason for these Targonian Ascended's disappearances can be linked to Targon Prime on which deceased aspect vessels are now a part of the great council planning to build an army of powerful human-celestial mieldings against the unknowable nothingness.
+
+Beasts Of The Mountains 1Beasts Of The Mountains 21/2
+
+Mount Targon hosts an assortment of hardy creatures; for instance: Bolors, Erboks, Ibiks, Tamu, etc.
+
+Animals of the mountain are uniquely primed to survive under the coldest weather conditions, with thick layers of fat and wooly furs to insulate from bitter winds and snow. Cloven hooves provide support on steep slopes and narrow footholds, while hooked claws easily latch onto ice.
+
+The bolor are large quadrupedal avian carnivores. Standing at the height of two average humans (three if placed standing upwards), these creatures sport a thick feathery coat that protects them from the harsh environments of Mount Targon as well as camouflage themselves in the snowy environment. These feathers are mostly white with brown ones primarily located around the head and neck areas. Their talons and beaks are of a dark blue color and used for climbing and hunting.
+
+Famous for the trilling cry it emits before swooping for a kill, the predatory bolor moves in long, gliding leaps along thermal currents with aerodynamic feathered limbs, and loves to prey on stray tamu.
+
+The erbok are large quadrupedal mammalian herbivores. Unique to the lands surrounding Mount Targon, these species of mountain goat stand at the height of two average humans. These creatures sport thick coats that protect them from the harsh environments of the mountain. The mane of the cave-dwelling erbok is coated in a thick oil that the Rakkor use to cover their outer garments, making them waterproof. Their mane and their tail are of a tan colour while the softer coat on the rest of their body is of a brighter shade of tan. They have large hooves and a bone-plate that extends to form a horn. The erbok use the bone-plate on their head in territorial duels over mountain caves.
+
+Zoe's scarf is knitted from the wool of an Erbok.
+
+The ibik is a rare solitary quadrupedal mammalian herbivores that dwell in the lower plains of Mount Targon. Standing at the height of three average humans (five if placed standing upwards), these creatures are some of the largest found at the slopes of the mountain. During the winter months, the ibik is often covered by snowfall as it hibernates, and its rough, slate-colored skin and fur help disguise it amongst the boulders. They have large slanted horns used to protect themselves against other predators. Most adult ibik have numerous scars on their backs due to surviving predatory attacks from creatures such as the bolor.
+
+Targonians use this creature for their milk. Its sweet fatty milk is a delicacy to the Rakkor.
+
+The embodiment of wispy firelight, the Lightcharger can be seen soaring across the skies of Targon as dusk turns to night. It bathes in the moon's most radiant glow, galloping nobly from east to west and protecting the world from the eternal darkness.
+
+Resplendent StellacornFledgling StellacornFledgling Stellacorn and their shepherd1/3
+
+Stellacorn are unicorn-like creatures live near Mount Targon. Young ones live near the peak of the mountain, taken care by Star Shepherds.
+
+Grown Stellacorn use their wings soar the sky. When they flying, most people would think they are moving stars.
+
+It is considered lucky to see and know the Stellacorn and even luckier to grow one. This is mentioned in the flavor text of the Legends of Runeterra card.[3]
+
+Tamu are a quadrupedal mammalian herbivores that mostly dwell in the lower plains of Mount Targon. These creatures are intelligent and are raised by tribes in vast flocks. Shepherds herd their flocks to graze on the slopes during the hotter seasons. They are also able to traverse narrow cliff sides and climb mountain areas.
+
+Their manes are of a white color, while the rest of their coat is different shades of brown and tan. These lush coats are sheared bi-yearly and woven into warm clothing and other textiles by the Rakkor.
+
+GeneralLanguagesObjectsMythosFestivals
+
+Mount Targon is the mightiest peak in Runeterra, a towering mountain of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker.
+
+Many legends cling to Mount Targon, ranging from tales of blazing warriors imbued with incredible powers falling from the sky to battle monsters, to fantastical tales of gods and their celestial abodes crashing down to form the mountain. Some legends even go so far as to claim the Mountain itself is a sleeping titan of antiquity.
+
+Like any place of myth, Mount Targon is a beacon to dreamers, madmen and questors of adventure. Those who survive the arduous journey to the foot of the titanic mountain are welcomed as fellow pilgrims by the scattered, tribal communities that have set up nomadic camps around its base.
+
+Here the weary traveller learns of the tribes, such as the Rakkor, who have endured the harsh climate and unforgiving lands around the mountain for millennia. The Rakkor peoples of Targon all agree that life and magic are the gifts of the heavens, and the celestial powers that reside there and are united in their belief that living in the shadow of these cyclopean structures of monumental scale is a true calling of mysterious powers. The origin and purpose of these structures - if such things ever had one - remain a mystery, for mortals can never truly know the minds of the structures' lost creators. Many faiths find root around the mountain, but all are beholden to the  Solari, a sun-worshipping faith whose tenets dominate the land, those who follow the Solari faith treat those who revere the moon—the Lunari—as vile heretics, who must be cast out or killed.
+
+Some brave souls attempt to scale the impossible mountain, perhaps seeking wisdom or enlightenment, perhaps chasing glory or some soul-deep yearning to see its summit. The dwellers at the peak's base cheer as these brave souls begin their ascent, knowing the mountain will find the vast majority of them unworthy. And to be judged unworthy by Mount Targon is to die.
+
+The mountain's sheer flanks and the treacherous conditions of its high slopes make it incredibly difficult to climb. Its rocks are littered with the contorted bodies of those who have made the attempt and failed. The ascent is all but impossible, a grueling test of every facet of a climber's strength, character, resolve, willpower and determination. Some climbers ascend for weeks or months, others for only a day, for the mountain is inconstant and ever-changing. And even for those hardy few who somehow survive to reach the top, the testing is not over. Some who claw their way to the summit do so only to find it utterly empty, an abandoned expanse of ruins and faded carvings beyond human understanding. For unknowable reasons, the mountain has found the climber's soul lacking.
+
+For a handful of others, however, the summit is said to be veiled in a cascade of shimmering light, through which wonders and far-distant vistas can be glimpsed, the bewildering, tantalizing visions of a mythical domain beyond. Despite attaining their goal of reaching the summit, most fail this last test, turning away in fear from this inhuman realm. Of the rare few who press on, most never return, while others may reappear minutes, years or even centuries later.
+
+Only one thing is certain - those who return are changed beyond all recognition.
+
+Targon Writing System 1Targon Writing System 21/2
+
+Targon has always look towards the sky, interpreting messages from cosmic constellations and events. Astronomers using zenith arrays meticulously track the path of stars, planets, nebulae and comets in hopes that they may reveal the will of the Aspects. Their writing system follows a similar pattern, with each letter resembling a stellar constellation pattern.
+
+Home Of The RakkorCarved Into The MountainLife On The EdgeTemple Of The SolsticeSolari Prayer ShrineAncient Thresholds 1Ancient Thresholds 2Around The Mountain1/8
+
+The Rakkor chiseled markets, homes, bridges, and ceremonial chambers using the shapes of the mountain itself. The circular patterns of the vaulted stone ceilings serve as reminders of the celestial beings who created this place. Some families inscribe symbols in the rock beside their homes to mark momentous events, and are able to trace stories of their history for generations. Using the natural curvature of the rock, the Rakkor sculpted stone pathways and stairs into the lower parts of the mountain. Thick cloth hangings held in place by woven rope fibers provide shelter from the wind and snow. The path circumscribing the mountain is carved into the rock, creating shelters that protect the Rakkor. At certain enclaves around the mountain, the Rakkor carve pathways into the labyrinthine caves and tunnels within the rock. Here, they take shelter from the most perilous storms and impossible conditions.
+
+Ancient Thresholds: Ancient gateways of glittering metals mark the end of each habital base. These metallic stones fell from the mountain long ago, and are now used to mark a delineation between the Rakkoran camp and the unknown terrors of the mountain. The Rakkor celebrate the moment they cross these thresholds and continue their revolution under the sun's bright path.
+
+Solari Temples:  The Solari high temple sits on the eastern slope of the mountain, reachable only by crossing swaying rope bridges over abyssal canyons, climbing winding stairs weathered into the living rock and traversing whisper-thin ledges cut upon sheer cliffs carved with ancient symbols and vast effigies. The entrance to the Solari Temple is carved from gold-veined marble. Windows are carved into the temples at precise locations, so that the light of the sun floods the inner chambers during the solar equinoxes and solstices.
+
+Prayer Shrines: In the sacred Sunward Temple, the worthiest warriors among the Rakkor seek a place in the Ra’Horak, the elite militant order of the Solari priesthood. This particular shrine was constructed to align with major recurring celestial events, each one framed perfectly by a carefully placed aperture.
+
+Mount Targon Tools 1Mount Targon Tools 2The Pilgrim's LifeClimbing GearReligious ItemsGolden AstrolabeZenith ArrayArms Of The Ra'HorakForbidden WeaponsLunari Moonstone WeaponsCalibrum, the RifleCrescendum, the ChakramGravitum, the CannonInfernum, the FlamethrowerSeverum, the Scythe Pistol1/15
+
+Mount Targon's residence have crafted tools specially made for the life on the mountain.
+
+During their migrations, the tribes of Targon try to carry as few material objects as possible. Tethered pulley systems are used to transport essential belongings up and down the steep slopes, while heavier tools and equipment are stored in shelters around the mountain, and repaired or remade as needed.
+
+Climbing Gear: Even young children of the Rakkor are trained to use hooks and picks, gear that is essential for survival on the mountain.
+
+Moonsilver: A silver metal forged under the moon light and is imbued with a small amount of the moon's magic.[4]
+
+Moonstone: A piece of Runeterra's moon that broke off and got embedded within Mount Targon aeons ago, it is highly potent with the moon's magic.[4]
+
+Religious Items: Holding fragrant incense and the extracts of certain rare herbs and plants, these stone-carved offering bowls are used frequently in religious rites.
+
+Golden Astrolabe: Solari priests keep a watchful eye on the movements of the heavens, using astrolabes to measure the movement of celestial bodies said to predict future events.
+
+Zenith Array: Astronomers and astromancers across Targon meticulously track the sun, moon, and stars, hoping to reveal the will of the Aspects and hasten their coming to this world.
+
+Targonite: A blue stone only found on Mount Targon. In the  Arcane universe, it produces a burst of florescence when exposed to sunlight. In the  Runeterra Prime universe, Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value). hand off necklaces with these stones as a good luck charm for any would be climber of The Peak of Targon.
+
+Weapons: The People of Mount Targon have a wide range of different weapons at their disposal, mostly crafted for religious and combat purposes.
+
+Solari Weapons: Weapon designs are ornate and gilded to reflect the divine light of the sun, and are often displayed on the outside of armor.
+
+Lunari Weapons: Lunari weapons tend to be elegant and easily concealed, sometimes crafted from iridescent moonstone.
+
+Hymn of the Hour tells the story of Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value). and Lua error in Module:LoRData at line 649: attempt to call field 'findCardsByName' (a nil value)..
+
+One was robed in silver's glow,
+
+The other clad in golden flame,
+
+Though both were formed of cosmic light,
+
+They fought, for they were too alike,
+
+And so these two split night from day,
+
+So each could always have their way."
+
+Main article: The Messenger (Legends of Runeterra)
+
+The Aspects are stellar beings that live beyond the physical and spiritual realms of Runeterra in the cosmic realm of Targon Prime. These beings embody concepts and celestial magics. They are able to meld with mortals, ascend them, making them their hosts with which they are able to traverse and / or interact with the mortal plane with relative efficiency
+
+As originators of all the Aspect Hosts and the God-Warriors, the Aspects are shaped the destiny of the world in ages past.
+
+Main article: The Charger (Legends of Runeterra)
+
+Main article: The Serpent (Legends of Runeterra)
+
+In a sacred farewell ceremony before climbing the mountain, those beginning their ascent are celebrated. This day marks the moment when the fate of their souls is placed into the hands of Targon. Most will likely never be seen again.
+
+The Rakkor view the ascent as a test not merely of strength and resilience, but of spirit and soul, as the climbers encounter visions that distract them from their ascent. Some prove benevolent, leading lost climbers to the safest path during a snowstorm, or helping the exhausted rise once more. Some climbers encounter divine visions and tests of character and faith. They might encounter ghostly images of loved ones they must abandon on the slopes to continue their quest, or personifications of their deepest fears. Others fight past grotesque beasts encrusted in ice with teeth of sharpened stone. Those who survive the climb describe bitter nights spent sheltering from the unrelenting cold, where they claim to witness strange visions of ethereal figures. The most perilous elements of the climb are not its climate, but the way in which it tests the very character of each climber.
+
+Nearly all who survive to reach Targon's peak see nothing more than an empty pinnacle, rocky and bare. In the extraordinarily rare event where the Aspects choose a worthy hero to act as their mortal vessel, it is said the very air shimmers with stardust as a portal opens atop the mountain. Some say the faint ghost of a brilliant city of silver and gold is just visible beyond the veil, and divine light shines in bright and vivid colors as a celestial being descends from Targon Prime.
+
+The RakkorLife Among The TribesThe Warriors1/3
+
+A name thought to mean “the Tribe of the Last Sun”, the Rakkor tribes boast many skilled artisans, craftspeople, and merchants—however, they tend to value a simple life of humility and prayer to the heavens.
+
+Eking a living from mountain plants and their precious herds, the Rakkor tribe dwells at the very limits of human endurance; honing their warrior skills to fight the war at the end of the world. Rakkor means Tribe of the Last Sun, and its people believe that many worlds have existed before this one, each of which has been destroyed by a great catastrophe. Its seers teach that when this sun is destroyed there will be no more, so its warriors must be ready to fight those who seek to extinguish its light.
+
+Rakkor priests teach that when their sun is destroyed, all will diminish into darkness, so its warriors must be ready to fight those who seek to extinguish its light. To the Rakkor, battle is an act of devotion, an offering to keep the sun's light shining. All members of the tribe are expected to fight and kill without mercy or hesitation. Rakkor warriors are trained not only to be as lethal with their bare hands as the most capable martial artists, but also to fiercely wield the many relic-weapons of the tribe. The stone-faced warrior  Atreus is considered the paragon of his people.
+
+While nearly all the Rakkor worship the sun, those who devote their lives to the religion are known as the Solari. Those known as the Lunari secretly worship the light of the moon. They keep their beliefs hidden from the Solari, who greatly outnumber them and see them as dangerous heretics.
+
+The Solari 1The Solari 2Ra'HorakZenith ArrayGolden AstrolabeArms Of The Ra'Horak1/6
+
+While nearly all Rakkor worship the sun, those who completely devote their lives to it are known as the Solari. As the dominant religious sect on Mount Targon, they believe the sun is the source of all life—all other light sources are false, and a threat to the future of their people. Disciples are guided in the strictures of their faith by temple priests, who preach that if the sun was ever to fade, the world would be swallowed by darkness. Accordingly, the Solari stand ready to fight any who would extinguish its holy light.
+
+The Ra'Horak - a Rakkor title which means Followers of the Horizon - honed their already fearsome skills with a blade into something sublime. As Elite warriors of the Solari, they practice for years under the harshest conditions.  Believe to be blessed with the strength and virility of the sun, they train themselves to be less susceptible to the cold. According to legend, the Solari were formed by a warrior who could call the raw might of the sun down upon his enemies in combat. They claimed Mount Targon's summit, the point on Runeterra closest to the sun, for their solar devotion, a tradition which generations of Solari have preserved to this day.
+
+Though they maintain their reverence, no other warrior possessed the gifts of the founder – until  Leona, the Radiant Dawn. The Solari elders claimed Leona from the Rakkor tribe and assisted in focusing her abilities. With her pursuit of the heretic  Diana at the very peak of Mount Targon, she was imbued by terrifying power and forgotten knowledge from the earliest epochs of the world. Her armor and weapons burned to ash in the cosmic fire and were in turn reborn as ornate warplate, a shield of sunlight wrought in gold and a sword of chained dawnlight.
+
+Scribes and acolytes sometimes spend the winter months sheltering in the relative warmth of the Solari temples, conducting divine rituals to call upon the power of the sun and charting the movements of the stars. During times of strife, a Solari priest might meditate in the outermost sanctum for weeks without food or water, subsisting merely on the divine sustenance of the sun, the source of all life.
+
+The LunariHope For The FuturePriestess Of The MoonBlinding LightForbidden WeaponsDiana's DiscoveryLunari Moonstone WeaponsCalibrum, the RifleCrescendum, the ChakramGravitum, the CannonInfernum, the FlamethrowerSeverum, the Scythe Pistol1/12
+
+Branded by the Solari as heretics, the Lunari worship the silvery light of the moon. They practice their beliefs in secret, hiding from those who seek to rid Targon of their influence forever—even though some claim that, long ago, the two groups lived in peace, worshipping the heavens as one people.
+
+The Lunari chart celestial movements to divine the future. Certain priestesses wear necklaces of mirrored moonglass, believing that reflections can reveal even greater truths. Some Lunari seers bind their eyes during the day, training their eyes to see only in darkness - for only under the pure light of the moon is truth revealed.
+
+Demacia has had a long reverence for Mount Targon itself. 'The Crown of Stone', is a ceremony that demanded a dishonored soldier ascend Mount Targon. Known to all as a death sentence, few mortals had ever survived the climb.
+
+And while the Crown of Stone was traditionally used by the dishonored to simply flee Demacia and make a new life in exile,  Taric decided to actually atone for his mistake and set out for the towering spire of Mount Targon, later successfully becoming the Aspect of Protection. Both  Kayle and  Morgana are two Ascended who hail from Mount Targon but have made historical and cultural mark upon the nation since its inception.
+
+Ixtali culture is part of an older great westward diaspora that gave the rise of civilizations such as the ascetics of Mount Targon. It is likely Ixtali played a significant role in the creation of the first Ascended.
+
+Since its inception Shurima has had deep political and social ties with both Mount Targon and celestial Targon itself. The knowledge of how to create the first Ascended, the blueprints on how to create the Sun Disk, and the means to revert ascension, was given by Targonians.
+
+During the Darkin War Targonian Aspects aided Shurima with both stopping and imprisoning all of warring Darkin of that time.
+
+Mount Targon is based on Mount Olympus, mythological home of the Twelve Olympians.
+
+It was previously known as Mount Gargantuan, & its new name is probably based on Persian ترگ targ "helmet".
+
+Rakkor, Tribe of the Last Sun, is based on Egyptian theonym Ra.
+
+The name of the Kor leader, Jagen, means "to hunt" in German and Dutch.
+
+The sectarian names Solari & Lunari derive from Latin sol and luna.
+
+The Solari's dismissive and disdainful attitude towards the Lunari possibly references the astronomical fact that the Moon does not emit any light, but only reflects the Sun's light.[5]
+
+The title Ra-Horak derives from Egyptian Ra-Horakhty "Ra-Horus of the Horizons".
+
+In Season Nine, the ranked emblems for the League system were redesigned. Mount Target represents the emblem for the  Diamond rank.
+
+League Community Podcast made a specific episode regarding the new lore of Mount Targon.
+
+Mount Targon was Graham McNeill's first lore event which he specifically contributed towards.
+
+As Indicated by  Poppy in one of her jokes, people from Targon are known as Targonians.
+
+Targonians also value gemstones more than gold.
+
+Aegis of Zeonia,  Eye of the Aspect,  Face of the Mountain,  Locket of the Iron Solari,  Moonflair Spellblade,  Nova of Atreus,  Relic Shield,  Shield of Daybreak,  Skyfall of Areion,  Solstice of Astrea,  Targon's Brace,  Moonstone Renewer and  Zenith Blade are Mount Targon artifacts.
+
+There are many tribes in the base of Mount Targon and their current status is unknown.
+
+Targon, the celestial Targon is said to have been the most powerful empire in all of League of Legends universe.
+
+It said that they gave the early civilizations of Runeterra the blueprints on the way of life Runeterra is right now.
+
+It is also possible that they were the first to introduce magic to Runeterrans.
+
+It is also stated that Targonians were also connected to World Runes in some way, having an ability to call down a World Rune is an interesting ability they have.
+
+The stars of the Constellation of War (which includes former and current stars) are called Areion, Astrea, Asose, Atreus and Zeonia.
+
+Every single champion from or related to Targon is present in both League of Legends and Legends of Runeterra.
+
+Cosmic Flight AniviaCosmic Queen AsheMythic CassiopeiaDark Star Cho'GathDark Valkyrie DianaRageborn MundoCosmic Charger HecarimCosmic Invoker IllaoiDark Star Jarvan IVDark Cosmic JhinDark Star KarmaCosmic Reaver KassadinOdyssey KaynDark Star Kha'ZixDefender LeonaIron Solari LeonaLunar Eclipse LeonaSolar Eclipse LeonaValkyrie LeonaDark Cosmic LissandraCosmic Enchantress LuluMarble MalphiteCosmic Blade Master YiCosmic Destiny NamiCosmic Huntress NidaleeDark Star OriannaMyrmidon PantheonPerseus PantheonCosmic Dawn Rakan & Cosmic Dusk XayahDark Star ShacoCosmic Sting SkarnerMuse SonaDivine SorakaDark Star ThreshCosmic Hunter VarusDark Star VarusCosmic Devourer VladimirCosmic Defender Xin Zhao
+
+MusicVideosGalleryExtraLittle Legends
+
+Diana, Scorn of the Moon - Login ScreenLeague of Legends Music Daylight's EndLeague of Legends Soundtrack: Vol.1Nami, the Tidecaller - Login ScreenLeague of Legends Music TidecallerLeague of Legends Soundtrack: Vol.1Bard, the Wandering Caretaker - Login ScreenAurelion Sol, the Star Forger - Login ScreenTaric, the Shield of Valoran - Login ScreenZoe, the Aspect of Twilight - Login ScreenKayle & Morgana, the Righteous & the Fallen - Login ScreenPantheon, The Unbreakable Spear - Login ScreenAphelios, The Weapon of the Faithful - Login Screen
+
+Bard Mountain New Champion Teaser - League of LegendsHe has returnedAurelion Sol The Star Forger Returns New Champion Teaser - League of LegendsTaric Downfall Champion Update Teaser - League of LegendsZoe The Aspect of Twilight - Champion TeaserJourney to Mount Targon dev diary - League of LegendsBook of Thresholds Yuumi Champion Teaser - League of LegendsKayle and Morgana The Righteous and the Fallen Champion Gameplay Trailer - League of LegendsReimagining Pantheon, the Unbreakable Spear - Behind the Scenes League of LegendsPantheon Champion SpotlightAphelios The Weapon of the Faithful Champion Trailer - League of LegendsAphelios Champion SpotlightNew Region Targon Legends of RuneterraTaric Reveal New Champion - Legends of RuneterraTales of Runeterra Targon “The Vaulted Road”Leona Champion Showcase Gameplay - Legends of RuneterraDiana Champion Showcase Gameplay - Legends of RuneterraAurelion Sol Reveal New Champion - Legends of RuneterraTargon Region Showcase Gameplay - Legends of RuneterraCall of the Mountain - Launch Trailer New Expansion & Region Legends of RuneterraSoraka Reveal New Champion - Legends of RuneterraNew Expansion Monuments of Power Legends of Runeterra - Call of the MountainZoe Reveal - New Champion - Legends of Runeterra
+
+Old Mount Targon CrestOld Iron Solari CrestMount Targon "Legends of Runeterra" Alpha iconAphelios "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Aphelios "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Aurelion Sol "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Aurelion Sol "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Diana "Legends of Runeterra" Illustration 1 (By Riot Contracted Artists Sixmorevodka Studio)Diana "Legends of Runeterra" Illustration 2 (By Riot Contracted Artists Sixmorevodka Studio)Leona "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Leona "Legends of Runeterra" Illustration 2 (By Riot Contracted Artists Sixmorevodka Studio)Pantheon "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Pantheon "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Soraka "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Soraka "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Taric "Legends of Runeterra" Illustration 1 (By Riot Contracted Artists Sixmorevodka Studio)Taric "Legends of Runeterra" Illustration 2 (By Riot Contracted Artists Sixmorevodka Studio)Zoe "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Zoe "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 1 (by Riot Artist Christopher 'Skeeziks' Campbell)Targon "Legends of Runeterra" Concept 2 (by Riot Artist Christopher 'Skeeziks' Campbell)Targon "Legends of Runeterra" Concept 3 (by Riot Artist Christopher 'Skeeziks' Campbell)Targon "Legends of Runeterra" Concept 4 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 5 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 6 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 7 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 8 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 9 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 10 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 11 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 12 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 13 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 14 (by Riot Artist Qinghao 'Tooth Wu' Wu)Targon "Legends of Runeterra" Concept 15 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 16 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 17 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 18 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 19 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 20 (by Riot Contracted Artists Kudos Productions)Targon "Legends of Runeterra" Concept 21 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 22 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 23 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 24 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 25 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 26 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 27 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 28 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 29 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 30 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 31 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 32 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 33 (by Riot Contracted Artists Sixmorevodka Studio)Targon "Legends of Runeterra" Concept 34 (by Riot Artist Christopher 'Skeeziks' Campbell)Targon "Legends of Runeterra" Concept 35 (by Riot Artist Christopher 'Skeeziks' Campbell)Targon "Legends of Runeterra" Concept 36 (by Riot Artist Christopher 'Skeeziks' Campbell)Targon "The Call" Concept 1 (by Riot Artist Rembert Montald)Targon "The Call" Concept 2 (by Riot Artist Rembert Montald)Targon in the Book of Thresholds 1Targon in the Book of Thresholds 2Targon in the Book of Thresholds 3Targon "Call of the Mountain" Concept 1 (by Riot Contracted Artist Rembert Montald)Targon "Call of the Mountain" Concept 2 (by Riot Contracted Artist Rembert Montald)Targon "Call of the Mountain" Concept 3 (by Riot Contracted Artist Rembert Montald)Targon "Call of the Mountain" Concept 4 (by Riot Contracted Artist Rembert Montald)Targon "Call of the Mountain" Concept 5 (by Riot Contracted Artist Rembert Montald)Targon "Call of the Mountain" Concept 6 (by Riot Contracted Artist Rembert Montald)Targon "Call of the Mountain" Concept 7 (by Riot Contracted Artist Rembert Montald)Aphelios "You Are the Weapon" Illustration (by Riot Artist Blake Byun)Aurelion Sol "He Has Returned" IllustrationAurelion Sol "The Star Forger Returns" IllustrationDiana and Leona "Rise with Me" Illustration 1 (by Riot Contracted Artists Wild Blue Studios)Diana and Leona "Rise with Me" Illustration 2 (by Riot Contracted Artists Wild Blue Studios)Diana and Leona "Rise with Me" Illustration 3 (by Riot Contracted Artists Wild Blue Studios)Diana and Leona "Rise with Me" Illustration 4 (by Riot Contracted Artists Wild Blue Studios)Diana and Leona "Rise with Me" Illustration 5 (by Riot Contracted Artists Wild Blue Studios)Diana and Leona "Rise with Me" Illustration 6 (by Riot Contracted Artists Wild Blue Studios)Kayle "In the Fires of Justice" Illustration  (by Riot Artists Jessica 'OwleyCat' Oyhenart and Victor '3rdColossus' Maury)Morgana "Prayer to a Crumbling Shrine" Illustration  (by Riot Artists Jessica 'OwleyCat' Oyhenart and Victor '3rdColossus' Maury)Nami "First Steps" IllustrationPantheon "For Those Who Have Fallen" Illustration (by Riot Artists Alex Flores and Dani McCole)Pantheon "For Those Who Have Fallen" Concept 1 (by Riot Artists Alex Flores and Dani McCole)Pantheon "For Those Who Have Fallen" Concept 2 (by Riot Artists Alex Flores and Dani McCole)Pantheon "In Battle, Broken" Illustration (by Riot Contracted Artists Grafit Studio)Soraka "Halfway Between the Stars and Earth" Illustration (by Riot Contracted Artist Maddie Julyk)Taric "Downfall" Illustration (by Riot Artist Mitchell Malloy)Taric "The Ascent" Cover 1 (by Riot Artist Mitchell Malloy)Taric "The Ascent" Cover 2 (by Riot Artist Mitchell Malloy)Zoe "Meet Zoe" IllustrationZoe "The Aspect of Twilight" Illustration 1 (by Riot Artist Elena 'Hellstern' Bespalova)Zoe "The Aspect of Twilight" Illustration 2 (by Riot Artist Elena 'Hellstern' Bespalova)Zoe "The Aspect of Twilight" Illustration 3 (by Riot Artist Elena 'Hellstern' Bespalova)
+
+Main article: Card Back (Legends of Runeterra)
+
+CelestialsMoonfallSunriseTargon
+
+Main article: Board (Legends of Runeterra)
+
+Celestial Summit Board iconCelestial Summit Board
+
+Main article: Guardian (Legends of Runeterra)
+
+Main article: Little Legend (Teamfight Tactics)
+
+Lightcharger (Tier 1)Lightcharger (Tier 2)Lightcharger (Tier 3) Prancie (Tier 1)Prancie (Tier 2)Prancie (Tier 3)
+
+↑ Targon and its connection to the celestial realm
+
+↑ 4.0 4.1 Kindlejack on Moonsilver and Moonstone
+
+↑ Sun and Moon inspirations for Solari and Lunari

@@ -1,0 +1,39 @@
+# História Completa: Jarvan IV
+**Tipo:** Lore Aprofundada & Relações Canônicas | **Fonte:** League of Legends Universe / Wiki
+
+## Background
+
+*(TBA)*
+
+## Appearance
+
+*(TBA)*
+
+== Personality == 
+*(TBA)*
+
+== Abilities == 
+*(TBA)*
+
+## Relations
+
+### Jarvan III 
+Jarvan III is the father of Jarvan IV and is the former King of Demacia. His lineage can be traced even further back to his great-grandfather of Jarvan I, the first king of  who was killed by Sion during the decisive battle for .
+
+### Xin Zhao 
+Jarvan IV sees Xin Zhao as his Uncle.
+
+### Sylas 
+Sylas is looking to overthrow and kill the Demacian elite, including Jarvan. Jarvan IV was almost executed by Sylas and now is chasing him, believing Sylas is behind his father's death, although the king was already dead by the time he was found.
+
+### Garen 
+Jarvan IV and Garen have known and become friends with each other since joining the military at young age. 
+
+### Shyvana 
+Jarvan IV was saved by Shyvana after escaping and later helped her in slaying her mother and, out of gratitude, she earned a spot in the Demacian Elite Guard. Jarvan mentioned he loved someone that wasn't so different from the mages. It was later revealed to be Shyvana.
+
+### Lux 
+Jarvan IV was arranged to marry Lux by her family to protect her from being persecuted for being a mage: as queen, she would have been too powerful to accuse. After she didn't show up for the betrothal ceremony, the matter was apparently dropped.
+
+### Tianna 
+After his father's death, Jarvan is counsel of many prominent nobles—including Garen’s aunt, High Marshal Tianna to prepare him for the days ahead before he can be crowned king.

@@ -1,0 +1,74 @@
+# História Completa: Viego
+**Tipo:** Lore Aprofundada & Relações Canônicas | **Fonte:** League of Legends Universe / Wiki
+
+## Background
+
+### Early life 
+Viego was born centuries ago to the royal family of Camavor, significantly later than his brothers. Due to being the fourth born child of the king, he was largely neglected in favor of his brother and spent his childhood in his shadow. Viego was tutored by the greatest minds in the land and learned swordsmanship from his father's generals. Viego's best friend was his own niece, Kalista, and she would end up becoming his most trusted general.
+
+When his father had passed, Viego was to be crowned the king, despite being unprepared. Kalista was tasked by Viego's father to monitor his rule and steer him in the right direction. Shortly into his reign, Viego had fallen in love with a peasant seamstress named Isolde. The two had a whirlwind romance and were quickly married. Viego had begun to neglect his kingdom in favor of his queen, and his enemies began to conspire against him. They had sent an assassin to kill the wayward king, but they were intercepted by General Kalista. However, Isolde was poisoned in his place. The king ordered the nation's greatest healers and scholars to find a cure for the queen, but when they failed, he sent Kalista to search for one instead. While the king was preoccupied with keeping the queen alive, the kingdom continued to be neglected, and uprisings plagued the country. He ordered Commander Hecarim and his knights to quash these insurrections, and hundreds were put to death. Eventually, the queen would pass, and the king sank into a deep depression. Hecarim proposed invading foreign lands as retribution for the queen, and Viego approved. As the armies of Camavor prepared to set sail, Kalista had returned with word of a cure.
+
+Kalista had sailed to the Blessed Isles and learned of the Waters of Life, which could cure any disease. But by the time she had returned, the queen was dead. Kalista did not believe the cure was of any use after the queen had passed, but Viego refused to believe her and had her imprisoned for treason. Kalista was eventually convinced to show the king the location of the cure, prompting the king and his armies to sail to the Blessed Isles. The residents of the island refused to grant him access to the waters, so Viego ordered Kalista to slay them, but she refused. Hecarim and his knights were more than happy to follow the king's orders and clashed with Kalista's forces, while Viego searched for the waters himself. The king fought his way to the waters, guided by the conniving warden who would become Thresh. When he made it to the vault, Viego lowered Isolde into the waters' healing properties and watched with hope. The queen revived as a former shadow of herself and attacked the king with his own sword. The magic of Viego's blade and the blessed waters mixed, transforming it into the Black Mist and unleashing ruination. The Blessed Isles would transform into the Shadow Isles, and Viego slumbered within his blade for centuries.
+
+### Resurrection 
+
+Viego would eventually be awakened by Gangplank and Thresh, who planned on using him to conquer Bilgewater. Still weak from his slumber, Viego gathered his strength, fueled by his desire to be reunited with his queen. Eventually, Gangplank would try to subjugate Viego with a powerful amulet, but would fall to the king's power. He would possess the pirate and use him to hold off Ahri, Braum, Illaoi, Miss Fortune, Pyke, and Yasuo, while he flew to Bilgewater to search for his queen. The champions of Bilgewater would eventually defeat Viego, weakening him with his own memories and imprisoning him within the amulet. The amulet would be guarded by Illaoi.
+
+Illaoi departs for the Shadow Isles in search of the Brethren of the Dusk, the original creators of the amulet, to find out if she can destroy it, with Viego trapped inside. She is escorted there by Ruven, a captain indebted to Miss Fortune. On Isles, Illaoi meets Yorick; the last member of the brotherhood, who reveals they can destroy the amulet, but requires a heat source hot enough to do so. They decide on a nearby volcano, but as they set sail, Ruven betrays Illaoi, revealing he is the puppet of Bartek, an agent of Thresh. Bartek manages to wrestle the amulet from them and returns it to Thresh.
+
+### Ruination 
+
+At some point, Viego would escape the amulet and resume his search for Isolde. He would be made aware of a fragment of her soul within Senna, and intercepted her and her husband Lucian. Viego would unleash Harrowings in Demacia, Ionia, and Noxus while he tried to separate the fragment from Senna. He would manage to pry a portion of the fragment within her before they escaped. Viego soon encountered a gloomy Yordle on the Shadow Isles named Vex. Vex was enamored by Viego's darkness and agreed to help spread the Black Mist across the world. With the help of his new companion, Viego would unleash a global Harrowing to scour the world for the soul fragments.
+
+He would obtain the fragments and bend several champions to his will, including , , , , and . Along the way, he and his forces would be confronted by the Sentinels of Light. After obtaining most of the fragments, the Sentinels launched a final assault on Viego on the Shadow Isles. There, he would obtain the last three fragments within Senna, Gwen and the Maiden of the Mist. His forces held off the Sentinels while he took the fragments to Camavor to revive his queen. Viego resurrected Isolde, but she was horrified at what he had become. Isolde prompted Akshan to kill her, reviving Senna, Gwen, and the Maiden. The Sentinels then defeated the king, leaving him imprisoned in Hallowed Mist forever.
+
+## Appearance
+
+As a wraith, Viego has a pale complexion, spectral green eyes, and white hair. He is adorned by a green, spectral crown and a triangle shaped wound in his chest, where Black Mist pours out. Viego wears a black leather jacket and pants with light armorments and no shirt, showing off his bare, sculpted chest. He wields Sanctity, the Blade of the King, a spectral Zweihänder with the crest of Camavor on its hilt. Viego can also manifest additional armor made from Black Mist, including a helmet and a chest plate.
+
+In life, Viego's complexion was close to fair, and his skin was slightly tanned. His hair has a brown color. He wore a blue leather jacket and undershirt with black pauldrons and gauntlets with gold accents. He also wore brown pants with black boots. He wielded an uncorrupted version of Sanctity, adorned by gold and jewels.
+
+## Personality
+
+Viego was an incredibly passionate, yet arrogant man. Due to being raised in nobility, Viego was given everything in life and believed all was his. He was deeply enamored with his wife, Isolde, and would dote on her. His devotion to his wife led him to be highly disinterested in ruling their kingdom and neglect his responsibilities. He has shown himself to be a perfectionist, having high expectations of his queen and would berate her when she couldn't live up to them. When Isolde was poisoned, Viego became obsessed with saving her, using all of the kingdom's resources to try and keep her alive. When the queen had passed, he was willing to slaughter thousands and defy death itself to bring her back. Centuries later, his obsession remains, willing to plunge the world into darkness in order to revive his queen.
+
+## Relations
+
+### Kalista
+Kalista is Viego's niece and was his most trusted general in life. Despite being her uncle, Kalista was like an older sister to Viego, the two were friends for a long time since he was largely ignored in favor of Kalista's father. When her grandfather died and Viego became king, his negative traits were worsened and they began to drift apart, however she was still loyal to him.
+
+Kalista managed to protect Viego from an assassin, but resulted in Isolde getting poisoned instead. She would set sail in order to find a cure, but found it too late and was imprisoned as a traitor for her failure. She was eventually convinced by Hecarim to lead Viego and their army to the Blessed Isles for the Waters of Life. When the masters of the island refused to let them use the water, Viego ordered her to kill anyone who opposed them. Kalista refused and was stabbed by Hecarim before her forces clashed with the Iron Order.
+
+### Hecarim
+Hecarim was the leader of the Iron Order, a brotherhood of knights which vowed to protect the king's lands. Under Viego, Hecarim and the Iron Order acted as the king's enforcers and quelled growing dissent after Viego began neglecting his duties. Hecarim and his knights accompanied Viego to the Blessed Isles. They held off Kalista's forces and pillaged the city while Viego attempted to heal Isolde.
+
+In The Despoiler of Havenfall, it is revealed that Hecarim does not think highly of Viego and only continues to follow him because he can spread the Black Mist across Runeterra and allows him to pillage the land.
+
+### Vladimir
+Although Viego calls Vladimir his uncle in game, they are only distantly related due to both descending from the royalty of Camavor.[https://twitter.com/notquitefrodo/status/1347660237071810560 Vladimir and Viego's relation] At some point after being taken by his Darkin master, Vladimir started sending customary, yearly letters to his original kingdom. After Isolde was poisoned, a grief stricken Viego refused to respond, not knowing Vladimir had the power that could have saved her.[https://twitter.com/notquitefrodo/status/1351978026066616320 Vladimir's letter]
+
+### Isolde
+Viego's wife is a seamstress named Isolde. Viego was selfish, self-centered, young, immature, and had a lot of power. So when he saw someone as beautiful as Isolde, he had to have her. She accepted because she was a commoner from a conquered country.[https://twitter.com/notquitefrodo/status/1352364845006372864 Isolde's origin] Viego was a perfectionist in his relationship with Isolde, so when she couldn't live up to his expectations, he would berate her. However, the thought of not being the perfect husband for her disturbed him and he would abandon the memories of the times they fought.[https://www.reddit.com/r/IAmA/comments/r0hi6v/airship_syndicate_amp_rowan_parker_ama/hlsll8d/?context=3 Ruined King Viego Memories] It is uncertain if Viego truly loved Isolde or loved that she was his because he was raised to take anything he desired. Regardless, he doted and focused on her and ignored his duties as king. Viego’s love for Isolde is characterized by utter obsession to the exclusion of everything else, and driven by a lack of understanding of any motivations other than his own.[https://twitter.com/notquitefrodo/status/1361071667993214979 Viego's love]
+
+Isolde stabbed Viego with his own Blade of the Ruined King after he resurrected her. The magic of the waters and the ancient sword caused Ruination which turned the Blessed Isles into the . When Viego resurrected Isolde a second time, she was disgusted at what he had become and the atrocities he had committed to bring her back. She would allow Akshan to kill her again with his Absolver to revive Gwen and Senna and weaken Viego.
+
+### Gwen
+Gwen was created by Isolde and she associates him with the pain of Isolde being taken away from her. She opposes Viego and sided with the Sentinels of Light to stop the pain he has caused in his search for Isolde's soul fragments. Gwen contained a fragment of Isolde's soul.
+
+### Thresh
+Thresh led Viego to the Waters of Life where he resurrected Isolde. Thresh and Gangplank woke Viego up from his slumber in order to use him to conquer Bilgewater. Thresh plotted against Viego during Rise of the Sentinels and secretly siphoned the excess Black Mist he was producing in order the unbind himself from the Shadow Isles.
+
+### Senna
+Senna was cursed to have a fragment of Isolde's soul within her, leading to her being relentlessly hunted by the mist. Later, she learned the truth about the mist during her time inside  latern. After being freed from it, Senna and her husband Lucian were determined to defeat Viego. Upon finding out about  relation to Isolde, Viego confronted her and Lucian and partially separated Isolde from her body. She, Akshan, Gwen and a Sentinel Rookie would eventually defeat him in Camavor and leave him restrained in Hallowed Mist.
+
+### Vex
+Viego unleashed a global ruination with the aid of Vex during Rise of the Sentinels. Vex was enamored by Viego's desire to plunge the world into darkness and aided him in causing a global ruination, but would later abandon him when she discovered that he was doing it for love
+
+### Ruination
+Maokai and Yorick were hunting for Viego in hope of restoring the Blessed Isles. R was one of the fetters of Isolde's soul.
+
+During the events of Ruined King, Ahri, Braum, Illaoi, Miss Fortune, Pyke and Yasuo set sail to the Shadow Isles to confront Viego in order to protect . Viego tried to tempt Miss Fortune into joining with him, promising her the power to rule Bilgewater and even bring back her mother, but her will proved stronger and she would imprison him in a Buhru artifact. Miss Fortune would eventually join Viego during Rise of the Sentinels, after months of fighting over Bilgewater with Gangplank.
+
+Viego would eventually escape the Buhru artifact and unleash harrowings across multiple regions to begin his search for the fragments of Isolde's soul. These harrowings were repelled by multiple champions including: Darius, Karma, Poppy, Samira, and Vayne. 
+
+He corrupted multiple champions, such as , , ,  and , to aid in his search.[https://twitter.com/notquitefrodo/status/1348890186248187906 Carnival Knights on Ruined Skins] Multiple champions were recruited by the  to stop him such as , , , , , ,  and .

@@ -1,0 +1,83 @@
+# Conto: A Quiet Night
+**Tipo:** Conto Canônico Oficial do Universo | **Fonte:** League of Legends Universe
+
+== Lore ==
+The fire was crackling away nicely, spreading a warm glow throughout the forest clearing. Tristana lay on her back with her head pillowed on her pack, watching a comet streak across the starlit sky. The winking lights glittered prettily through a swaying canopy of birch and oak leaves. The humans liked to name the patterns in the stars – she’d seen some in an old book in Heimerdinger’s laboratory – but she decided it would be more fun to give them names of her own invention.
+
+*“You can be the Growling Badger”* she said, pointing to one group of stars. *“And you can be the Cheeky Changeling. Yes, that’s much better than boring names like The Warrior or The Defender. And anyway, I can’t see those ones anymore.”*
+
+Her stomach rumbled and she sat up. Hunger was still something surprising to her, even though she’d ventured beyond Bandle City more than most of her kind. A pair of spitted fish were roasting nicely over the flames and the smell of them was making her mouth water. She’d shot them in the stream to the west of her campsite with a single, exceptionally carefully-aimed bullet from her cannon. Not a bad feat of marksmanship, even if she did say so herself.
+
+Too bad no-one was around to see it! She leaned over and patted the polished drakewood stock of her exquisitely crafted cannon; a weapon any sensible observer would say was far too large for someone of her diminutive stature to even carry, let alone shoot.
+
+*“Let Teemo have his cute little blowpipes, eh, Boomer?”* she told the cannon. *“I’ll stick to something with a bit more oomph, thank you very much.”*
+
+The fire crackled in a ring of stones, burning with cerulean flames, thanks to the pinch of her custom powder she’d sprinkled on the kindling to get it started. She knew now just how little she needed to use after her first time in the Upplands had cost her a perfectly decent pair of eyebrows. Sometimes it was hard to remember that things were so different in the human world compared to back home.
+
+Deciding the fish were ready, she slid one from the spit onto a wooden plate she removed from her pack. She unwrapped a golden knife and fork from a rolled dreamleaf and cut the fish into slices. She might be on a mission, but that didn’t mean she had to eat like a savage. She took a mouthful of fish and rolled it around her mouth, savoring the taste and licking her lips in satisfaction. Mortal food was usually bland and tasteless compared to the smorgasbord of flavors she was used to, but the fish in this part of the world – Ionia, she’d heard it was called – wasn’t half bad. Perhaps it was the magic saturating every element of this landscape that made them extra tasty.
+
+Tristana heard the crack of a twig. One of many she’d laid in a circle around her camp. The sound and type of twig told her exactly how far away the humans were and from which direction they were approaching.
+
+She cleared her throat and called out *“I have another fish if you’re hungry.”*
+
+A man and a woman emerged from the forest in front of her. Both were tall and lean, with fidgeting hands and cold eyes. They didn’t look friendly, but she was still learning how to read human expressions and she’d been taught to always be polite. Human languages were so unsophisticated that she often wondered how they managed to communicate at all.
+
+The man took a step forward and said *“Many thanks, old one, but we are not hungry.”*
+
+*“Old one?”* said Tristana with a playfully indignant grin. *“I’m a young slip of a girl!”*
+The man blinked and she saw what might have been a look of puzzlement cross his face.
+
+*“The old crone’s insane”* said the woman, looking sidelong at her, as if not quite sure what to make of what she was seeing. Whatever it was, it certainly wasn’t her true form…
+
+*“You’re sure you don’t want a bit of fish?”* asked Tristana, taking another bite. *“It’s really tasty.”*
+
+*“We’re sure”* confirmed the man. *“But we’ll take any coin you’re carrying. As well as that gun of yours. I suspect it will fetch a pretty penny at auction.”*
+
+*“You want to steal my Boomer?”* said Tristana, sensing movement to either side. *“You know, I just don’t see that happening.”*
+
+*“No? You’re alone and there’s two of us”* said the man. *“And we’re bigger than you.”*
+
+*“Size isn’t everything”* said Tristana. *“And there’s four of you. Why don’t you ask your two bandit friends to come out? Maybe they’re hungry?”*
+
+The woman shook her head. “He told you, we’re alone.”
+
+*“Oh, come on”* said Tristana. *“What sort of commando do you think I’d be if I didn’t know you had two friends in the bushes with arrows aimed at me right now? You came in from the north and split up a hundred yards out. There’s a fat man to my left and a man with a limp to my right.”*
+
+*“Good ears for one so old”* said the man.
+
+*“I told you, I’m not old”* said Tristana. *“I’m actually pretty young for a Yordle.”*
+
+The man’s mouth dropped open in surprise as something of her true nature became apparent to him.
+Finally! An expression she had no trouble in reading.
+
+Tristana ducked and rolled to the side as a pair of black-fletched arrows slashed from the undergrowth. They passed harmlessly overhead as she swept up Boomer and chambered a round. She fired into the bushes to her right and was rewarded with a cry of pain.
+
+*“Blast off!”* she cried, vaulting toward the nearest tree and bounding higher. Tristana landed on a branch halfway up its trunk. Another arrow flashed toward her, thudding into the bark a handspan from her head.
+
+*“Hey, you’re pretty fast for a human”* she said, racking Boomer’s crank and priming the barrel with a bunch of shells. She sprang away to another branch as the archer rose from the bushes – the fat one, which almost made it too easy. Tristana somersaulted from tree to tree and fired twice more. Both shots caught the man in his meaty thighs, and he fell back with a wail, loosing his arrow high into the air.
+
+*“Oh, don’t be such a baby”* she laughed. *“I barely grazed you!”*
+
+Tristana landed by her fire as the two humans she’d first seen rushed her with drawn swords. They were likely fast by human standards, but to her they moved like lumbering giants.
+
+*“Time for some up and over!”* shouted Tristana, unloading the rest of Boomer’s barrel in one Rocket_Jump. She gave a wild, whooping yell as she sailed over their heads. Even as she arced through the air she was reloading. She pushed off from the trunk of a tree and spun back to the ground.
+
+She landed right behind the bandits with a giggle.
+
+*“Boom! Boom!”*
+
+Tristana fired two blasts, and both humans cried out in pain as they each took a wound to the rump. The woman fell flat on her face, beating her britches as powder burn set them alight. She managed to pick herself up and flee into the bushes with her backside on fire. The man twisted as he dropped to the ground, scrambling away as she cranked Boomer’s loading arm.
+
+He was making hand gestures he probably thought were some form of magical protection.
+
+*“You’re no old woman”* he said.
+
+*“I kept telling you that”* said Tristana.
+
+The man opened his mouth to answer, but before he could speak the arrow loosed from the fat man’s bow finally came back down to earth. It thudded into the man’s chest and he fell back with a look of intense annoyance.
+
+The other bandits were dragging themselves away as fast as their wounded limbs would carry them. She let them go, grinning as she gathered up her things before stamping down the fire.
+
+*“I was just trying to eat my dinner and have a quiet night”* she said to herself. *“But I guess four bandits who won’t trouble anyone again soon isn’t bad going!”*
+
+Tristana slung Boomer over her shoulder and set off once more, whistling a jaunty tune as she looked for more stars to name.

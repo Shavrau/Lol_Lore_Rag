@@ -1,0 +1,654 @@
+# Região: Freljord
+**Tipo:** Lore de Região / Runeterra | **Fonte:** League of Legends Wiki & Universe
+
+For information about the  Legends of Runeterra  regional card set, see  Freljord.
+
+The Freljord (pronounced /'fɹɛɫjɔɹd/ frell-yord) is a harsh and unforgiving land. Proud and fiercely independent, its people are born warriors, with a strong raiding culture. While there are many individual tribes within the Freljord, the battle lines are being drawn in a three-way civil war that will determine the future of them all. One tribe unflinchingly honors the  traditions that have ensured its survival; another follows the dream of a united future, as foretold by a young  idealist; while the third worships the power of an enigmatic  sorceress. Freljord is also the only place where True Ice can be found. [1]
+
+2.3 Battle of the Howling Abyss
+
+The Freljord is a harsh and unforgiving place—the people there are born warriors, and must persevere against all odds.
+
+Proud and fiercely independent, the tribes of the Freljord are often considered wild, rugged, and “uncivilized” by their neighbors across Valoran, who do not know the ancient traditions that shaped them. Many thousands of years ago, the alliance between the sisters Avarosa, Serylda, and  Lissandra was shattered in a war that unknowingly threatened all of Runeterra, plunging the northern lands into chaos and a near-constant winter. Now, only truly exceptional mortals who seem immune to the ravages of fire or ice seem destined, or able, to lead.
+
+Despite the best efforts of the  Frostguard, myths and legends of the old gods, the enigmatic yetis, and restless spirit walker shamans endure amongst the people. The raiders of the  Winter's Claw range further with each passing year, harrying the borders of  Demacia to the south, and the frontiers of  Noxus to the east. Seeking a more peaceful future, the fractious independent tribes and clans have begun to offer their allegiance to  Ashe, young queen of the  Avarosans.
+
+Even so, the portents are grim. War is surely returning to the Freljord, and none can hope to escape it.
+
+AsheAniviaAuroraBraumGnarGragasLissandraNunuOlafOrnnSejuaniTrundleTryndamereUdyrVolibear
+
+Aatrox is a Darkin that murdered  Tryndamere's clan.
+
+Brand was once a magically gifted Freljordian apprentice of  Ryze named Kegan Rodhe. He betrayed Ryze and tried to take a World Rune for himself, which led to him becoming the entity now known as Brand.
+
+Darius' son Decius died in a Noxian campaign in the Freljord. Darius himself was also captured by the Winter's Claw during an earlier campaign—having escaped, he is now leading campaigns against them.
+
+Ezreal travelled to Freljord in his expeditions.
+
+Ivern is an ancient Freljordian warrior who was transformed into the Green-Father by the God-Willow in Ionia.
+
+Lee Sin took  Udyr to the Hirana Monastery to find peace.
+
+Ryze is searching for World Runes in the Freljord.
+
+Sylas is roaming the Freljord looking for allies and power he can use for his revolution back in Demacia.
+
+Taliyah went to the Freljord to finish her training and find a way back to Shurima, as suggested by  Yasuo.
+
+Vayne went to the Freljord during her training.
+
+Vel'Koz has travelled over Freljord and lays an eye on the Howling Abyss.
+
+Yuumi helped  Braum during her travels in the Freljord.
+
+Main article: The Relentless Storm
+
+Main article: The Fire Below the Mountain
+
+Main article: The Lost Tales of Ornn
+
+Long before the arrival of the mortal races, the demi-gods manifested from supernatural forces and formed the land they called  Vorrijaard. While the truth about how they did it remains unclear, many tales have been passed down over generations.
+
+In the days of the first tribes, wild magic ran rampant. The demi-gods were widely venerated and worshipped. A long-lost populace was known as the Hearthblood, apprentices who journeyed from all corners of Valoran, and gathered on the slopes of Hearth-Home to learn from  Ornn, demi-god of the forge. Despite this imitative form of worship,  Ornn never considered himself their patron. He would only give them curt nods or frowns when they offered up their work, and yet the Hearthblood accepted this and were determined to hone their skills. As a result, they came to create the finest tools, design the sturdiest structures, and brew the tastiest ales the world had ever beheld. They believed  Ornn secretly approved of their perseverance, and the fact that they were always looking to better themselves in their craft. Meanwhile, great wars were waged, and the  Volibear, demi-god of destruction, strength, and the storm, took to the field alongside his followers, clad in rune-inscribed armor made by his brother  Ornn. At the time, the brothers' bond was strong—they often fought at each other's side, even though  Ornn never had quite the same lust for battle. The  Volibear reveled in hard-fought victories, and as ever more blood offerings were made to him, his power swelled.
+
+In time, they drifted apart, each focusing on their own pursuits. Even so, there was no true division between them...until new ideas began to usurp the old beliefs.
+
+In a time long forgotten, before the sands birthed and then swallowed  Shurima, beings of old magic freely walked Runeterra. The borders between the mortal realm and what lay beyond it were hotly contested.
+
+Into this dangerous and volatile age,  Lissandra and her sisters, Serylda and Avarosa, were born. Three sisters rose to power, seeking to control and impose order on the Freljord, and the demi-gods could not agree on how to proceed. A few, like  Anivia, seemed inclined to work with the sisters, while the  Volibear and the Iron Boar wanted to destroy them. Others would have been content to ignore them completely, since these feeble creatures would eventually die like all before them.
+
+The Volibear looked to the most animalistic and savage of his followers, known as the Ursine. With them, he would defeat the three sisters. In preparation, he sought out Ornn to arm his warriors for battle.
+
+But  Ornn refused. He did not approve of the Ursine's savage ways, and a terrible fight erupted between the two demi-gods. The resultant cataclysm was a storm of fire and ash and lightning so intensely violent that it was seen ten horizons away. In the aftermath, the Volibear cursed his brother's name, and cast off his rune-inscribed armor. He would then fight with only tooth, claw, might, and thunder. Far from becoming weakened, the  Volibear now found his true power fully unleashed. When the dust settled, Hearth-Home was a smoldering caldera, and the Hearthblood were reduced to scattered bones and cinders. Though he would never admit it,  Ornn was devastated. Through the Hearthblood he had glimpsed the sweeping potential of mortal life, only to see it all lost beneath the indiscriminate wrath of his immortal struggle. Wracked with guilt, he retreated to the isolation of his foundry, and buried himself in his work for an age.
+
+With newfound rage, the  Volibear confronted  one of the mortal sisters who sought to steal the power of the demi-gods for herself. Before her entire army, he struck her down, blinding her—but he was unable to stop what she had already set in motion.
+
+Each of the three sisters paid a terrible price for the power they sought. Attempting to command the heavens above them, Serylda lost her voice to  the first twilight. Avarosa faced the twisting dark beneath the world, and was deafened by its emptiness, waiting to consume all creation.  Lissandra was blinded by the  Volibear himself.
+
+Though each sister had lost a part of themselves, it was on the frozen fields of Lissandra's many battles that they were able to unite and prevail. Together, they were unstoppable...but even a bond of blood could only weather so much.
+
+With her sight taken, Lissandra chose instead to walk in dreams. As she navigated the fitful visions of those around her, she realized only she could see the darkness below for what it was: the lingering abyss which promised not only an ending, but infinity. It was death, both dangerous and full of potential. Unknown to her sisters, Lissandra struck a deal on their behalf with the god-like entities she had communed with—the Watchers would grant them near-immortality in exchange for preparing Runeterra for the coming of the Void.
+
+The three sisters and their most powerful followers were named Iceborn. Those with this ability to withstand the worst of the numbing frost would be spared until the very end.
+
+Main article: Legend of the Frozen Watchers
+
+Avarosa argued that the only thing worse than death was servitude. Even Serylda bristled against what would become of the world they had fought so hard for. Caught in the middle, Lissandra tried to soothe her sisters' concerns while appealing to the Watchers for more time, but the unknowable nothingness cared not for such platitudes.
+
+On a fateful day, Avarosa's and Serylda's Iceborn hordes marched into the mountains to face  Lissandra before the walls of her own fortress. At the height of this bitter confrontation, the Watchers finally came to Runeterra and showed what they truly were. In that moment,  Lissandra's only choices were to let all the world be consumed, or to give up what she cared for most—Lissandra chose to sacrifice her sisters and the allies they had gathered, entombing the Watchers beneath a glacial barrier of magical ice that could never be melted.
+
+Lissandra soon discovered that even this elemental power was not enough. The monstrous beings she had frozen were merely slumbering, slowly tainting the True Ice around them into something darker. Now, they wandered through Lissandra's dreams as easily as she had theirs, and always she would wake, terrified, professing her loyalty to the chilling eternity they promised.
+
+Main article: Ice Witch     Lissandra in the Howling Abyss
+
+Ever the survivor, she gathered her remaining followers to venerate her and her departed sisters. If True Ice would delay the inevitable end of all things, then they had to gather as much of it as they could find, and scour the frozen lands for any of Iceborn descent to join their cause.
+
+Lissandra and the first among her Frostguard did everything in their power to rewrite history, seizing all records of what had truly happened...and yet, rumors and prophecies persisted in both myth and song. It was whispered that Avarosa and Serylda would one day return to unite the disparate tribes, and so Lissandra had any of those hailed as their reincarnations quietly killed. Even she retreated into the shadows, periodically renewing herself with the powers she had been gifted.
+
+Main article: The Feats of Braum     Braum, the Heart of the Freljord
+
+Even as a child,  Braum was much larger than other Freljordian youngsters, but his mother taught him never to use his size to intimidate or bully. She came from a proud line of herders, and believed true courage lay in using one's power not to dominate, but to protect those in need.
+
+When Braum was still a boy, ice giants devastated a neighboring tribe. That tribe had long preyed upon the herds of Braum's people, but his mother didn't hesitate to head out across the tundra to help the survivors, bearing furs, foodstuffs, and healing supplies. At first, Braum didn't understand why she would aid their rivals—but after her actions saved many lives, they became lifelong allies. He finally understood what his mother meant when she said all the Freljord's people were a family, and from that day forth, he pledged to bring that family together.
+
+As Braum grew, it was clear he was one of the revered Iceborn, though even among their number, his strength and ability to endure the elements were legendary. He became a local hero, rescuing children who had slipped into icy ravines, saving travelers stranded in blizzards, and protecting families from ravaging wildclaws. Whenever he appeared, people knew help had arrived. He was a figure of hope, known for his liveliness and laughter, and the easy way he made friends.
+
+Eventually, Braum realized he was needed beyond the valleys and tundra where he'd been raised. Bidding his mother a tearful farewell, he set out to travel the Freljord.
+
+Over the years, countless stories spread of Braum's mighty feats and good deeds. While most had at least a kernel of truth, they grew increasingly far-fetched and mythic—such as the legend of how he chopped down an entire forest in a single night using only his bare hands, or how during a volcanic eruption, he saved an isolated farmstead by picking it up and carrying it to higher ground.
+
+One of the oldest tribes in the Freljord, the  Avarosan Tribe, lead by their leader Grena, set out on a dangerous quest for the truth behind an ancient myth of Avarosa's Throne. During that time, a young  Ashe was training to become the future leader of the tribe.
+
+The Journey took them deep into hostile territory of the Ice Children, where the Avarosan Frost Priest Maalcrom and the Hearthbound ultimately turned back. Grena,  Ashe, and their Bloodsworn braved the punishing climate. After days of trekking, the Iceborn are ambushed at their camp by the Draklorn.
+
+Grena and the other Bloodsworn such as Yrael, Rorn, Grimshall, and Logren sacrificed themselves so that Ashe and the other tribesman could escape, but not before Grena entrusted Ashe with a map marking the possible location of Avarosa's Throne.
+
+After traveling unforgiving ice cliffs for days, Ashe reached the edge of her mother's maps: Ghulfrost. Though Grena expected to find Avarosa's Throne, a hall and hoard of treasure, Ashe found merely an unmarked cairn in the snow...only to discover a legendary bow made entirely of True Ice buried in the rocks. With this bow, she ultimately slayed any Draklorn Frostguard servant, including Maalcrom, who was disguised as their leader.
+
+After discovering her tribe was dead, Ashe found  Sejuani and together, they killed a grellfeen. They reunited after five years apart. They escaped after being chased by a group of Ursine.
+
+Ashe and Sejuani traveled on boat for days before reaching the  Winter's Claw. Sejuani welcomed Ashe into her tribe, becoming Battlesisters, but the other tribesmen such as the Frost Priests and her mother Kalkia refused to accept her as one of them.
+
+Attempting to challenge her mother's rule, Sejuani staged an attack on the Ebrataal tribe allied with Winter's Claw, which was weak and had no Iceborn amongst them. Founding out the true nature of this attack, Ashe refused to go further with Sejuani's plan and stood to protect the assaulted tribesmen, vowing to take them away across the Ice Sea. Enraged by Ashe's decision, Sejuani and the other Winter's Claw allied with her left the Ebrataal tribe, branding Ashe as a traitor.
+
+Ashe took the Ebrataal tribe upon herself and renamed them to the  Avarosan, after the tribe her mother once led.
+
+Main article: Winter's Wrath     Sejuani, the Winter's Wrath
+
+After being abandoned by Ashe, Sejuani swore a sacred oath to lead a raid against a Noxian warship, hoping that fulfilling this oath would be enough to rally the tribe to her and earn enough support to wrest power from Kalkia and the Frost Priests.
+
+During the assault, Sejuani freed a juvenile  drüvask from the ship's butchery stores, naming it Bristel. This creature would grow to become one of the largest drüvasks ever seen, and remained with Sejuani as her loyal steed.
+
+Her raid a success, Sejuani decided it was time to challenge her mother directly for the tribe. By the ancient customs, a duel between a mother and her daughter was unthinkable—but Sejuani would not be deterred.
+
+Outraged, the Frost Priests were forced to intervene, and Kalkia died in the struggle before Sejuani could reach her.
+
+As the new Warmother of the Winter's Claw, Sejuani began attacking and absorbing nearby tribes, consolidating her power and gathering a veritable horde of outcast shamans, spirit walkers, Iceborn and Stormborn, and Old Gods worshippers attracted to her defiance of the Frostguard.
+
+In only a few years the Winter's Claw had become feared throughout the northlands for their speed, brutality, and absolute devotion to their Warmother, marching on the southern tribes, Noxian interlopers, and even the borderlands of Demacia—raiding, pillaging, and conquering any who stand against Sejuani.
+
+Main article: Barbarian King     Tryndamere, the Barbarian King  After his clan was nearly wiped out by the Darkin  Aatrox, Tryndamere and the remnants of his clan arrived in the Avarosan capital. The warrior threw himself into every dueling ring he could find to show his clan's worth, and win them the Avarosan leader's protection so that he could return to thoughts of revenge against the dark creature.
+
+But even as every duel was won, his singular fury was deeply unsettling, and his rapid healing between bouts was also noted—the more Tryndamere gave in to his rage, the more quickly his body healed. Many suspected he and his clan practiced strange and unnatural magics, and so Tryndamere's plan was now endangering the wider acceptance of his people.
+
+During one duel, he was so lost in his fury that it seemed certain he would kill his opponent, despite having already won. It was then that  Braum planted himself in front of the downed fighter, shield raised, and Tryndamere hacked against the impenetrable bulwark. When his rage finally subsided, Braum's good humor won him over, and before long the pair were laughing and drinking to each other's health. Some even say that it was Braum who first introduced Tryndamere to Ashe, the Avarosan Warmother.
+
+Ashe, looking to strengthen her position with a political marriage, aimed to find someone who could face down the endless challengers for her hand, and for her rule. Seeing an opportunity in the barbarian, she pledged to take in his clan as Avarosans, if Tryndamere became her first and only bloodsworn.
+
+Tryndamere accepted reluctantly. As he spent more time in Ashe's company, he began to believe that she was indeed the divine reincarnation of Avarosa herself. His rage found temperance in her thoughtful leadership. Though a political marriage, the attraction they felt for each other slowly blossomed into a true affection.
+
+Even so, while serving as Ashe's champion, Tryndamere now looks to an uncertain future. The barbarian king can see war brewing all too clearly on the Freljord's horizon, yet he still thirsts for his own personal vengeance, and begins to wonder if his predestined fate might not be at his queen's side after all...
+
+Some of the ancient demi-gods appear to have taken physical form once more, their cults of followers growing restless and aggressive. The Freljord itself is fractured and leaderless, and ancient horrors are lurking in the shadows, waiting for any opportunity to strike...
+
+Freljord is located in the Northest part of Valoran bordering Demacia and Noxus. The currently well known locations encompassing Freljord are:
+
+Ruined Fortress Of The IcebornVaults Of The IcebornIce-Troll LandsGhulfrost 1Ghulfrost 2Ornnkaal Rocks 1Ornnkaal Rocks 2QucharVathcaer 1Vathcaer 2Vathcaer 3Yadulsk 1Yadulsk 2Yeti's VigilThe Harder Path1/15
+
+Other known locations in north Freljord are:
+
+Ridgeback Mountains: Vast mountain range that stretches across the entire northern half of the Freljord.
+
+Frost-Troll Village: It is located on the Ridgeback Mountains of northern Freljord. It is the main settlement of the Frost-Trolls, currently ruled by  Trundle.
+
+Frosthorn Peak: East peaks of the Ridgeback Mountains. Connects the Frostguard Citadel with the rest of the Freljord.
+
+Fortress of the Iceborn: The ruined Fortress of the Iceborn houses a great vault full of ancient artifacts and fallen warriors.
+
+Ghulfrost: Located on top of the ice cliffs of the Ridgeback Mountains, Ghulfrost is an unmarked cairn in the snow where  Ashe discover a legendary bow made entirely of True Ice buried in the rocks.
+
+Ice Children Village: A farming village. Settlement of herders and warriors, rivals of the Avarosan tribe.
+
+Ornnkaal Rocks: A coastal pilgrimage site visited by Sejuani and Ashe's tribes during the summers of their youth, with plentiful fishing and many fields for grazing animals.
+
+Quchar: Home of the Ebrataal, a magic-less community who were the first to follow Ashe as the leader of the Avarosan tribe.
+
+Vathcaer: An Avarosan settlement. It is the village where  Ashe grew up, previously controlled by her mother Grena.
+
+Yadulsk: Winter's Claw village where Sejuani's mother Kalkia temporarily settled the tribe during her rule. Traditionally, Winter's Claw tribes relocate every winter, rebuilding their villages out of their ships and scavenged materials.
+
+Yeti's Vigil: Ruins of the lost yeti civilization. Where dreams swirl in snow, an unlikely friendship was born. This is the location where  Nunu met and befriended  Willump.
+
+Ursine Lands: It is a land that can be found just above northern Freljord, being separated from the rest of Valoran by the Ice Sea. This is where the demigod  Volibear has staked out territory via his followers, the Ursine. It is probably located at or near the North Pole of Runeterra.
+
+Warded Gateway to The Howling AbyssFrozen Caverns Of The Howling AbyssHolding Back The DarknessBridge of The LostEyes In The AbyssHall of The NineFrostguard CitadelFrostguard CitadelFrostguard CitadelFrostguard CitadelDomain Of The Ice WitchThe Frostguard Citadel Map1/12
+
+Other known locations in east Freljord are: Valley of Spines, Mourncrow Village, etc.
+
+Broken Mountain: is a mountain located in the southeastern part of the Freljord.
+
+Hearth-Home: Once a great settlement of smiths and craftsman inspired by its patron  Ornn, it was later unintentionally destroyed when the demigod encountered and fought  Volibear. Rebuilt by  Ornn, he has remained secluded and isolated from the rest of the Freljord after the destruction of the first Hearth-Home.
+
+Winterspike: A region located in southeastern Freljord, south to the Broken Mountain.
+
+Warded Gateway: Frozen cavern system leading towards Frostguard settlements.
+
+Foundling Village: In the shadow of their great Citadel, the Frostguard shelter children orphaned by the cold. This is where  Nunu was placed after he got separated from his mother when bandits attacked his tribe.
+
+Howling Abyss: It serves as the massive chasm prison of the Watchers. The Howling Abyss was the location of the last battle that sealed the Watchers several millennia ago.
+
+Bridges of the Iceborn: There are numerous bridges spanning the abyss, such as the Bridge of Sorrows, Bridge of Shadow, and Bridge of the Lost. At its lower ends True Ice and its variants Dark Ice can be found.
+
+Spiked Barricades: At key points throughout the Howling Abyss, gigantic spiked barricades of stone and iron were set into the walls by the Frostguard, many thousands of years ago. One day, when the Watchers reawaken, these meager defenses may buy some precious time for those above to prepare for the final battle.
+
+The Hall of the Nine, located there and constructed by the  Yeti, serves as the protective barrier that seals the Watchers. Every year, several Frostguard climb down its icey walls to get to the Hall of the Nine in order to inspect the barriers state.
+
+Frostguard Citadel: Located in north-eastern part of Freljord, the Frostguard Citadel is an ancient stronghold built to watch over the dark chasm of the Howling Abyss, the Citadel also houses many of the Freljord's hidden treasures and historical records. It serves as  Lissandra and her Frostguard's seat of power and holy pilgrimate site. This is where  Nunu found out about the yeti later named  Willump. It is only accessible by the Bridge of Sorrows above the Howling Abyss.
+
+Vaulted Audience Chamber: In the deepest halls of the Frostguard Citadel, Lissandra spends most of her waking hours in this grand, vaulted audience chamber. It is from here that she delivers her chilling sermons, hears the reports of her priests...and passes judgment on the fate of heretics among the tribes they serve.
+
+Pilgrim Site of RakelstakeStatue of Avarosa1/2
+
+Other known locations in south Freljord are: Anivia's nest, etc.
+
+Ironspike Mountains: They are a relatively small mountain range located in the southeast. Noxus has territory here, in the Delverhold.
+
+Naljaäg: A simple milling settlement beneath a waterfall. Its original name has been lost to stone. It was cursed until  Nunu and  Willump cleansed the area.
+
+Rakelstake: Located in south Freljord, Rakelstake was once a village where the Tribe of the Ice Dervish lived. Now it serves as a pilgrimage site for the Avarosans. A statue of Avarosa guards the entrance to the pilgrimage site. This is where  Ashe and  Tryndamere were oathbound.
+
+Da'arvongGlaserportRygann's ReachValar's HollowVoidborn Glacial Prison1/5
+
+Da'arvong: A settlement that was near the coastal shores. While defending her tribe from a brutal attack, a young warmother entrusted  Braum with the safety of her infant child from  Lissandra's  Frostguard.
+
+Lokfar: A western peninsula that is home to  Olaf and his tribe.
+
+Frostheld: Situated within a glacial harbor in south-west Freljord, this city served as the former capital of the Avarosan tribes until it was burnt down by a Demacian fleet, led by Rodian of the Dauntless Vanguard.
+
+Glaserport: A settlement located on the Lokfar peninsula in western Freljord. Glaserport has an ice locked harbor where Freljordians chain their wolfships during the harsh winters, the natural harbor providing shelter from ice and snow. The majority of those wolf-ships are in the possession of the Winter's Claw.
+
+Rygann's Reach: Rumored to have been cursed by an evil mage and her  son, the settlement that once stood here was burned to the ground many centuries ago.
+
+Valar's Hollow: A Trader settlement. For countless generations, merchants and traders would gather here throughout the winter months, before venturing into the icy north.
+
+They Who EndureShe Who WandersIt That Stares1/3
+
+Balestriders, also known as the Wanderers, are a Freljoridan legend. A dark omen, these giant beasts are said to roam the Arctic areas around the north of the Freljord. Having body shapes similar to giraffes, their striking features are their giant True Ice like horns, their cycloptic blue glowing eyes, and humanoid arm like protrusions scattered across their bodies like fur. Depictions of these creatures can be seen on the numerous bridges of the Howling Abyss.  Bjerg the Wanderer was the only traveler that believes he has sighted these creatures in recent memory, though his experience has left him babbling and insane. According to  Anivia, they are her "strange enemies" who have dark, corrupting magic from the past.
+
+Drüvask RiderSejuani on a Drüvask known as Bristle1/2
+
+Drüvask are giant war-hogs of the Freljord. While they have dark wiry hair covering their pronounced musculature, their fur is mostly white to better adapt to the Freljords snowy environment. Young juvenile drüvask are used for their meat, but if trained and left to mature to adulthood they can be used as battle mounts. One such drüvask is  Bristle,  Sejuani's mount. An adult drüvask is large enough to handle an adult Iceborn. They resemble a wart-hog mixed with a hairy rhinoceros, with horn-like tusks protruding from the cheekbones and upper jaw, able to ram and impale grounded enemies. Their bodies are able to withstand true ice, as Bristle has several true ice pieces placed on his shoulders which enable the drüvask to perform small amounts of true ice magic.
+
+Troop of Elnüks 1Troop of Elnüks 2Bull Elnük known as "Old Uncle Elnük"Avarosan Elnük RidersFreljordian Grain1/5
+
+The Elnüks are large shaggy buffalo like quadrupedal mammalian herbivores.[3] Unique to the lands of the Freljord. Elnük usually live in large groups known as troops. Shepherds herd their troop to graze on the slopes during the hotter seasons. They have thick fur coats that can come in various shades of brown and white. These coats are sheared and woven into warm clothing and other textiles by the Freljordians. Beside their thick coats, the Elnüks are usually a primary source of meat well as the main currency of many tribes. They are also used for riding. Young Elnük have small fuzzy coats and the beginnings of what would later be their horns and tusks when they reach adulthood. Adult Male Elnük, or bulls, have large swirling horns and curved tusks, while adult female Elnük are only have tusks.
+
+A type of grain native to Freljord. While the grain milk is a popular adulterant in Noxus, its also used for creating ale and beer.
+
+Krugs are magical fusion of flora, fauna, and rock native to Valoran. Despite its rock like appearance, its behavior is very much of an animal reminiscent of a bear, wolf, or a bettle. The creature is powered by nature magic. Larger forms of this creature are called  Ancient Krugs.
+
+Mammoths are giant mammalian herbivores of the Freljord. They are commonly equipped with long, curved tusks, large trunks, and a covering of long hair. While mammoths are sometimes hunted for their meat and bones, most freljordians warriors start taming them when they are young and ride them as battle mounts. Mammoth riders are well respected and feared, due to their mounts size and deadliness. Mammoths can also be used to move large amount of cargo, as well as ships on smooth icey terrain.
+
+Poros are an are the mysterious, magical, and most-loved creatures originating from the Howling Abyss. Poros are equal parts truth, valor, and innocence. The colour of their fur is described as “very light blue, like  Freljordian snow”. They have a heart-shaped underbelly because they're made of love. A poro's horns perk up when it's excited and droop down when it's scared. Poros paddle through deep snow with their front paws. Some believe that poros are indestructible. Poros stick their tongue out because they are incredibly warm. This is why they can survive the harsh cold environment of the Howling Abyss.  Poro-Snax are frosted with Freljordian ice crystals and are a favourite treat of this creature. The leader of the Poros is known as the  Poro King.
+
+Raptors are an avian species native to Valoran and Ionia. While incapable of flight, they have large strong back legs and large front teeth used for hunting. This species tents to its young until they can fend for themselves against larger predators. When born their feathers are the predominantly blue-greenish color, once they mature their obtain the  Crimson Raptor look. Their feathers are used for making  cloaks. It is said that killing a Crimson Raptor with the spell of Smite grants unto the victor the keen senses of the beast, allowing them to see unseen threats.
+
+Grey Wolf and a White HareRimefang WolfAlpha WildclawWinter's Claw Wildclaw Rider, Scarthane Steffen1/4
+
+There are many types of wolves in that live in the Freljord.
+
+Typical wolves found in the Freljord are the grey wolves. They usually hunt hares or other smaller animals.
+
+A type of wolves that live in the northern parts of the Freljord. The distinct feature of these wolves is their white fur that's frozen over by ice and their glowing blue eyes. These carnivores hunt any stragglers in the harsh winter climate.
+
+Wildclaws are a type of large carnivorous felines that live in the Freljord. While they share common traits with other larger felines, their unique feature is their additional pare of front legs. Alpha Wildclaws are considered to have the power of a warhorse and the thoughtless savagery of a cat. While the animals live in wild packs some wildclaws can be trained and rode as mounts.
+
+Enranged YetiAncient YetiIce YetiYeti YearlingYeti known as Willump with human boy named Nunu.Tryndamere fighting Frostguard Yeti 1Tryndamere fighting Frostguard Yeti 2A Yeti behind an Avarosan Trapper1/8
+
+Ancient and noble civilization-builders, the Yeti inhabit the Freljord. There are a race that once lived in harmony with other creatures, like the Yordles. Their intelligence and wisdom were utterly connected to their magic. However,  Lissandra unleashed an icy cataclysm which decimated the Yeti civilization and robbed the Yeti of their magic, resulting in most Yeti descending into  savagery. While peaceful in nature, most yeti are protective of their own kind and can use violence if necessary for defence.  Willump greatly differs from his yeti counterparts both in appearance and magical prowess. He was the only one that remained faithfully and zealously guarding the little that remained of the yeti magic, a gem  that swirled with the frozen dreams of any mortal mind nearby. Though his task meant he had to find a worthy vessel for the remaining magic, the humans who came to his lair had only malice and greed in their hearts. Until one day,  a small boy gave Willump what he truly needed, a friend. Giving the remaining magic to the boy, the Yeti and his newfound friend departed, searching to become heroes.
+
+Grellfeen are giant frost-like serpents originating from the northern icey salt waters of the Freljord, specifically the Ice Sea area near the Ursine Lands. They have a row sword sharp teeth used for ripping of flesh. Like the frost serpents, they have a thick sharp hide that enables them to survive low temperatures. Unlike their relatives, the grellfeen can grow to an enormous size, being able to rap its entire limbless body around a Freljordian ship. They have large bloodshot eyes and front nostrils. The Ursine usually hunt these animals for sport and food, although some tribes have also been seen hunting them when times are desperate. Their meat can be carved into large chunks and transported by boat to the coast.
+
+Scuttler Crabs or Rift Scuttlers live in the fresh waters of Valoran, Shurima and can be found near the docks of Bilgewater. They are small green-shelled crustaceans with 3 pairs of legs and one pair of front claws. They sometimes bury themselves into the muck of the river to avoid predators and are known to either avoid or flee from dangers. To confer peaceful resolution (hence the elusive pacifist nickname) to the force that subdues it, it will grant them a boon: a persistent field around it that grants vision and magical speed to the aggressor and its allies. If corrupted by The Void, a Rift Scuttler turns into a  Rift Herald.
+
+A Wolfseal is a shaggy, sea-lion-like creature with an elongated snout native to the Ice Sea of the Freljord.
+
+GeneralLanguagesObjectsMythosFestivals
+
+The Freljordians are an ever divided people. Tribes fighting for dominance for what little resources they can find. As a result, Freljordians deeply value battle, battle kins and battle scars, which are known as a sign of strength, courage and battle experience. A person can only have a fulfilling death with the eyes open. Throughout the nations history, the only known instance of its people uniting was at the time of the "Three Sisters" known as Avarosa, Serylda, and Lissandra. During that time, the three sisters and their closest human allies received immortality from the Watcher and became known as Iceborn (the word's meaning changed over time, as some of the original Iceborn didn't fit in the current meaning of the word, even though most, including the Three Sisters, did). With the Watchers defeated, most of Freljord's history was rewritten, the truth kept secret by the Frostguard and their nearly immortal ruler. However, some truths lingered on for millennia as legends and tales, pass down by storytellers and bards.
+
+While the nation is comprised of numerous tribes, the largest among these are the Avarosan, the Winter's Claw, and the Frostguard. The tribes are ruled by the three respective Matriarchs:  Ashe, the Frost Archer;  Sejuani, Fury of the North; and  Lissandra, the Ice Witch.
+
+As shown in The Shackles of Belief, the current language of at least a small number of regions and tribes of Freljord is different from that of southerner land like Demacia and Noxus, to the point their words make no sense to each other.
+
+The Ancient Freljordian language is among the oldest attested human languages on Runeterra; traces of some other pre-Freljordian adstrate languages can still be detected in names like  Anivia (Latin-based?),  Ivern (Celtic-based),  Lissandra (Greek-based),  Ornn,  Volibear, &  Sejuani (unknown).
+
+Ancient Freljordian vocabulary:Mostly (Old Norse-based, with English cognates in italics; "pre-Freljordian" vocabularies are constructed)
+
+Belyser - **Belixes "illuminates, belights, belies".
+
+Bliver - B(e)lives, "remains > becomes".
+
+Du - Thou "ye ~ you" (nominative).
+
+Din - Thine~Thy "your(s)" (possessive).
+
+Fjerner - **Far (v.) "distance, withdraw, remove, bar".
+
+Guddommelig - **Goddomly "godly, divine".
+
+Hirnvel = Organic things of the natural world.
+
+Ik - One-what > "no" (see Jespersen's Cycle on how indefinite particles become negatives).
+
+Kraft - Craft, in context "force".
+
+Naljaäg - Pre-Freldjordian, meaning forgotten
+
+Ornn - (pre-Freljordian theonym, meaning unknown).
+
+Rund(t) - (a)round in context, "through[out]".
+
+Smedning - Smithening "forging".
+
+Snekkja - **Snaky "Thin and Projecting"; A word used for a type of ship based on the smallest type of Viking longships used in warfare.
+
+Som - Some, in context "as, like".
+
+Syng(e) - Sing. (both verb & noun from one same root sengʷʰ-)
+
+Tapt - **Tapped "sacrificed > lost"[4](more here)
+
+Tvers - Thwart (adv.) "across".
+
+Uhindret - Unhindered "unbridled".
+
+Utands - Outondes "breathes out, exhales".
+
+Valhir - "god". ON *Valhyrr? "fire of the slain" Cf. Valhalla "hall of the slain"
+
+Vol dusk skaar "last chance to run" Pre-Freljordian
+
+Vol kau fera "cower before me" Pre-Freljordian
+
+Vrestrom "Great Storm, hurricane-like"
+
+The Freljordians use "summer" to count years. It is also used to express the age of a person. For example: “The child was two summers, but as small and frail as one on its first spring.”
+
+Over the course of its history, Freljordians have created their own terms and slang:
+
+Battlemaiden - A young woman who serves as a sworn retainer to a senior female warrior. This service generally lasts until the young woman comes of age or otherwise proves herself as worthy, at which time she may be named as Battlesister. Implies niece, daughter or ward type of relationship.
+
+Battlesister - A woman who has a sworn blood oath with a Warmother or another senior female warrior. This title commonly denotes a relationship rather than rank, but implies rank by association, and is typically bestowed on very high-ranking thanes.
+
+Blood oath - The ritual performed by the sharing of blood between two people, thus naming them as part of their kin or family. Examples of blood oaths are Battlesister and Bloodsworn.
+
+Bloodsworn - The sworn “husbands” or "wives" of a Warmother, usually the toughest warriors of the tribe. Their loyalty is to her and her children above all else.
+
+Clawleader - Referring to the member of Winter's Claw commanding a raid.
+
+Death Knot - Refers to tying your hair with a wolf gut cord in a particular pattern. Indicating you will complete a task even if it kills you. Symbolic of facing the  Wolf for a task or a person.
+
+Frost Priest - A healer and follower of Lissandra who serves and monitors the tribes on her behalf. Their oath is to and only to, the faith of endless cold and Lissandra. They have the ability to smell whenever someone lies. Black Cloak & Black Clads are common slang terms for Frost Priests.
+
+Heartbound - Human inhabitants of the Freljord. Unable to Survive the same extremes as the Iceborn. They make up the majority of the population. The Term sometimes is used by Iceborn as a slur or insult.
+
+Oath - Ritual specifically mentioned as marriage.
+
+Oathbound - The link of obligation between two people that have a relationship where oaths were sworn. Such a relationship could be, for example, the one between an Oathfather and their Oathchildren.
+
+Oathbreaking - Disrespecting a sacred treaty between two tribes.
+
+Oathfather - Interchangeably describes a father or step-father, roles Freljordians don't typically distinguish between. Any man who has sworn his life to protect a mother and her children is considered an Oathfather.
+
+Retainer - Person responsible for legitimizing and elevating someone's status to their charge. An example would be Sejuani to Ashe if they had made a blood oath in front of The Winter's Claw.
+
+Scarthane - A high-level retainer to a Warmother, commanding a large group of warriors. Scar reflects you've earned your rank in battle, and are trusted to lead warriors without supervision for long periods. Sometimes the leader of a clan within a tribe.
+
+Svaag - A common slur or insult close to "damn".
+
+Vedmah - A Freljordian oracle or witch who divines through magical means.
+
+Vol - Coarse slang used in Freljord, typically in exclamation, to cast disapproval or disgust for something or someone. Can also be used in outbursts of impatience or anger without an object.
+
+Warmblood - A casual term used by Iceborn to describe normal humans. It is synonymous with hearthbound, but has no negative connotations.
+
+Warmother - The military leader of a freljordian tribe or clan, always a woman and usually an Iceborn. She decides its course of action as well as dictates its ideology.
+
+Over the course of its history, Freljordians have created their own sayings:
+
+Don't step on ice that already cracks - Old saying used by Grena's Avarosans meaning not to rely on something that is faulty to begin with.
+
+Run Volund, Run - Expression used to encourage someone running from danger.
+
+(To die) with your eyes open - Expression meaning “To die a good death”. It celebrates fighting fearlessly and tenaciously to the very end, especially in the face of certain odds.
+
+The ice is not pain, It is surrender - Lissandra's prayer that Frost Priests go by.
+
+The strong must try the impossible - Words uttered by Sejuani that were later used by Ashe as one of the foundations for her ideology.
+
+Freljordian Home 1Freljordian Home 2Freljordian VillageVaults Of The IcebornRuined Fortress Of The IcebornFreljordian Architecture 1Freljordian Architecture 2Mortis Stones1/8
+
+If there was a word that would best describe Freljordian architecture, it would be enduring. Freljordian houses are built to withstand harsh winters. Most tribal homes have roofs that connect directly with the ground. From simple huts, to lavish long houses, modern Freljordian architecture uses variety of wood and stone material. Ancient Freljordian architecture was built of stone and other magical objects such as runes or true ice.
+
+Mortis Stones: These sleek daggers of frozen granite, over a hundred feet in length, are weapons of last resort when a Watcher stirs from its slumber. The Frostguard have not needed to drop even a single stone in many centuries... but they stand ready to do so, whenever the alarm is raised.
+
+People Of The Tribes 1People Of The Tribes 2The DraklornTake Whatever You NeedWarrior 1Warrior 2Notai Tribeswoman and her sonAvarosaLissandraYoung AsheHelnrGrenaMaalcrom 1Maalcrom 2Story HuntersBaby Clothing 1Baby Clothing 2Baby Clothing 3Kindly TavernkeeperBabbling BjergPoro HerderRimetusk ShamanTarkaz the Tribeless1/23
+
+Freljordian clothing is mostly made to withstand the harsh environments of the land. Warriors are mostly clad in armor and leather, other bare chested to show off their hardiness to the cold. Freljordian tattoos are designed simplistic geometric patterns and mostly worn by warriors as a symbol of strength.
+
+All Freljordians wear some level of fur or insulated fabric. Iceborn and their descendants are able to withstand lower temperatures so some of them can be seen wearing very little or no insulating fabrics.
+
+Raider Garments: The Winter's Claw rarely let anything go to waste. Their weapons might be steel looted from fallen enemies, or nothing more than sharpened wood and knapped flint. Thick fabrics and animal pelts give protection against the cold—adorned with the bones, tusks, and horns of their most prized kills.
+
+Tribal WeaponryTrue IceDark IceBraum's Shield (Ornn's Door)Trundle's "Boneshiver"Wyrdin Stones1/6
+
+Tribal Weaponry: The blades and bows used by the tribes are fashioned from wood, steel, and bone, and in the rarest cases may also incorporate True Ice.
+
+True Ice is a natural phenomenon that exists only in the coldest depths of the Freljord. A magical matter so cold it can never melt under normal circumstances. Melting of true ice is extremely rare without powerful fire magic. True ice can be, cut, shaped and sculpted-- but not easily and few have the skills and tools to do the work anymore. Master smiths, those few men that are favored by  Ornn, have managed to craft this strange substance into powerful weapons and armor. Only Iceborn warriors can stand its freezing touch, and may wield it in battle. It serves as a powerful multiplier for their power. Non-Iceborn may die from the contact with True Ice. True Ice's crystalline structure seemingly can change, owing to in-universe thermochemical processes, producing various allotropes to make different weapons: from Avarosa's elastic bow to Trundle's rigid club; much like real-life carbon, whose two best-known allotropes are the soft graphite and the hard & brittle diamond. It's more common for an Iceborn to attach a tiny shard to a weapon. .
+
+Ashe's bow,  Sejuani's bola and  Trundle's club Boneshiver are made from True Ice.
+
+Axe Joutbane of Hildhur Svarhem, the former Warmother of Snow Followers tribe.
+
+At least part of  Braum's shield is made of True Ice.
+
+Gragas uses True Ice in his brews.
+
+Olaf's axes were tempered with true ice.
+
+True Ice's origin and power may be traced back to  Anivia, as  Sylas can obtain ice power similar to hers from his contact with True Ice.
+
+Dark Ice: The malevolent power of the Watchers and the abyssal realm from which they come has seeped into the True Ice around them, resulting in the creation of Dark Ice. Inky-veined and heavy with elemental power, for the average Freljordians it is known to have better healing and regeneration powers. A person wielding it can even give warmbloods around them better stamina and strength, closer to that of an Iceborn. Though foul beyond mortal description, the ice carries great cultural value for those who know its origin.
+
+Wyrdin Stones: Type of burial groud made by ancient Iceborn of the Freljord. Numerous wyrdin burial grounds are scattered across the land, one of which is located near the Howling Abyss at the sight of an ancient battle where numerous Iceborn lost their lives protecting the world form an all devouring evil.
+
+Lissandra's's proliferated religion. It has its own rules, ranks and orders, which Warmothers can choose to not enforce in their tribes. It's known that those who worship the old gods will not consider the Citadel a sacred place. The Cult of the Three is the shortened formal name of Lissandra's cult.
+
+The Freljordian gods are physical manifestations of supernatural forces in the form of spiritual animals and each were conceived from some transcendental force that bonds them together like siblings. They may have different forms (which may exist simultaneously) across Runeterra and often look differently but still connect to the same source energy.  Tahm Kench may be a form of a Freljordian demigod.[5] However, in Freljord, most of these divine spirits have faded into obscurity over the eons, as the Freljord has dissolved into warring factions and tribal splinters.
+
+Where some legends are still being shared, those stories have been misinterpreted far beyond any recollected truth and many times have fellow Freljordians engaged in brutal conflict over their religious conjecture, from drunken bar brawls to merciless wars. Now the only demi-gods to be remembered have been those few who still actively interact with their worshipers.
+
+Of the Freljordian gods, only  Volibear is known to actively influence their worshippers, though other Spirits that still have certain influence on people are  Ornn,  Anivia, The Seal Sister and The Boar-God. As a great change is coming, some of them are starting to take physical form once more.
+
+Freljordians also believe in the myth of  Kindred, though the visual representation may vary. The Lamb and Wolf is their depiction in southern Freljordian myth. Some northern versions make lamb more baby elnuk like. When a person dies, they are believed to go to the Realm Beyond. Sometimes, when an individual is brought back from physical death, they are blessed with some power of the old gods, such as being immune to the cold like an Iceborn. These individuals are believed to carry the gods' will to the mortal realm.
+
+Main article: The Eye in the Abyss
+
+Resist not cold's embrace, for within it lies truth.
+
+Be as one with the ice, and understanding shall follow.
+
+The ice begs not for mercy, nor offers it.
+
+Fear not pain, nor seek to avoid its blessing.
+
+Without it, there can be no life.
+
+Turn not from pain, for pain is life, and its absence means death.
+
+And when death comes, flinch not from its approach.
+
+From ice we are born, and to ice we return.
+
+This war-hymn of the Ursine appears to be a fragment of the much longer poem 'Ode to Ruin,' dating back to before the War of the Three Sisters. While some of the original words have no direct translation, the intent behind them is abundantly clear...
+
+The sky rumbles deeply, knowing him,
+
+As the thunder calls out “Valhir!”
+
+A memory of ancient and faded glory
+
+Beckon from ages past, ever near
+
+By tooth, and with claw, will return!
+
+Rise now! Together we stand tall!
+
+The ground trembles deeply, awaiting him
+
+The wind howls, carrying the reek of iron,
+
+And earth, starved for centuries, shall soon drink
+
+By tooth, and with claw, will return!
+
+Rise now! Together we stand tall!
+
+Main article: The Path to Hearth-Home
+
+Dark smoke exhales, from the mountain half
+
+And wind blows through hollow dells
+
+Skies clear as day, shall soon turn gray
+
+And you'll know, you're nearing Ornn
+
+Barring your path is a chasm wide
+
+Howls rise from fathomless pits
+
+But close stands a bridge, frozen by time
+
+And across, you'll soon find Ornn
+
+River of fire, that scorches the earth
+
+And steel sings its tone, as a god stands alone
+
+The shaping hand, we know as Ornn
+
+Sparks leap and fly from the star-fallen ore
+
+Bellows erupt, with unbridled force
+
+No longer lost - the Mountainsmith, Ornn
+
+The Harvest Festival is the largest celebration of the year, which happens right before Winter. Freljordians gather around pubs, taverns, and longhouses to celebrate another year of harvest.
+
+The Freljord is mostly structured in a non-hereditary matriarchal fashion. Tribes are led by a warmother; ranks under her may include the following: bloodkin, steelskins, claw leaders, sisters (a rank), icewalkers, thralls, champions (several husbands who are the toughest in the tribe), allied shamans, lost tribe relatives, related clans, and more.
+
+Freljord has become a land of endless conflict since the time of the Three Sisters. Tribal leaders fight for resources, alliances, and territories.
+
+Freljord has a very different view of relationships than the rest of Runeterra. This is mostly due to several reasons: a matriarchal society; a historically migratory and often outright nomadic culture; existence of healing magic (which reduces infant and mother deaths during birth); dangerous climates; starvation; tribal warfare; and extremely horrific creatures could attack at any time.
+
+In exchange for this pledge a freljordian an their family are now a part of that extended network. The oath is also a very public declaration of duty and complicated politically. Because depending on freljordians rank they may have many overlapping commitments, which relate to their social rank within the extended tribe.
+
+For example, a great male warrior might be Oathbound to the tribal chief (a warmother) whom he has no children with, but she might take that man's mate's and his mother's oath as her sisters, thus their children are now under the tribal chief's protection too. However, in that case, his loyalty would be expected to be the warmother and the warmother's children's first. It's possible the warmother might directly adopt this man's children too in order to more directly honor his importance to her clan.
+
+Masculinity then also reflects these themes. Men are supposed to be warriors and protectors in the Freljord. Being "manly" is about jumping into danger, being brave in the face of almost certain death, never hesitating out of fear, charging into battle without concern for your own safety, and ultimately protecting your family at all costs.  Braum being a prime example. His reputation as a protector of his tribe is more important than who he has defeated in battle or what he has conquered, and this makes him extremely desirable and extremely well respected.
+
+All of this ultimately is because mothers and children are considered the most important elements in that society, specially magically gifted ones. A person's future and the future of their clan is unlikely to be determined by owning a castle or farmlands, but it is very likely that having few more children (especially those who are Iceborn, skinwalkers, or other) will make potential warriors/defenders allied with them. Having and raising children there is extremely hard, and children are valued above all other lives, especially children with magical gifts. Sex and sexuality isn't that important-- except when it is designed to have children (and only when the tribe can support having more children). Because of that it became a society completely devoted to formalized family bonds. Instead being a contract about land and property, the Freljordians live under contracts of obligation and family membership. The oath someone gives is a statement of fealty to the safety of the person they oathbouded under and most importantly their children. Multiple wives and/husbands can be understood as alliances against this harsh environment. Taking another woman as sister and sharing your husband can be the best bet for your family's survival. Taking another wife can be the best way protect your children and previous wife's future if you die in battle. You want to be a part of big family and you want prove your worth to that family.
+
+Also, because magic is the most import asset for at tribe and it is most obviously passed along the mother's bloodline. The freljord is matriarchal --so inheritance and lineage is never really in question.
+
+When a tribe lacks a Warmother, it is usually settled between the candidates. Another woman from the tribe will usually step forward. Often as it is blood relatives, this is settled peacefully or with a non-lethal duel. Unhappy members of the tribe might offer themselves to another tribe as kin or thralls. It's not uncommon for a male to lead a tribe if they lack any female magical warriors-- but it's considered a tenuous position, and often a short-term solution. Because you can't be sure he will have magical children. If the male leader is strong (and magical) he will usually look for a strong warmother, or skarthane to pledge his allegiance too-- thus the tribe he is in will become a clan under a larger tribe.
+
+You can have multiple wives too. Marriage in the freljord is about swearing to protect someone's children. Complicated marriages are common. A man might be married to two women (And thus sworn to them and their children) if the two women also made oath to be sisters (two protect each other's children). And one of those women might be married to another man too. etc... It also important to note that marriage is the freljord implies the right to have children together-- but being sworn to someone does not always mean actually ever having sex with them-- its about protecting the people you care about in a harsh land.[6]
+
+On the woman's side, it would be nearly unthinkable and scandalous for a high ranking woman to have an intimate intercourse with someone outside of one of her oathbound (which is not to say they have intimate intercourse with all of their oathbound).[7]
+
+A skarthane is a high level retainer to a Warmother. Scar reflects you've earned your rank in battle, and are trusted to lead warriors without supervision for long periods. Sometimes the leader of a clan within a tribe. Somewhere in the grove to markus level of European traditions.
+
+Vedmah is a role/ability that exists across tribes and factions ( Lissandra has many of them). They are warriors that are also an oracle or seer who divines through magical means.. The nature of their second sight can vary.
+
+A Frostpriest a low ranking member of the Lissandra's cult (roughly equivalent to country friar). Technically they are  Frostguard, but that term is mostly used to describe higher ranking warriors which guard the holy city. They are healers and surveillance tools deployed by  Lissandra to keep watch over every tribe and maintain religious dominance. Their oath is to and only to, the faith of endless cold and Lissandra. They have the ability to smell whenever someone lies. Black Cloak & Black Clads are common slang terms for Frost Priests.
+
+Battlemaiden is a young woman who serves as a sworn retainer to a senior female warrior. This service generally lasts until the young woman comes of age or otherwise proves herself as worthy, at which time she may be named as Battlesister. Implies niece, daughter or ward type of relationship.
+
+Battlesister is a woman who has a sworn blood oath with a Warmother or another senior female warrior. This title commonly denotes a relationship rather than rank, but implies rank by association, and is typically bestowed on very high-ranking thanes.
+
+AvarosaWinter's ClawFrostguardUrsineOther
+
+The  Avarosan are those whom are loyal to  Original Ashe. While others war, Ashe works day and night to establish a single alliance throughout the Freljord. They are an agglomeration of progressive tribes that believe in diplomacy through the teachings of Avarosa. They dwell mostly in the slightly warmer regions, and many settlements under their banner are agrarian. Though Ashe's methods are peaceful, she is still backed by a powerful and committed army. Ashe has many tribes allied with her and several people such as:  Anivia,  Braum,  Gragas, and  Tryndamere.
+
+There are several other tribes who were absorbed or allied with the  Avarosan:
+
+Ebrataal: Originally attacked by Sejuani before she was Warmother. Ashe prevented their killing and accepted them as the first tribe to join her reformed Avarosan tribe. The tribe was originally made up completely of warmbloods.
+
+Ice Veins: Only information about them is that they are now a part of Ashe's tribe.
+
+Red Snow: Coastal tribe to the south-east. This tribe defeated Noxian warbands.
+
+Stonepicks: Formerly lived in the southern mountains.
+
+Snow Followers: Tribe of extreme brutality. Former Warmother was Hildhur Svarhem. Hildhur had a true ice axe called Joutbane as a weapon.
+
+Tryndamere's Barbarians: They were known for their dueling skills. The had a patriarchal system of governance until a large amount of the tribe was decimated. Its former leader,  Tryndamere, is oathbound to  Ashe.
+
+The  Winter's Claw tribe is led by the ferocious  Sejuani. Sejuani wishes to conquer the Freljord through absolute strength. In her eyes, the Freljord is a place where only the strong deserve to prosper. Warlike and traditionalist, they gather food and supplies from the high plains, forests, and northern waterways during the summer. In winter months, they survive by raiding southwards over the ice-covered seas. As Sejuani raids, her warriors allow the stalwart to live under her banner while they pillage the weaker tribes, leaving them without the means to sustain themselves. Once her work is done, only the mighty will be left in the Freljord. Sejuani has many tribes allied with her and several people such as:  Olaf,  Udyr, and  Volibear.
+
+There are several other tribes who were absorbed or allied with the  Winter's Claw:
+
+Stone Tooth: Absorbed by the Winter's Claw by battle.
+
+The  Frostguard dwell hidden beneath an eternal winter, deep in the ruins of the ancient Freljord. They live among the ancient ruins to the far north, protecting their leader  Lissandra as she watches over the Howling Abyss. A cult shrouded in secrecy, the Frostguard archive of all Freljords archaic history. Though seemingly peaceful, the truth of the Frostguard's allegiance is far more disturbed. The world had forgotten the terrible enemy that ruled the Freljord long ago and was cast into the depths of the Howling Abyss following a long and brutal battle. And now, whilst the ignorant sleep, Lissandra keeps the Watchers at bay and plots to rule over all of Runeterra. Even so, missionaries and healers from the cult are common throughout the Freljord. The trolls and their king,  Trundle, have allied themselves with Lissandra, while  Nunu temporarily lived among the Frostguard.
+
+Warded Gateway To The Howling Abyss
+
+There are several other tribes who were absorbed or allied with the  Frostguard:
+
+Black-Clads: A order of priests and shaman, often assigned to regional villages as sources of social and religious authority.
+
+Chosen Children: Their warchief was Helmgar Cragheart before being killed by Sigvar Half-Quiver. Current state unknown, presumably decimated.
+
+Draklorn: As the highest tier of the priesthood—answering only to the Ice Witch herself—Draklorn are among the most zealous and learned of all Frostguard. Some of them rarely set foot outside the Citadel's walls, and they are no doubt privy to secrets that would never be entrusted to the lower ranks.
+
+Frost-Trolls: A brutal and warmongering race, the trolls fight against almost any tribe and group of people in northern Freljord. They usually group under powerful troll leaders such as  Trundle, the Troll King.
+
+Warriors of the Keeper's Lodge: These warriors diligently patrol the locations of some of the largest known Watchers in the Howling Abyss, or at least those closest to the icy surface. This particular beast is known as “the Pierce-Eye”, ever since it was skewered with titanic Mortis Stones dropped from the fortress high above.
+
+The Ursine, or The Lost Ones, dwell in the north most parts of the Freljord. Entirely consisted of Spirit Walkers, the Ursine are human shapeshifters who serve the Great Spirit of the Bear known as  Volibear. Volibears servants are entirely devoted to their masters will and cause. While some retain their human appearance, most permanently shapeshift into grotesque approximations of wild animals and other types of monsters. The tribe has existed for as long as humans settled the Freljord, ever feared and respected by the lands inhabitants. While humans and Iceborn alike have not been able to defeat this tribe, the Winter's Claw  Sejuani and  Udyr have been able to form a temporary alliance with the Ursine to fight other larger tribes such as the Avarosan and Frostguard. Only a few beings are able to match Volibears might, such as the Great Spirit of the Ram known as  Ornn.
+
+Broken Tooth: Enemies of the Avarosan. They can read the star constellations and can navigate them. The map that led Ashe to the legendary true ice bow was theirs before it got stolen by the Avarosan. It is unknown what the final fate of this tribe was.
+
+Bryni: A tribe of rabbit-like Vastayan living in the secluded village of Aamu. The most notable member of this tribe is Aurora, who has a special connection to the spirt realm, spirtual magic and spirits in general.
+
+Ice Children: This is a mountain tribe from north Freljord, known for their extreme rivalry with the Avarosan. They welcome the frost priests and are seemingly venerating the faith of The Three Sisters. The Ice Children are rich in animals and have a giant herd of Elnüks.
+
+Mourncrow: They battled Sigvar in the Valley of Spines. State unknown, presumably killed by Sigvar and the Frostguard.
+
+Notai: A nomadic tribe of storytellers and musicians that travel across the Freljord. They have knowledge of ancient legends and are highly regarded by most Freljordians. The Notai are worshippers of Anivia. Nunu and Layka are members of this tribe. The tribe's current status is uncertain.
+
+Tusk Crow: This tribe attacked a Frostguard caravan guarded by Sigvar, after which they were mostly slaughtered.
+
+Vargkin: Enemies of the Winter's Claw. Current state unknown.
+
+At least some inhabitants in Bilgewater are of Freljordian descent, and occasionally one finds inverted Freljordian longships against the carved cliff faces. Freljordian fishermen constantly trade with the nation.
+
+Demacia and the people that now make up Freljord have had a history of conflict, albeit nowhere near as grievous as the conflict between Noxus and the northern barbarian tribes. Some of the northern Demacian landscapes were part of the Freljord in the ancient time. Demacia had been quite protective of its territory as its northern homesteads were often targeted by barbarian raiding parties, to the point where a member of the  Dauntless Vanguard, named Rodian, led an expedition that succeeded in burning down the city of Frostheld which was the former capital of  Avarosan tribe .[8]
+
+The  Winter's Claw has also frequently threatened the northern border of Demacia and has recently made an alliance with  Sylas who promised to help them raid the rich land of the kingdom.
+
+Freljord and Ionia have connections dating back to  Ivern the Cruel who stumbled on the westerns shores of Ionia in search of power to defeat the Three Sisters. During the Noxian invasion of Ionia, figures like  Udyr aided the Ionians of Hirana and Shojin. Both regions have frequent enough trade for characters like  Taliyah to be able to travel to Freljord from the Ionian islands.
+
+During the last years of Darkwill empire,  Darius lead a campaign on the Freljord, however, around the same time the campaign started,  Sejuani  became the new Warmother of the Winter's Claw, she absorbed other tribes and attracted many powerful, often magical, warriors from all around the Freljord to join her tribe.
+
+This newfound force was able to fight off Noxian might which lead the campaign to drag on for years, ending in a bitter, icy stalemate. Darius narrowly survived assassination attempts, ambushes, and even capture by the vicious Winter's Claw. He was growing weary of endless wars of attrition, and returned to Noxus to demand a reconsolidation of the military.
+
+Now, years later, with a new government established in Noxus, Darius marchs to retake the Winterspike road built during the first campaign and faced the Winter's Claw once again. The current state of this campaign is unknown.
+
+Other tribes known to have fought noxians are Tryndamere's old clan and the Red Snows, both of which joined the Avarosans tribes.
+
+The three legendary sisters' names are Avarosa, Serylda and Lissandra.
+
+The Lissandra of the three sisters is now  The Ice Witch who hides behind the identity of modern-day Lady of Ice and Shadow. She is therefore an ancient relative of  Ashe and  Sejuani.
+
+Five out of ten of Ashe's Oathfathers either died before the events of Warmother or left the Avarosan because of Grena's obsession with the Throne of Avarosa.
+
+The people of The  Avarosan consider  Ashe the literal reincarnation of the legendary Avarosa, which is a religious figure.
+
+Tryndamere's tribe is known as Barbarians by Noxians, yet even if their combat prowess allowed them to stop the empire's attempts at breaching the south, they were annihilated by  Aatrox, who allowed Tryndamere to live.
+
+Gnar lived in Ancient Freljord when the Watchers attacked his area.
+
+Bard might have intervened the battle of the Watchers and the Iceborn.
+
+Freljord is inspired by Nordic countries.
+
+Officially, Rioters explained that Freljord means "frozen ground" in unspecified Nordic dialects;[9] however, the expected Old Norse forms would've been *frosin jǫrð & *frosna jǫrðin, from Proto-Germanic *fruzanō erþō.
+
+Unofficially, Freljord better resembles unattested Old Norse *frjáls jǫrð & *frjálsa jǫrðin from proto-form *frijahalsō erþō, lit. "free(-halsed) earth".
+
+The tribal division among the three best-known matriarchal ones mirrored tripartite occupational division in Proto-Indo-European society:
+
+The peaceful, agrarian Avarosans embodied the workers;
+
+The rugged, belligerent Winter's Claw embodied the warriors;
+
+And the mystical Frostguards embodied the priests.
+
+The Iconic Freljordian colors are mainly shades of blue like Artic, Sapphire, and Indigo
+
+Some iconic figures of the nation also use other variants of colors such as Nunu (Orange), and Ornn (Crimson Red).
+
+"Battle for Freljord" is an in-game event between the three Freljordian leaders,  Ashe,  Sejuani and  Lissandra.
+
+The Watchers are trapped in the Howling Abyss, frozen in a slowly melting True Ice prison.
+
+By age 15,  Sejuani plans a surprise attack to wipe out the Ebrataal tribe, which would end up being the first members of  Ashe's Avarosans.
+
+Unchained AlistarBlackfrost AniviaFreljord AsheQueen AsheWoad AsheWoad King DariusFrosted EzrealDreadknight GarenFrostblade IreliaFrost Queen JannaBattleborn Kayle & Exiled MorganaGlacial MalphiteFrozen Terror NocturneGlacial OlafThunder Lord OrnnWoad Scout QuinnFreljord RammusBlackfrost Rek'SaiBlackfrost Renekton & AlistarTraditional SejuaniFrozen ShenIce Drake ShyvanaNorthern Front SwainFreljord SylasFreljord TaliyahTraditional TrundleKing TryndamereRuneguard VolibearThe Thousand-Pierced BearThunder Lord VolibearThundra Hunter Warwick
+
+Lissandra, the Ice Witch - Login ScreenLeague of Legends- Freljord Theme (Full)Braum, the Heart of the Freljord - Login ScreenGnar, the Missing Link - Login ScreenLeague of Legends Music FreljordOrnn, the Fire Below the Mountain - Login ScreenNunu & Willump, the Boy and his Yeti - Login ScreenNunu & Willump - “It's Me & You” League of Legends Community CollabLegends Never Die (ft. Against The Current) Worlds 2017 - League of LegendsPhoenix (ft. Cailin Russo and Chrissy Costanza) Worlds 2019 - League of LegendsVolibear, the Relentless Storm - Login Screen
+
+The Making of Freljord Music League of LegendsEnter the Freljord Cinematic - League of LegendsBraum Trials of the Poro New Champion Teaser - League of LegendsFeats of BraumGnar TeaserDarius Fear League Animation WorkshopThe Music of Ornn Behind the Scenes - League of LegendsNunu & Willump To Adventure! Champion Trailer - League of LegendsRyze Call of Power Cinematic - League of LegendsAshe Warmother Comic Series PreviewMaking Of Phoenix Worlds 2019 - League of LegendsPhoenix (ft. Cailin Russo and Chrissy Costanza) Worlds 2019 - League of LegendsUniverse in 2020 Dev Video - League of LegendsWarriors Season 2020 Cinematic - League of Legends (ft. 2WEI and Edda Hayes)Tales of Runeterra Freljord “The Raid”Tales of Runeterra Noxus “After Victory”Volibear Champion Update TeaserTrundle Reveal New Champion - Legends of Runeterra
+
+Old Freljord CrestOld Freljord Concept 1Old Freljord Concept 2Freljord "Song of Nunu" Concept 1Freljord "Song of Nunu" Concept 2Freljord "Legends of Runeterra" Illustration 1Freljord "Legends of Runeterra" Illustration 2Freljord "Legends of Runeterra" Illustration 3Freljord "Legends of Runeterra" Illustration 4Anivia "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Anivia "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Eggnivia "Legends of Runeterra" Illustration (by Riot Contracted Artists Sixmorevodka Studio)Ashe "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Ashe "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Braum "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Braum "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Lissandra "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Lissandra "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Sejuani "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Sejuani "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Trundle "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Trundle "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Tryndamere "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Tryndamere "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Udyr "Legends of Runeterra" Illustration 1 (by Riot Contracted Artists Sixmorevodka Studio)Udyr "Legends of Runeterra" Illustration 2 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 1 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 2 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 3 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 4 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 5 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 6 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 7 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 8 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 9 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 10 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 11 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 12 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 13 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 14 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 15 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 16 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 17 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 18 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 19 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 20 (by Riot Contracted Artists Sixmorevodka Studio)Freljord "Legends of Runeterra" Concept 21 (by Riot Artist Christopher 'Skeeziks' Campbell)Freljord "The Call" Concept 1 (by Riot Artist Rembert Montald)Freljord "The Call" Concept 2 (by Riot Artist Rembert Montald)Freljord "The Call" Concept 3 (by Riot Artist Rembert Montald)Freljord "The Call" Concept 4 (by Riot Artist Rembert Montald)Freljord "The Call" Concept 5 (by Riot Artist Rembert Montald)Raiders And ReaversSeasonal SettlementsBeast RidersHunting In The DepthsA Tribe On The MoveFrostguard Citadel 1Frostguard Citadel 2Freljord Avarosa ArenaFreljord Winter's Claw ArenaFreljord Frostguard ArenaAvarosa Arena Concept (by Riot Artist Grace Liu)Frostguard Arena Concept (by Riot Artist Grace Liu)Winter's Claw Arena Concept (by Riot Artist Grace Liu)Freljord clothing conceptQueen Ashe and King TryndamereLissandra and the Frostguard CitadelFrozen Watcher constellationFreljord "Legends Never Die" Concept 1 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 2 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 3 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 4 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 5 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 6 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 7 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 8 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 9 (by Riot Artist Victor Mosquera)Freljord "Legends Never Die" Concept 10 (by Riot Artist James Zapata)Freljord "Legends Never Die" Concept 11 (by Riot Artist Julien Renoult)Freljord "Legends Never Die" Concept 12 (by Riot Artist Julien Renoult)Freljord "Warriors" Concept 1 (by Riot Artist Jason Chan)Freljord "Warriors" Concept 2 (by Riot Artist Jason Chan)Freljord "Warriors" Model (by Riot Contracted Artists Blur Studio)Freljord "The Eye In The Abyss" Illustration (by Riot Contracted Artist Maddie Julyk)Freljord "A Good Day" Illustration 1Freljord "A Good Day" Illustration 2Freljord "A Good Day" Illustration 3Freljord "A Good Day" Illustration 4Freljord "A Good Day" Illustration 5Freljord "The Raid" IllustrationFreljord "The Raid" Concept 1 (by Riot Contracted Artist Julia Nguyen)Freljord "The Raid" Concept 2 (by Riot Contracted Artist Julia Nguyen)Freljord "The Raid" Concept 3 (by Riot Contracted Artist Julia Nguyen)Freljord "The Raid" Concept 4 (by Riot Contracted Artist Pawel Hordyniak)Freljord "The Raid" Concept 5 (by Riot Contracted Artist Pawel Hordyniak)Freljord "The Raid" Concept 6 (by Riot Contracted Artist Pawel Hordyniak)Freljord "The Raid" Concept 7 (by Riot Contracted Artist Pawel Hordyniak)Freljord "The Raid" Concept 8 (by Riot Artist Seung 'kse' Eun Kim)Freljord "The Raid" Concept 9 (by Riot Artist Seung 'kse' Eun Kim)Freljord "After Victory" Concept 1 (by Riot Contracted Artist Julia Nguyen)Freljord "After Victory" Concept 2 (by Riot Contracted Artist Julia Nguyen)Ashe "Warmother" Cover (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 1 Cover 1 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 1 Cover 2 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 2 Cover 1 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 2 Cover 2 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 3 Cover 1 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 3 Cover 2 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 4 Cover 1 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Issue 4 Cover 2 (by Riot Contracted Artist Yasmine Putri)Ashe "Warmother" Concept 1 (by Riot Contracted Artist Nina Vakueva)Ashe "Warmother" Concept 2 (by Riot Contracted Artist Nina Vakueva)Ashe "Warmother" Concept 3 (by Riot Contracted Artist Nina Vakueva)Ashe "Warmother" Concept 4 (by Riot Contracted Artist Nina Vakueva)Ashe "The Harder Path" Illustration (by Riot Contracted Artists Wild Blue Studios)Ashe and Kayn "The Path Of Shadows" Illustration (by Riot Artist Elena 'Hellstern' Bespalova)Brand and Ryze "Master and Apprentice" IllustrationBraum "The Feats of Braum" Illustration 1Braum "The Feats of Braum" Illustration 2Gragas "A Well-Earned Tip" Illustration (by Riot Contracted Artists Grafit Studio)Lissandra "Keeper of Dreams" Illustration 1Lissandra "Keeper of Dreams" Illustration 2Lissandra "The Dream Thief" Illustration (by Riot Contracted Artist Zoe Zhu)Lissandra "Legend of the Frozen Watchers" Illustration (by Riot Contracted Artist Zoe Zhu)Lissandra "Hero of the Frost Moon" Illustration (by Riot Contracted Artists Grafit Studio)Nunu & Willump "Frozen Hearts" Illustration 1 (by Riot Artists David 'Sharpcut93' Ko and Jeremy Anninos)Nunu & Willump "Frozen Hearts" Illustration 2 (by Riot Artists David 'Sharpcut93' Ko and Jeremy Anninos)Nunu & Willump "Stone Cold" Illustration (by Riot Artists David 'Sharpcut93' Ko and Jeremy Anninos)Nunu & Willump "It's Me and You" Illustration 1 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 2 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 3 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 4 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 5 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 6 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 7 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 8 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 9 (by Riot Artist Horace 'Hozure' Hsu)Nunu & Willump "It's Me and You" Illustration 10 (by Riot Artist Horace 'Hozure' Hsu)Olaf and Sejuani "Dead of Winter" Illustration (by Riot Contracted Artist Grafit Studio)Sejuani "A Death Knot" Illustration (by Riot Contracted Artist Grafit Studio)Sylas "The Shackles of Belief" Illustration (by Riot Artist Jason Nguyen)Trundle "A Feast Fit for a King" Illustration (by Riot Contracted Artists Grafit Studio)Tryndamere "A Smoldering Coal" Illustration (by Riot Contracted Artists Grafit Studio)Udyr and Volibear "Silence for the Damned" Illustration (by Riot Employed Artists Wild Blue Studios)Spirit Guard Udyr "A Walk with the Voices" Illustration (by Riot Contracted Artists Grafit Studio)Volibear "Stormbringer" Illustration (by Riot Contracted Artist Zoe Zhu)Murkwolf Shaman Illustration by Kudos ProductionsMurkwolf Shaman Illustration by Kudos ProductionsMammoth Shaman Illustration by Kudos ProductionsMammoth Shaman Illustration by Kudos ProductionsVulpine Wanderer Illustration by Kudos ProductionsBone Scryer Illustration by Kudos ProductionsTusk Speaker Illustration by Kudos Productions
+
+↑ Troop of Elnuks' Flavour Text
+
+↑ G. Kroonen, Etymological Dictionary of Proto-Germanic, p. 504, 510
+
+↑ Freljordian Oathbound culture

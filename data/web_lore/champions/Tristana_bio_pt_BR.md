@@ -1,0 +1,6 @@
+# Tristana - a Artilheira Yordle
+**Tipo:** Biografia Canônica de Campeão | **Idioma:** pt_BR
+**Facção / Arquétipo:** Marksman, Assassin
+
+## História e Biografia Oficial
+Apesar de muitos outros yordles focarem sua energia em descobertas, invenções ou simplesmente travessuras, Tristana sempre se inspirou nas aventuras de grandes guerreiros. Ela ouviu muito sobre Runeterra, suas facções e suas guerras, e acreditava que sua raça também poderia se tornar digna de lendas. Pisando no mundo pela primeira vez, ela pegou seu canhão de confiança, Boomer, e agora salta para a batalha com coragem e otimismo inabaláveis.

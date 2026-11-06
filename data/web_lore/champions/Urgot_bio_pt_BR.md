@@ -1,0 +1,6 @@
+# Urgot - o Encouraçado
+**Tipo:** Biografia Canônica de Campeão | **Idioma:** pt_BR
+**Facção / Arquétipo:** Fighter, Tank
+
+## História e Biografia Oficial
+Na época em que era um poderoso carrasco noxiano, Urgot foi traído pelo império para o qual havia tirado tantas vidas. Aprisionado em correntes de ferro, ele foi forçado a aprender o verdadeiro significado da força na Draga — uma mina carcerária nas profundezas de Zaun. Após emergir de um desastre que espalhou o caos por toda a cidade, ele se tornou uma figura imponente no submundo criminoso da cidade. Hoje ele usa as mesmas correntes que o aprisionaram para erguer suas vítimas e seu objetivo é expurgar todos os seres indignos do seu novo lar, tornando-o um crisol de dor.

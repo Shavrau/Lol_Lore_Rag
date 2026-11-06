@@ -1,0 +1,81 @@
+# História Completa: Vladimir
+**Tipo:** Lore Aprofundada & Relações Canônicas | **Fonte:** League of Legends Universe / Wiki
+
+## Background
+
+### Early life 
+ was once a prince of , but was given away as a royal hostage to an unknown Darkin as a bargain to save the kingdom from the monster's tyranny. Should the king break faith with the Darkin, the prince would be slain.
+
+### Taken by Darkin 
+Vladimir was taken to  in which his Darkin master dwelled. He was given permission to write and sent customary letters to his kingdom, but his letters were all ignored.  He eventually learned that his father had broken his oath within the year. Because his father had sons and heirs aplenty, the death of Vladimir would mean nothing to the king. 
+
+Surprisingly, instead of getting killed as he expected, his Darkin master had something altogether more amusing in mind. The Darkin offered Vladimir the chance to lead his armies against his father's kingdom, an offer he gladly accepted. He destroyed his father's kingdom and presented his father's head to his master as a way to prove his loyalty. Believing himself above other mortal vassals, his devotion earned him a place of favor in his patron's warhost, and he learned hemomancy. Darkin teaching their secrets to mortals was forbidden under pain of death, but his master delighted in flaunting the mores of his kind. Over time, the god-warrior watched with amusement as Vladimir came to govern his subjects with as little mercy as the Darkin themselves. His Darkin master would later teach other mortals blood magic, but none were as capable and talented as Vladimir. 
+
+Eventually, near the end of the Great Darkin War, the enemies of the Darkin united. The Darkin master instructed Vladimir to lead his armies in defense against his unified enemies. Unknown to all but Vladimir himself, he had already found a method to kill a god-warrior. Vladimir killed his master instead and absorbed his power. Scarred, blinded, driven mad by the radiance of a Darkin’s undoing, he absorbed enough power to renew flesh that was never meant to last beyond a mortal lifespan. A few surviving mortals fled, taking what knowledge they had of blood magic with them.  
+
+Some time after the war ended, Vladimir moved to the , expanding his knowledge of magic and collecting various magical artifacts. 
+
+### Establishing  
+At the height of the Reign Of The Iron Revenant, it was said that a mythic and bloodthirsty fiend haunted the coastal cliffs of eastern Valoran, demanding young lives and savage worship from the local barbaric Noxii tribes. Few were welcome in his lair, until the day a LeBlanc approached the barbarian god with an offer. The two feasted together as equals, weaving magic so dark that the wine at their table soured, and the roses withered, vibrant red turning to black. This encounter would result in the formation of the , and so began the pact between Vladimir and LeBlanc. Vladimir then rallied all the Noxii tribes and lead the siege in which Mordekaiser was ultimately defeated. This alliance neutralized the source of his power, The Immortal Bastion. They managed to sever the anchors of his soul from his armor, as well as seal the empty iron shell away in a secret place. Thus Mordekaiser's reign was ended, and he was cast out of the material realm.
+
+From a visit by Kalista to the Blessed Isles, Vladimir received the news of Viego and the loss of Isolde. He attempted to contact the king and wrote a letter to him, but the grief-stricken Viego refused to respond, not knowing Vladimir had the power and knowledge that could have saved her. When Viego sailed for the Blessed Isles with his armies, Vladimir foresaw disaster approaching and left the region soon after, narrowly avoiding The Ruination of Helia. 
+
+After Helia fell to the Ruination, the remnants of an ancient order from the Blessed Isles, whose mission had been to gather and protect the most dangerous artifacts in Runeterra, struggled to keep knowledge of the World Runes hidden. Political tension followed as nations were unwilling to trust one another for fear of being unwittingly destroyed by these runes. The leaders of two rival Noxii tribes pleaded with Tyrus of Helia, in parley at the village of Khom. The encounter ended in the complete destruction of Khom and its surrounding territories by the power of two World Runes. During The Rune Wars, magical fallout resulting from the almost apocalyptic battle forced Vladimir and the last of the Noxii to retreat into The Immortal Bastion for shelter. When they finally emerged, the land beyond had been ravaged, but they survived. From that day onward, they were united as a single people, no longer as Noxii but  . The capital, Noxus Prime, was built center at the still unbreachable Immortal Bastion. This event marks The Resurgence of Civilizations and the beginning of the Noxian Calendar, and they have marked their calendar from this date ever since.
+
+Over the centuries, others joined them—powerful nobles, exalted masters of magic, and beings darker still. Rife with disputes, and games of politics and war, Black Rose grew into the hidden power that would guide the throne of Noxus for more than a thousand years, orchestrating many of the empire’s most ambitious campaigns. Noxus began to forcefully annex numerous territories alongside its eastern borders. After a series of forced annexations and the fall of The Drakkengate, the strength of Noxus grew to match its ambitions.
+
+During the Battle of the Greenfangs, a skilled order of Noxian warmages known as the Arcane Fist, led by Vladimir, bombarded the Demacian troops for thirteen days. Afterwards the colossus with wings mirroring the image of the   known as Galio awakened for the first time. Galio would later protect the Demacian soldiers during their hold against the invading warmages and single-handedly defeated the entire mage army. After all the invading mages were defeated and withdrew, Galio returned to his pedestal and ceased to move. This bizarre tale was told in hushed tones by the few who had survived the battle, and was usually received with silent incredulity. As the years would go by, the story of Galio and Battle of the Greenfangs would eventually be seen as nothing more than a mere legend. At some point afterward, Vladimir resorted to seclusion, and he was absent in The First Demacian-Noxian War. Over the next half a century,  would end up freeing the countries of  from Noxian dominance, pushing the Noxians back towards their capital.
+
+### Recent events 
+The ruling Grand General of the empire, , was willing to pay almost any price to restore Noxus' lost glory, and he made an alliance with The Black Rose. With help from Vladimir, LeBlanc spearheaded the resurrection ritual to reanimate the long-dead heroSion, and presented him to the Grand General. Sion, driven mad by unnatural bloodlust and utterly inured to pain, hurled himself like a living battering ram against allies and foes alike, destroying all he faced. The victories Sion brought were costly. After several battles, Sion's bloodlust was deemed uncontrollable and Boram Darkwill ordered his imprisonment.   
+
+With the unexpected death of Boram Darkwill and the rise of Swain as the new Grand General, the political landscape of the empire changed dramatically, and Vladimir has been forced to rouse himself once more. Wearing the guise of a benevolent socialite, he has returned to the public eye as a vocal opponent to the ruling  council, much to the concern of more *cautious* members of the Black Rose. His reappearance may have come too soon, as time has not yet washed away all the stains of his previous lifetime, and it seems likely that Swain himself has begun to grasp Vladimir’s true nature.  
+
+Vladimir has been passive for too long, but now he is ready to take what is his, that which was for so long denied him—a kingdom of his own. Under Vladimir’s tutelage, the art of hemomancy has found a place in the military of Noxus, and among scions of the old aristocracy. Among these diverse practitioners is the , a youthful cult dedicated to Vladimir as much as to blood magic itself.
+
+## Appearance
+
+Vladimir is a tall man with an eternally youthful face. He has medium-length white hair and blue eyes that will glow red when he utilizes his magic. He generally wears lavish, aristocratic clothing, always red with a silver or gold trim. His signature outfit consists of knee-high boots, vertically striped pants, and a slim overcoat with a massive, regal collar and metal spikes dangling from the sleeves. Notably, he wears long metal claws on each finger.
+
+## Personality
+
+Vladimir is an ambitious being that desires to fulfill his immortal life with the pleasures of the world. His flamboyant behavior hides his cruelty and sadism, which he indulges when using his powers on others. 
+
+Vladimir made himself a home in Mortoraa, a big castle in a small district within the Immortal Bastion, known for being one of the wealthiest neighborhoods in Noxus Prime. Unlike many other districts which are typically cramped, the streets in Mortoraa are luxurious and comfortably spacious. However, at night it has a reputation as the most ominous district, for the streets are never illuminated with torchlight or lanterns. 
+
+Uniquely among members of the Black Rose, Vladimir has rarely limited himself to scheming from the shadows. He is very sociable. He prefers to hanging around between the public eye and the secret societies that he built. In the past, he deigned to join the Noxian noble courts during the most *interesting* of times, only to fade into seclusion decades later. History has lost track of Vladimir on many occasions, though its pages are littered with figures suspected to have been him. 
+
+He is aware that his memory would not be able to keep up with his extremely old age. Most of his unnaturally extended life endures not in his memory, but in his chronicles. There were a select few memories that Vladimir refused to forget, and so he labored to do what his mind could not. He wrote books about himself. To remember them, he draws and paints portraits that tell the story that is mostly the turning point of events in the world. Portraits of himself were hung about the circular walls of his castle. His portraits show him at a very different times in his life, and all portraits have different framing or style. Those brief moments their lives touched, what felt like an eternity ago. More melancholy, but fitting perhaps. To Vladimir, there was nothing in the world as beautiful as sadness.
+
+## Relations
+
+### LeBlanc 
+LeBlanc was forced to serve  Mordekaiser, whose downfall she would later plan. To do so, she approached Vladimir and the two formed a pact and founded the . Vladimir rallied all the Noxii barbarian tribes to siege Mordekaiser's domain while LeBlanc severed the ties of Mordekaiser's magic to The Immortal Bastion, allowing them to be able to defeat The Iron Revenant and end his reign.
+
+LeBlanc considered Vladimir her only equal because she has never met any mage that can she considered to be as powerful as her. LeBlanc is also quite aware of the Darkin power that Vladimir absorbed, and she had hoped she could outlive Vladimir and take his power for her own. She has been waiting centuries for him to grow old and die, and may not yet realize that Vladimir is capable of revitalizing himself to stay young and powerful.
+
+###  
+Vladimir is one of the founders of the organization alongside LeBlanc. He aided the  for centuries, such as conducting  Sion resurrection, creating Briar, and leading a war against  in the past. Vladimir, however, is not interested in the political machinations of the Black Rose, only assisting them when needed. Unlike all other members of the Black Rose, he often stood out among others and preferred to show up in public from time to time. 
+
+Over time, their growing differences in ideology led Vladimir to create his own cult - the , and under his tutelage it found a place publicly in the military of Noxus. The quick growth of the Crimson Circle eventually brought LeBlanc into frequent conflict with Vladimir and his inner circle. Vladimir had already alerted his Crimson Circle members through his letters in which the first line says "Beware ", which also corresponds to Vladimir's ambition to cut ties of his connection to the Black Rose.  
+
+### **Swain** 
+Vladimir has recently brought himself back into the public eye, becoming a vocal opponent against the  Council, and this has caught Swain attention. However, Vladimir's previous public identity has not been completely forgotten, and it is hinted that Swain may know of Vladimir's true nature. 
+
+One day, a troop of Trifarix soldiers attempted to intercept the old aging Vladimir on his way home, and they all ended up killed and absorbed by Vladimir as a part of his plan to revitalize himself. The incident was witnessed by one of Swain's ravens, in noticing which Vladimir became aware that Swain was watching him.
+### Galio 
+Vladimir fought Galio in the Battle of the Greenfangs against . So far, Galio is also the only opponent that Vladimir has lost to in battle due to Galio being made from Petricite, a material that can absorb magic.
+
+### Maokai 
+The nightblooms grown in Vladimir's mansion were taken from a grove once tended by Maokai. Vladimir also dwelled in the  after The Great Darkin War until fleeing shortly before The Ruination of Helia.
+
+### Viego 
+Although Viego calls Vladimir his uncle in game, the age gap between them is more than 1500 years and thus they are only distantly related, both descending from the royalty of .[https://twitter.com/notquitefrodo/status/1347660237071810560 Vladimir and Viego's relation] After Isolde was poisoned, the grief-stricken Viego refused to respond to Vladimir's letter, not knowing Vladimir had the power that could have saved her.[https://twitter.com/notquitefrodo/status/1351978026066616320 Vladimir's letter]
+
+### Kalista 
+In The Daring Darling, Vladimir was soul-marked by Kalista, but he was able to banish her with the help of a magical artifact. Kalista is related to Vladimir as well since she is  niece.
+
+###  
+ was created with hemomancy, a magical art strongly tied to Vladimir, a founding member of the Black Rose. Though his exact relationship with Briar is unclear, it's heavily implied that he was mainly responsible for her creation. As her creator, Briar somewhat considers Vladimir her 'dad'. though she questions whether or not to actually call him that.
+
+The annotated sketch used for  splash art states that she is at Vladimir's castle, acting as a guard dog.[https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Briar_Splash_Concept_01.jpg/revision/latest?cb=20230831215003 Briar's splash art sketches. The sketch labelled B was used for her current splash art.] Whether this is true for is unclear, however it does imply a possible relationship between the two after  escape.

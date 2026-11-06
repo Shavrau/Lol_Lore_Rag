@@ -1,0 +1,60 @@
+# História Completa: Thresh
+**Tipo:** Lore Aprofundada & Relações Canônicas | **Fonte:** League of Legends Universe / Wiki
+
+## Background
+
+### Early life 
+The wraith Thresh was born in the  as Erlok Grael, a monk of Helia. He served in the order for many years, expecting to be recognized among Helia's masters, but due to his humble background he was delegated to work as a warden to safeguard Helia's magical artifacts which he took as an insult. Grael felt bitter towards his new position as he believed himself more gifted than his noble-born peers who got more prestigious roles, and that his lowly position would stop him from being recognized.[https://www.leagueoflegends.com/en-us/event/ruination-prologue/ Ruination Prologue] After years of working in the vault, Grael grew bitter and cruel. Growing frustrated over his fellow wardens getting killed by the artifacts, he took interest in a nameless tome claimed to whisper one's darkest thoughts. Grael kept the tome in his possession, but his superior, Head Warden Rastofir, stopped him and threatened to demote him. Angered, he believed that Rastofir was trying to steal his research for his own benefit, so he arranged Rastofir to be killed by a miscategorized artifact so he could manipulate the order into a pragmatic direction.New Job
+
+### The Ruination 
+One day, a fleet of ships from  invaded the Blessed Isles, led by their king Viego whom wanted to use the Waters of Life to resurrect his wife Isolde. When the monks refused, Hecarim and his knights took the opportunity to slaughter the monks and all of the natives. Grael delighted in the carnage and suffering that ensued, and took it upon himself to lead Viego to the Waters of Life. Isolde's resurrection failed and caused a blast of magic that corrupted the Blessed Isles' protective mist into the Black Mist, turning all of the inhabitants into wraiths. Grael embraced his transformation and took on the moniker Thresh, eager to act out his desires for cruelty without punishment or the limits of mortality. As decades passed, Thresh's spectral form morphed into a reflection of his darkest traits. He roamed the  killing people and imprisoning their souls within his lantern, becoming known in the folklore of  as a bogeyman figure.
+
+### Capture of Senna 
+Many years later, Thresh encountered Lucian and Senna, a married couple of , in a forbidden Helian vault in search of a cure for the latter's curse. Overzealous in his goal to save Senna, Lucian refused to turn back, but his decision cost him Senna's life as she sacrificed herself to save him from an oncoming attack from Thresh. The wraith trapped her soul in his lantern, with Lucian spending years battling his arch-enemy, all while Thresh taunted him by holding Senna's soul ransom.
+
+Eventually, Lucian was able to set Senna's soul free by blasting Thresh's lantern open. While he expected the souls to pass on, Senna re-emerged with her newfound ability to control the Black Mist. Though Thresh was defeated, he decided to let them have their victory as he would toy with them in the future.
+
+### The Ruined King 
+
+*(TBA)*
+
+### Unbound 
+
+*(TBA)*
+
+## Appearance
+
+As a human, Thresh was a fair-skinned man with a long, bony face and dark brown hair and eyes. After being unbound, he can still assume a human disguise, but with green eyes.
+
+As a wraith, Thresh's head became a twisted approximation of a human skull, floating, fanged, wrapped in green flame, and with three skeletal appendages attached like hair. His clothes were dark blue, extremely tattered, and lined with bones. Most notably, he wore a large overcoat with a flared, oversized collar. He wore black armor on his feet and hands, but his clawed gauntlets glowed a spectral green. He carried a short-handled scythe in his right hand and was known to levitate his lantern with the left hand. The lantern, also seeming to be constructed from bones, glowed and swirled from the souls within. Both implements were attached to chains fashioned from bones. A pair of keys dangled from the front of his belt.
+
+After becoming unbound, his appearance changed once again. He now appears as a pale human with glowing green eyes. Dark symbols appear tattooed onto his forehead and cheeks. His hair features three long pony tails in the same fashion as the once-present skeletal appendages on his head. His clothes are an elegant, black and gold regalia. The chains he carries are golden metal rather than skeletal. His lantern appears to be a large, teal crystal encased in a golden frame. Still, he glows with an ominous green light.
+
+## Personality
+
+As a human, Grael dedicated his work to becoming recognized throughout Helia, but was narcissistic and spiteful, seeing himself as being worthy of recognition. He believed himself to be perfect and felt bitter towards anyone who stopped his goals, to the point where he had no problem in causing the deaths of his fellow monks to develop his own progress. Observers described Grael as being unsettling and having darkness within his mind.
+
+After becoming Thresh, he embraced his true cruelty and hatred without anyone to stop him. He is a psychopathic sadist who delights in making others suffer even after death, by tearing out his victims' souls and leaving them to suffer within his lantern, even mocking his victims' loved ones. He enjoys antagonizing Lucian the most, after imprisoning the soul of his wife Senna and taunting Lucian with Senna's soul on ransom. When Senna escaped, Thresh decided to let them win so he could torment them in the future. Thresh is also known for manipulating others for his own gain, such as influencing Viego after reviving him so the deaths he caused would empower Thresh to become unbound, freeing him from his perpetual imprisonment in the Shadow Isles and granting him the power to move around Runeterra. Adopting new human form, Thresh travelled to Noxus where he met Bort. A luckless waiter in a Noxian Inn who had been cursed with a crustacean arm after trying to steal from a mage and consequently was abused and ridiculed by fellow staff and customers alike for his clumsiness and unfortunate condition. Sensing potential in Bort, Thresh murdered all those who had previously mocked him and offered to free Bort from his deformity. Gladly accepting the offer, Bort became Thresh's Phantom carriage driver. Now in command of those who had tormented him, Bort whips and taunts the trapped souls who pull Thresh's carriage as Thresh himself travels deeper into Noxus.
+
+## Relations
+
+### Viego 
+Thresh was a member of the Brotherhood of Dusk located in the heart of the Blessed Isles, turned undead when the Ruination of Helia struck. Thresh was directly responsible for the Ruination of the Blessed Isles, as he was the one who led Viego to the Waters of Life.
+
+Between conspiring against him with Gangplank and letting  soul escape his lantern, Thresh fell out of favor with Viego. In turn, Thresh plotted against Viego and siphoned the excess Black Mist he was producing, in order to become  from the Shadow Isles.
+
+###  
+Thresh tricked  wife Senna, claiming her soul and storing it in his Dark Passage. Lucian traveled to Bilgewater in pursuit of the Harrowing to locate Thresh. It was then he found out Senna's soul is trapped inside the Chain Warden's Dark Passage. Lucian continued to pursue the Mist to free her and finally succeeded.
+
+Thresh made a deal with Lucian for the vital information that may help him save Senna. After becoming unbound from the mist with Viego being defeated, Thresh came to the  for the soul promised by the deal, but they managed to escape. Thresh now plots to capture the escaping Sentinels.
+
+Lucian and Senna are now dedicated to hunting Thresh.
+
+###  
+Thresh clashed with Ahri, Braum, Illaoi, Miss Fortune, Pyke, and Yasuo in Ruined King, when they sailed to the Shadow Isles to try and stop him and Gangplank from unleashing Viego.
+
+### Gangplank 
+Thresh and Gangplank woke Viego up from his slumber, in order to use his power to conquer Bilgewater.
+
+### Ledros 
+Thresh tried to persuade Ledros to give up trying to free Kalista and has succeeded at obtaining his silver pendant which Ledros may use to remind Kalista of her humanity.

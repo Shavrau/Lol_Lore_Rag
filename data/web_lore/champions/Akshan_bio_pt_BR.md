@@ -1,0 +1,6 @@
+# Akshan - o Sentinela Rebelde
+**Tipo:** Biografia Canônica de Campeão | **Idioma:** pt_BR
+**Facção / Arquétipo:** Marksman, Assassin
+
+## História e Biografia Oficial
+Akshan ri da cara do perigo, lutando contra o mal com carisma, determinação e desejo de vingança, mas, estranhamente, sem vestir uma camisa sequer. É extremamente habilidoso na arte do combate furtivo, capaz de sumir da vista dos inimigos e reaparecer quando menos se espera. Com um firme senso de justiça e uma arma lendária que pode reverter a morte, ele corrige os delitos dos canalhas de Runeterra e vive de acordo com um código de conduta particular: "Não seja babaca".
