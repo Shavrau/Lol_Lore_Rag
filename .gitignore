@@ -27,32 +27,40 @@ wheels/
 # Virtual Environment & Package Managers
 .uv/
 
-# Environment Variables
+# Environment Variables & Secrets (CRITICAL)
 .env
+.env.*
 !.env.example
 
-# Caches & Embeddings
-data/cache/
+# Caches & Heavy Vector Embeddings
 *.npy
 *.pkl
 *.cache
+data/cache/*.npy
+data/cache/*.pkl
+!data/cache/*.json
+!data/cache/.gitkeep
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints*/
 */.ipynb_checkpoints/*
 
-# IDEs
+# IDEs & Editors
 .vscode/
 .idea/
 *.swp
 *.swo
+*.sublime-project
+*.sublime-workspace
 
-# Binaries & Tunnels
+# Binaries, Tunnels & Test Screenshots
 cloudflared.exe
 *.exe
-
-# Test screenshots
 test_*.png
+test_*.jpg
+
+# Scratch & Temporary Testing Folders
+scratch/
 
 # OS files
 Thumbs.db

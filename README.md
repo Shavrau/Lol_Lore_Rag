@@ -1,139 +1,172 @@
 # ⚔️ Runeterra Lore RAG (League of Legends)
 
-Sistema de **Retrieval-Augmented Generation (RAG)** de alta precisão especializado no universo e lore de **League of Legends / Runeterra**.
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688.svg)](https://fastapi.tiangolo.com/)
+[![LLM](https://img.shields.io/badge/Google%20Gemini-Flash%202.5-orange.svg)](https://aistudio.google.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Este projeto integra tanto **livros canônicos oficiais em PDF** (*Realms of Runeterra*, *Ruination*, contos e novelas) quanto **conteúdo online extraído da Web** (biografias oficiais via Riot Data Dragon, contos do Universo e artigos canônicos via MediaWiki API da League Wiki).
+Sistema de **Retrieval-Augmented Generation (RAG)** de alta precisão focado na **Lore Canônica de Runeterra e League of Legends**. 
+
+O projeto une o conhecimento de **livros oficiais em PDF** (*Realms of Runeterra*, *Ruination*, contos e novelas) com **conteúdo canônico extraído da Web** (biografias oficiais via Riot Data Dragon e crônicas do Universo arquivadas pela League Wiki).
+
+A aplicação opera sob estrita separação entre **narrativa ficcional canônica** e **mecânicas de jogo**. Perguntas sobre o destino de reinos, conflitos políticos e origens de campeões são respondidas com fatos canônicos e citações diretas das fontes, sem alucinações sobre tempos de recarga, itens ou dados competitivos.
 
 ---
 
-## 🚀 Novidades desta Versão (v2.0 & Web Expansion)
+## ✨ Principais Funcionalidades
 
-1. **Expansão de Dados (Web Lore)**:
-   - Extrator integrado para extrair biografias e habilidades de **todos os 170+ campeões** (via Riot Data Dragon em português ou inglês).
-   - Extrator de **Lore de Regiões** (Demacia, Noxus, Ionia, Ilhas das Sombras, Freljord, Shurima, etc.).
-   - Extrator de **Contos e Histórias do Universo** arquivados pela League Wiki.
-2. **Caminhos Dinâmicos e Portabilidade**:
-   - Detecção automática de ambiente: funciona tanto no **Windows/Linux local** quanto no **Google Colab**.
-   - Resolução flexível de pastas (`data/books`, `data/web_lore`, `data/cache`) sem quebrar referências.
-3. **Ambiente com `.env`**:
-   - Gerenciamento de chaves e hiperparâmetros centralizado via `python-dotenv`.
-4. **Recuperação Híbrida Avançada (Hybrid Retrieval)**:
-   - **Busca Esparsa (BM25)** com tokenização inteligente e remoção de stopwords.
-   - **Busca Densa (BGE-M3)** multilíngue com cache de vetores (`.npy`).
-   - **Fusão Recíproca de Ranks (RRF - Reciprocal Rank Fusion)** para combinar o melhor dos dois mundos.
-   - **Reranker Cross-Encoder (BGE-Reranker-v2-m3)** para ordenar os candidatos mais relevantes.
-   - **Neighbor Expansion**: inclusão de blocos adjacentes para não perder contexto contínuo.
-5. **Geração Aterrada com Google Gemini**:
-   - Expansão de consulta multilíngue e respostas estritamente aterradas nas fontes, com citação de livro/página ou documento web.
+* **Interface Web Hextech Moderna:** Layout imersivo em tons de obsidiana e ouro rúnico, com barra de navegação retrátil, histórico de fontes e citações clicáveis.
+* **Plano de Fundo Dinâmico por Região:** O papel de parede transiciona suavemente em cross-fade de acordo com o campeão ou região consultada (**Demacia**, **Noxus**, **Ionia**, **Freljord**, **Shurima**, **Ilhas das Sombras**, **Piltover**, **Zaun**, **Águas de Sentina**, **Monte Targon**, **Bandle City**, **O Vazio** e **Ixtal**).
+* **Citações e Fontes Canônicas:** Todas as respostas trazem chips com referências diretas (`[S1]`, `[S2]`) que abrem um painel interativo exibindo o trecho exato, páginas do livro e capítulo.
+* **Pipeline RAG Híbrido (BM25 + BGE-M3 + Reranker):**
+  * Busca Esparsa Lexical (BM25 com tokenização em português e expansão de sinônimos/termos de Runeterra).
+  * Busca Vetorial Densa (BGE-M3 multilíngue).
+  * Reciprocal Rank Fusion (RRF) combinando ranks densos e esparsos.
+  * Cross-Encoder Reranker para garantir que apenas os trechos mais relevantes alimentem o contexto.
+* **Geração Factual com Google Gemini:** Instruções rígidas para aterramento factual, impedindo invenções narrativas.
 
 ---
 
 ## 📁 Estrutura do Projeto
 
 ```text
-c:\Rag_lol\
-├── .agents/
-│   └── skills/
-│       └── runeterra-lore-rag/
-│           └── SKILL.md            # Skill do Antigravity para gerenciar e consultar a lore
-├── context/
-│   ├── ARCHITECTURE.md             # Arquitetura detalhada do RAG
-│   ├── LORE_SOURCES.md             # Descrição detalhada de fontes e canonicidade
-│   └── RETRIEVAL_AND_EVAL.md       # Explicação técnica de BM25, BGE-M3 e Reranker
+Lol_Lore_Rag/
 ├── data/
-│   ├── books/                      # PDFs dos livros oficiais (Realms of Runeterra, Ruination)
-│   ├── web_lore/                   # Documentos extraídos da web
-│   │   ├── champions/              # Biografias de campeões (.json e .md)
-│   │   ├── regions/                # História e cultura das regiões (.json e .md)
-│   │   └── stories/                # Contos e crônicas oficiais (.json e .md)
-│   └── cache/                      # Cache de OCR e embeddings (.npy)
+│   ├── books/                      # PDFs oficiais (Realms of Runeterra, Ruination, Garen)
+│   ├── web_lore/                   # Base canônica extraída da Web
+│   │   ├── champions/              # Biografias de 170+ campeões (.json e .md)
+│   │   ├── regions/                # História e cultura das 13 facções (.json e .md)
+│   │   └── stories/                # Contos e crônicas oficiais do Universo (.json e .md)
+│   └── cache/                      # Textos extraídos e pré-processados (.json)
 ├── src/
-│   ├── config.py                   # Configuração e variáveis de ambiente
-│   ├── lore_extractor.py           # Extrator de Lore da Web (Data Dragon & Wiki API)
-│   ├── book_extractor.py           # Extrator de PDFs e OCR
-│   ├── rag_engine.py               # Motor RAG híbrido e integração com Gemini
-│   └── app.py                      # Interface Web Gradio standalone
-├── .env.example                    # Modelo de variáveis de ambiente
-├── .env                            # Suas variáveis locais (API Key)
-├── requirements.txt                # Dependências Python
-├── pyproject.toml                  # Configuração para uv/pip
-└── runeterra_rag_v2.ipynb          # Notebook Jupyter atualizado (compatível Local + Colab)
+│   ├── config.py                   # Configurações de caminhos, modelo e variáveis de ambiente
+│   ├── lore_extractor.py           # Web scraper para Riot Data Dragon e League Wiki API
+│   ├── book_extractor.py           # Leitor de PDFs e parser estruturado
+│   ├── rag_engine.py               # Motor RAG híbrido, BM25, RRF e integração Gemini
+│   ├── server.py                   # Servidor FastAPI e rotas REST da aplicação web
+│   └── app.py                      # Interface alternativa em Gradio
+├── static/
+│   ├── index.html                  # Interface completa (HTML5, CSS3, JS nativo)
+│   └── img/
+│       └── regions/                # Ilustrações canônicas em 2048px para cada facção
+├── runeterra_rag_v2.ipynb          # Notebook de estudos (compatível Local e Google Colab)
+├── start_local.bat                 # Inicializador rápido de 1 clique para Windows
+├── start_public_app.bat            # Inicializador com túnel público Cloudflare
+├── Dockerfile                      # Imagem de contêiner para deploy em nuvem
+├── docker-compose.yml              # Orquestração local via Docker
+├── pyproject.toml                  # Metadados do projeto e dependências para uv
+├── requirements.txt                # Dependências para pip padrão
+└── .env.example                    # Modelo para configuração de chaves
 ```
 
 ---
 
-## ⚙️ Pré-requisitos e Instalação
+## 🚀 Como Rodar Localmente
 
-### Usando `uv` (Recomendado):
-```powershell
-# Cria o ambiente virtual e instala as dependências
-uv sync
-```
-Ou com `pip` padrão:
-```powershell
-python -m venv .venv
-.\.venv\Scripts\activate
-pip install -r requirements.txt
+### 1. Clonar o Repositório
+
+```bash
+git clone https://github.com/Shavrau/Lol_Lore_Rag.git
+cd Lol_Lore_Rag
 ```
 
----
+### 2. Configurar a Chave da API (Gemini)
 
-## 🔑 Configuração do `.env`
+Copie o arquivo `.env.example` para `.env`:
 
-Copie o `.env.example` para `.env` (já criado) e configure sua chave da API do Google Gemini:
+```bash
+cp .env.example .env
+```
+
+Abra o arquivo `.env` e insira sua chave da API do Google Gemini:
 
 ```env
 GEMINI_API_KEY=sua_chave_aqui
 GEMINI_MODEL=gemini-2.5-flash
 LORE_LANG=pt_BR
 ```
-Obtenha sua chave gratuitamente no [Google AI Studio](https://aistudio.google.com/app/apikey).
+
+> Obtenha sua chave gratuita em [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 ---
 
-## 🌐 Como Extrair Lore da Web
+### 3. Instalar Dependências
 
-O módulo `src/lore_extractor.py` baixa e estrutura o conhecimento do universo de League of Legends:
+#### Opção A: Usando `uv` (Recomendado, ultra rápido)
+```bash
+uv sync
+```
 
-### 1. Extrair biografias dos Campeões (Riot Data Dragon):
-```powershell
-# Extrai 20 campeões em português:
-uv run python src/lore_extractor.py --champions --limit 20 --lang pt_BR
+#### Opção B: Usando `pip` padrão
+```bash
+python -m venv .venv
 
-# Extrair TODOS os 170+ campeões:
+# Windows:
+.\.venv\Scripts\activate
+# Linux/macOS:
+source .venv/bin/activate
+
+pip install -r requirements.txt
+```
+
+---
+
+### 4. Iniciar a Aplicação Web
+
+No Windows, você pode simplesmente dar **dois cliques em `start_local.bat`**, ou executar via terminal:
+
+```bash
+uv run python src/server.py
+```
+*(ou `python src/server.py` caso use o venv com pip)*
+
+Acesse no seu navegador:
+👉 **`http://127.0.0.1:8080`**
+
+---
+
+## 🌐 Extração e Atualização de Lore da Web
+
+Caso deseje atualizar as biografias ou baixar novas histórias do Universo:
+
+```bash
+# Extrair todas as biografias de campeões em português:
 uv run python src/lore_extractor.py --champions --lang pt_BR
 
 # Extrair um campeão específico (ex: Viego ou Jinx):
 uv run python src/lore_extractor.py --champion Viego --lang pt_BR
-```
 
-### 2. Extrair Lore das Regiões (League Wiki):
-```powershell
+# Extrair a lore detalhada das regiões:
 uv run python src/lore_extractor.py --regions
-```
 
-### 3. Extrair Contos do Universo (League Wiki):
-```powershell
-# Extrai até 5 contos por região:
-uv run python src/lore_extractor.py --stories --limit-stories 5
-```
+# Extrair contos oficiais arquivados:
+uv run python src/lore_extractor.py --stories --limit-stories 10
 
-### 4. Extração Completa:
-```powershell
+# Executar extração completa de uma vez:
 uv run python src/lore_extractor.py --all
 ```
 
 ---
 
-## 📖 Como Usar o RAG
+## 🐳 Executando com Docker
 
-### Opção 1: Via Notebook Jupyter (`runeterra_rag_v2.ipynb`)
-Abra o notebook no VS Code / Cursor / Jupyter ou importe para o Google Colab.
-O notebook agora detecta automaticamente se está no ambiente local ou no Colab, localiza os livros na pasta `data/books/` e ingere os arquivos da web de `data/web_lore/`.
+Se preferir rodar isolado em contêiner:
 
-### Opção 2: Interface Web Gradio (`src/app.py`)
-Inicie a aplicação com:
-```powershell
-uv run python src/app.py
+```bash
+# Construir e rodar com docker-compose:
+docker compose up --build
+
+# Ou construir a imagem Docker diretamente:
+docker build -t lol-lore-rag .
+docker run -p 8080:8080 --env-file .env lol-lore-rag
 ```
-Acesse a URL indicada (ex: `http://127.0.0.1:7860`) no navegador para fazer perguntas com histórico e citações detalhadas!
+
+Acesse em `http://localhost:8080`.
+
+---
+
+## ⚖️ Licença e Aviso Legal
+
+Distribuído sob a licença [MIT](LICENSE).
+
+*Aviso de Isenção: Este é um projeto independente de código aberto desenvolvido para fins educacionais e de pesquisa em Inteligência Artificial. Não é patrocinado, endossado ou afiliado à Riot Games, Inc. League of Legends e Runeterra são marcas registradas da Riot Games, Inc.*
